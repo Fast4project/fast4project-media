@@ -1,6 +1,6 @@
 {
- "diperbarui": "2026-11-11T11:40:00+07:00",
- "jalan": "10.00",
+ "diperbarui": "2026-11-11T15:00:00+07:00",
+ "jalan": "15.00",
  "item": [],
  "pertanyaan": [
   {
@@ -13,5 +13,5 @@
    "dipakai_sementara": "opsi 1"
   }
  ],
- "catatan": "Run 10.00 berjalan 11.34 WIB. Rabu 11 Nov: bukan hari carousel (Selasa/Jumat) dan bukan hari Reels pada pola 4 per minggu, jadi tidak ada produksi. Status lama kosong, tidak ada yang perlu dibersihkan. Berikutnya: Reels Kamis 12 Nov 19.30 dikerjakan run 10.00 dan 15.00 besok; carousel Jumat 13 Nov 12.00 (uji pertama unggah lewat GitHub)."
+ "catatan": "Run 15.00 Rabu 11 Nov: tidak ada produksi. Rabu bukan hari carousel (Selasa/Jumat) dan bukan hari Reels pada pola 4 per minggu (dipakai sementara, Felix belum menjawab). Status tidak punya item siap-unggah, jadi tidak ada yang dibersihkan dan Windsor tidak ditarik. Berikutnya: Reels Kamis 12 Nov 19.30 (run 10.00 dan 15.00 besok). Catatan risiko: carousel Jumat 13 Nov 12.00 hanya punya run 10.00 Jumat untuk produksi; topik dan isi 8 halaman sebaiknya sudah disiapkan Manager cloud slot 15.40 Kamis supaya run 10.00 Jumat tinggal render, QC, dan siapkan unggah."
 }
