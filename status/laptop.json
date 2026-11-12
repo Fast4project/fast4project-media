@@ -1,6 +1,6 @@
 {
- "diperbarui": "2026-11-12T10:30:00+07:00",
- "jalan": "10.00",
+ "diperbarui": "2026-11-12T14:34:00+07:00",
+ "jalan": "lanjut vo-reels 12-nov",
  "item": [
   {
    "format": "reels",
@@ -10,8 +10,8 @@
    "judul": "Jangan kirim dokumen yang salah",
    "caption": "",
    "urls": [],
-   "qc": "Gerbang sinkron tayang: BLOKIR otomatis. Caption Instagram tanpa BLOKIR setelah penutup diganti, tetapi naskah Reels 7 Nov (bikinin-slide-besok-pagi) masih BLOKIR. Produksi belum dimulai. Detail: claude/reels-12-nov-dokumen-salah.md bagian Gerbang ulang.",
-   "alasan_pilihan": "Naskah Manager cloud 11 Nov (Ide 4B, sektor kemitraan dan franchise). Ditahan karena BLOKIR hanya bisa diluluskan Felix, dan file deck SEMBADA tidak ada di folder."
+   "qc": "butuh file video v2 dari chat. Dicek 12 Nov 14.34: reels-12-nov-v2-tanpa-audio.mp4 tidak ada di video/2026-11-12-dokumen-salah/ (folder baru dibuat, kosong). musik.wav juga tidak ada. Caption 'versi v2' tidak ada di claude/reels-12-nov-dokumen-salah.md, perlu ditempel Felix. VO belum dibuat.",
+   "alasan_pilihan": "Naskah Manager cloud 11 Nov (Ide 4B). Felix memerintahkan lanjut VO lewat /manager lanjut vo-reels 12-nov; video dasar v2 dirender di cloud, narator dibuat di laptop setelah filenya ada."
   },
   {
    "format": "reels",
@@ -29,13 +29,13 @@
  ],
  "pertanyaan": [
   {
-   "teks": "Reels Kamis 12 Nov 'Jangan kirim dokumen yang salah' kena BLOKIR otomatis karena kata-katanya mirip naskah Reels 7 Nov (lima pertanyaan sebelum bikin slide). Isi intinya beda: tiga jenis dokumen menjawab tiga pertanyaan berbeda. Lanjut?",
+   "teks": "Reels Kamis 12 Nov: laptop siap membuat narator, tetapi file video dasar belum ada di laptop. Taruh reels-12-nov-v2-tanpa-audio.mp4 (dan musik.wav kalau ada) di video/2026-11-12-dokumen-salah/, lalu tempel lagi /manager lanjut vo-reels 12-nov beserta caption v2.",
    "opsi": [
-    "Luluskan, produksi di run 15.00 (Rekomendasi: isi inti belum pernah tayang, penutup yang sama sudah diganti; tempel /manager lanjut reels dokumen-salah lulus-gerbang sebelum 15.00)",
-    "Ganti topik: Manager pilih ide AMAN lain untuk Kamis",
+    "Sudah ditaruh, lanjutkan VO (Rekomendasi: tayang 19.30 masih terkejar)",
+    "Tayangkan v2 tanpa narator",
     "Lewati Reels Kamis, fokus Reels Jumat"
    ],
-   "dipakai_sementara": "tidak ada (menurunkan BLOKIR bukan keputusan Manager; tanpa jawaban, Reels Kamis terlewat)"
+   "dipakai_sementara": "tidak ada (tanpa file video, VO tidak bisa digabung)"
   },
   {
    "teks": "Berapa jam per minggu yang bisa kamu pakai untuk produksi? Ini menentukan Reels 4 atau 6 per minggu selama sprint (jadwal 6c).",
@@ -47,5 +47,5 @@
    "dipakai_sementara": "opsi 1"
   }
  ],
- "catatan": "Run 10.00 Kamis 12 Nov. Windsor: 8 posting 14 Okt-12 Nov, tidak ada posting 11 Nov. Reels 10 Nov terverifikasi tayang 19.27 WIB, repo dibersihkan, log eksperimen diisi (R5, C3). Reels Kamis terhambat di gerbang sinkron tayang (BLOKIR, butuh Felix). Hambatan lain bila jalan: deck SEMBADA tidak ada di folder, adegan company profile akan memakai ilustrasi berlabel, bukan slide. Node tidak bisa dijalankan di mode terjadwal (izin), render memakai Python Playwright. Berikutnya: run 15.00 produksi Reels bila Felix meluluskan; carousel Jumat 13 Nov 12.00 butuh isi dari Manager cloud 15.40."
+ "catatan": "14.34 Kamis 12 Nov, /manager lanjut vo-reels 12-nov: berhenti di langkah awal, butuh file video v2 dari chat. Pertanyaan BLOKIR pagi ini diganti karena Felix sudah memerintahkan lanjut dan video dasar dirender di cloud. Catatan run 10.00 di bawah ini masih berlaku untuk hal lain. || Run 10.00 Kamis 12 Nov. Windsor: 8 posting 14 Okt-12 Nov, tidak ada posting 11 Nov. Reels 10 Nov terverifikasi tayang 19.27 WIB, repo dibersihkan, log eksperimen diisi (R5, C3). Reels Kamis terhambat di gerbang sinkron tayang (BLOKIR, butuh Felix). Hambatan lain bila jalan: deck SEMBADA tidak ada di folder, adegan company profile akan memakai ilustrasi berlabel, bukan slide. Node tidak bisa dijalankan di mode terjadwal (izin), render memakai Python Playwright. Berikutnya: run 15.00 produksi Reels bila Felix meluluskan; carousel Jumat 13 Nov 12.00 butuh isi dari Manager cloud 15.40."
 }
