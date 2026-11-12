@@ -1,16 +1,29 @@
 {
- "diperbarui": "2026-11-12T15:37:00+07:00",
- "jalan": "15.00",
+ "diperbarui": "2026-11-12T15:52:00+07:00",
+ "jalan": "lanjut vo-reels 12-nov",
  "item": [
   {
    "format": "reels",
-   "nama": "dokumen-salah",
+   "nama": "traksi-bukan-follower",
    "jam_tayang": "2026-11-12 19:30",
+   "status": "siap-unggah",
+   "judul": "Traksi itu bukan jumlah follower",
+   "caption": "",
+   "urls": [
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/cd68f0bc301a495cee2d77f507bf3b02fa24476f/reels-12-nov-traksi/reels-12-nov-traksi-v2-narator.mp4"
+   ],
+   "qc": "Video dari cloud (tema A, 34,0 dtk) + narator Liam (ElevenLabs) dibuat di laptop, 7 baris mengikuti teks layar. Terukur: 7/7 baris mulai tepat di detik adegan (selisih 0,00 dtk), tempo asli tanpa dipercepat, hasil akhir -14,9 LUFS, true peak -1,9 dB, musik bawaan 12-15 dB di bawah narator. cek-format.py 10/11: V1-V4 lolos; GAGAL F2 durasi 34,0 dtk (patokan 22-28), berasal dari video cloud. Frame di tengah tiap kalimat dilihat dan cocok. Suara Liam dinyatakan pas oleh Felix 12 Nov; hasil gabungan ini belum didengar Felix. CAPTION KOSONG: caption persis Reels Traksi tidak ada di laptop, ambil dari Manager cloud sebelum menanyakan 'Unggah sekarang'.",
+   "alasan_pilihan": "Dimajukan dari Jumat atas pilihan Felix 12 Nov 14.10 (papan-skor-reels). Felix meminta naskah narator baru untuk video ini di chat laptop."
+  },
+  {
+   "format": "reels",
+   "nama": "dokumen-salah",
+   "jam_tayang": "",
    "status": "terhambat",
    "judul": "Jangan kirim dokumen yang salah",
    "caption": "",
    "urls": [],
-   "qc": "15.37: Felix menolak suara Ardi (kaku) dan memilih Liam (ElevenLabs, suara yang sama dengan Reels 7 dan 10 Nov). Audio narator Liam jadi dan lolos ukur: 8/8 baris muat, selisih mulai maks 0,21 dtk, -14,3 LUFS, true peak -1,9 dB, rentang loudness 3,7 LU. Belum didengar Felix. Tanpa musik.wav ada dua celah sunyi 1,6-2 dtk (detik 15,2-17,2 dan 20,6-22,2). Sebelumnya, run 15.00 (suara Ardi, tidak dipakai lagi): audio versi pangkas lolos ukur. Masih terhambat: file reels-12-nov-v2-tanpa-audio.mp4 tidak ada di video/2026-11-12-dokumen-salah/ (dicek 15.00), caption v2 belum ditempel. Begitu file ada, gabung + QC sekitar 5 menit.",
+   "qc": "Tidak tayang 12 Nov: Reels Kamis diganti 'Traksi itu bukan jumlah follower' (pilihan Felix). Audio narator Liam untuk naskah ini sudah jadi dan tersimpan di video/2026-11-12-dokumen-salah/vo-liam/; video dasar v2 belum pernah sampai di laptop.",
    "alasan_pilihan": "Naskah Manager cloud 11 Nov (Ide 4B). Versi pangkas dipakai karena naskah asli terukur tidak muat setelah 2 putaran teknis, dan penutup 'aku bales satu-satu' membuat narator berjanji seperti orang."
   },
   {
@@ -29,15 +42,6 @@
  ],
  "pertanyaan": [
   {
-   "teks": "Reels Kamis 12 Nov: audio narator sudah jadi, tinggal digabung. File video dasar v2 belum ada di laptop. Taruh reels-12-nov-v2-tanpa-audio.mp4 (dan musik.wav kalau ada) di video/2026-11-12-dokumen-salah/, lalu tempel /manager lanjut vo-reels 12-nov beserta caption v2.",
-   "opsi": [
-    "Sudah ditaruh, lanjutkan gabung VO (Rekomendasi: 19.30 masih terkejar, kerja laptop sekitar 5 menit)",
-    "Tayangkan v2 tanpa narator",
-    "Lewati Reels Kamis, fokus Reels Jumat"
-   ],
-   "dipakai_sementara": "tidak ada (tanpa file video, VO tidak bisa digabung)"
-  },
-  {
    "teks": "Berapa jam per minggu yang bisa kamu pakai untuk produksi? Ini menentukan Reels 4 atau 6 per minggu selama sprint (jadwal 6c).",
    "opsi": [
     "Kurang dari 6 jam: Reels 4 per minggu, Selasa/Kamis/Jumat/Sabtu (Rekomendasi: sesuai aturan bawaan sprint)",
@@ -47,5 +51,5 @@
    "dipakai_sementara": "opsi 1"
   }
  ],
- "catatan": "15.37: koreksi Felix, narator wajib ekspresif (alur/video.md 3b), dicatat di claude/aturan-permanen.md. Mesin suara edge-tts diganti ElevenLabs (Liam) atas pilihan Felix; kuota akun gratis terpakai 520 huruf, sisa sekitar 1.778 huruf (cukup untuk sekitar 3 Reels tanpa pengulangan). alat/vo-reels.py mendukung dua mesin. || 15.15: Felix memilih naskah VO versi pangkas di chat laptop (pertanyaan itu dihapus dari daftar). File video v2 dicek lagi 15.15, masih belum ada. || Run 15.00 Kamis 12 Nov: Reels Kamis tetap terhambat (file video dasar dan caption v2 belum ada); audio narator versi pangkas disiapkan dan lolos ukur supaya sisa kerja tinggal gabung + QC. Tidak ada item siap-unggah untuk dibersihkan, jadi Windsor tidak dipanggil. Berikutnya: run 10.00 Jumat 13 Nov carousel 12.00 (butuh isi dari Manager cloud 15.40 hari ini, kalau tidak laptop memilih topik AMAN sendiri) lalu mulai Reels Jumat."
+ "catatan": "15.52: Reels Kamis = Traksi, siap-unggah dengan narator Liam (kuota ElevenLabs terpakai 383 huruf, sisa sekitar 1.395 dari 10.000). Caption belum ada di laptop. alat/vo-reels.py: dua mesin suara, musik turun otomatis saat narator bicara. || 15.37: koreksi Felix, narator wajib ekspresif (alur/video.md 3b), dicatat di claude/aturan-permanen.md. Mesin suara edge-tts diganti ElevenLabs (Liam) atas pilihan Felix; kuota akun gratis terpakai 520 huruf, sisa sekitar 1.778 huruf (cukup untuk sekitar 3 Reels tanpa pengulangan). alat/vo-reels.py mendukung dua mesin. || 15.15: Felix memilih naskah VO versi pangkas di chat laptop (pertanyaan itu dihapus dari daftar). File video v2 dicek lagi 15.15, masih belum ada. || Run 15.00 Kamis 12 Nov: Reels Kamis tetap terhambat (file video dasar dan caption v2 belum ada); audio narator versi pangkas disiapkan dan lolos ukur supaya sisa kerja tinggal gabung + QC. Tidak ada item siap-unggah untuk dibersihkan, jadi Windsor tidak dipanggil. Berikutnya: run 10.00 Jumat 13 Nov carousel 12.00 (butuh isi dari Manager cloud 15.40 hari ini, kalau tidak laptop memilih topik AMAN sendiri) lalu mulai Reels Jumat."
 }
