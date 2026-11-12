@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-12T15:10:00+07:00",
+ "diperbarui": "2026-11-12T15:15:00+07:00",
  "jalan": "15.00",
  "item": [
   {
@@ -38,15 +38,6 @@
    "dipakai_sementara": "tidak ada (tanpa file video, VO tidak bisa digabung)"
   },
   {
-   "teks": "Naskah narator Reels Kamis dipangkas supaya muat: baris 2 'Dia minta profilnya dulu...', baris 6 tanpa 'Nah,', baris 8 tanpa 'aku bales satu-satu'. Pakai versi ini?",
-   "opsi": [
-    "Pakai versi pangkas (Rekomendasi: semua baris muat, narator tidak berjanji seperti orang)",
-    "Pakai naskah asli dengan rate lebih cepat (3 baris tetap melewati slot)",
-    "Tulis ulang baris 8 sendiri"
-   ],
-   "dipakai_sementara": "opsi 1"
-  },
-  {
    "teks": "Berapa jam per minggu yang bisa kamu pakai untuk produksi? Ini menentukan Reels 4 atau 6 per minggu selama sprint (jadwal 6c).",
    "opsi": [
     "Kurang dari 6 jam: Reels 4 per minggu, Selasa/Kamis/Jumat/Sabtu (Rekomendasi: sesuai aturan bawaan sprint)",
@@ -56,5 +47,5 @@
    "dipakai_sementara": "opsi 1"
   }
  ],
- "catatan": "Run 15.00 Kamis 12 Nov: Reels Kamis tetap terhambat (file video dasar dan caption v2 belum ada); audio narator versi pangkas disiapkan dan lolos ukur supaya sisa kerja tinggal gabung + QC. Tidak ada item siap-unggah untuk dibersihkan, jadi Windsor tidak dipanggil. Berikutnya: run 10.00 Jumat 13 Nov carousel 12.00 (butuh isi dari Manager cloud 15.40 hari ini, kalau tidak laptop memilih topik AMAN sendiri) lalu mulai Reels Jumat."
+ "catatan": "15.15: Felix memilih naskah VO versi pangkas di chat laptop (pertanyaan itu dihapus dari daftar). File video v2 dicek lagi 15.15, masih belum ada. || Run 15.00 Kamis 12 Nov: Reels Kamis tetap terhambat (file video dasar dan caption v2 belum ada); audio narator versi pangkas disiapkan dan lolos ukur supaya sisa kerja tinggal gabung + QC. Tidak ada item siap-unggah untuk dibersihkan, jadi Windsor tidak dipanggil. Berikutnya: run 10.00 Jumat 13 Nov carousel 12.00 (butuh isi dari Manager cloud 15.40 hari ini, kalau tidak laptop memilih topik AMAN sendiri) lalu mulai Reels Jumat."
 }
