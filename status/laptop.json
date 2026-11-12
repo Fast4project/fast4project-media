@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-12T16:06:00+07:00",
+ "diperbarui": "2026-11-12T17:28:00+07:00",
  "jalan": "lanjut vo-reels 12-nov",
  "item": [
   {
@@ -10,9 +10,9 @@
    "judul": "Traksi itu bukan jumlah follower",
    "caption": "",
    "urls": [
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/b8da012dfc0f8a6683869c64a3882f196a63a6e0/reels-12-nov-traksi/reels-12-nov-traksi-v3-narator.mp4"
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/22e2ee2627ded4191f90b8bace1b8ef7603e28da/reels-12-nov-traksi/reels-12-nov-traksi-v4.mp4"
    ],
-   "qc": "v3 (16:06): narator Liam ditulis ulang atas koreksi Felix (hook situasi, alur cerita, tanpa istilah, jeda kosong diisi penjelasan). Terukur: 7/7 baris muat di tempo asli, selisih mulai maks 0,05 dtk, -14,4 LUFS, true peak -1,9 dB. cek-format.py 10/11: V1-V4 lolos; GAGAL F2 durasi 34,0 dtk (patokan 22-28), dari video cloud. Gambar video tidak diubah (sumbernya di cloud). Belum didengar Felix. CAPTION KOSONG: caption persis tidak ada di laptop, ambil dari Manager cloud sebelum 'Unggah sekarang'.",
+   "qc": "v4 (17:28): gambar dirender ulang di laptop atas koreksi Felix (hook lebih nendang, alur cerita, tanpa istilah, adegan tidak lambat). Tema A Kolase Kertas Hidup, 8 adegan mengikuti kata narator Liam v3 (klip tersimpan, tanpa kuota baru); teks layar tanpa istilah (BERAPA / SELAMA KAPAN / DATA DARI MANA). Durasi 27,7 dtk. ukur-retensi.py 6/6 lolos, cek-format.py 11/11 lolos (true peak -1,9 dB, LRA 3,7 LU). Lembar frame tiap 0,5 dtk dilihat: kata puncak tampil +-1 dtk, nol teks terpotong. Musik dari video cloud, whoosh lama diredam, SFX baru di titik adegan. Belum didengar Felix. CAPTION KOSONG: ambil caption Traksi dari Manager cloud sebelum 'Unggah sekarang'.",
    "alasan_pilihan": "Dimajukan dari Jumat atas pilihan Felix 12 Nov 14.10 (papan-skor-reels). Felix meminta naskah narator baru untuk video ini di chat laptop."
   },
   {
@@ -51,5 +51,5 @@
    "dipakai_sementara": "opsi 1"
   }
  ],
- "catatan": "16.06: Reels Traksi v3 narator menggantikan v2 di repo media (v2 masih ada di folder yang sama, tidak dipakai). Kuota ElevenLabs sisa sekitar 917 dari 10.000 huruf. || 15.52: Reels Kamis = Traksi, siap-unggah dengan narator Liam (kuota ElevenLabs terpakai 383 huruf, sisa sekitar 1.395 dari 10.000). Caption belum ada di laptop. alat/vo-reels.py: dua mesin suara, musik turun otomatis saat narator bicara. || 15.37: koreksi Felix, narator wajib ekspresif (alur/video.md 3b), dicatat di claude/aturan-permanen.md. Mesin suara edge-tts diganti ElevenLabs (Liam) atas pilihan Felix; kuota akun gratis terpakai 520 huruf, sisa sekitar 1.778 huruf (cukup untuk sekitar 3 Reels tanpa pengulangan). alat/vo-reels.py mendukung dua mesin. || 15.15: Felix memilih naskah VO versi pangkas di chat laptop (pertanyaan itu dihapus dari daftar). File video v2 dicek lagi 15.15, masih belum ada. || Run 15.00 Kamis 12 Nov: Reels Kamis tetap terhambat (file video dasar dan caption v2 belum ada); audio narator versi pangkas disiapkan dan lolos ukur supaya sisa kerja tinggal gabung + QC. Tidak ada item siap-unggah untuk dibersihkan, jadi Windsor tidak dipanggil. Berikutnya: run 10.00 Jumat 13 Nov carousel 12.00 (butuh isi dari Manager cloud 15.40 hari ini, kalau tidak laptop memilih topik AMAN sendiri) lalu mulai Reels Jumat."
+ "catatan": "17.28: Reels Traksi v4 (render ulang gambar di laptop) menggantikan v3 di repo media. Alat baru: alat/gaya-blend/render_adegan.py (render adegan.html jadi MP4 lewat Python Playwright). || 16.06: Reels Traksi v3 narator menggantikan v2 di repo media (v2 masih ada di folder yang sama, tidak dipakai). Kuota ElevenLabs sisa sekitar 917 dari 10.000 huruf. || 15.52: Reels Kamis = Traksi, siap-unggah dengan narator Liam (kuota ElevenLabs terpakai 383 huruf, sisa sekitar 1.395 dari 10.000). Caption belum ada di laptop. alat/vo-reels.py: dua mesin suara, musik turun otomatis saat narator bicara. || 15.37: koreksi Felix, narator wajib ekspresif (alur/video.md 3b), dicatat di claude/aturan-permanen.md. Mesin suara edge-tts diganti ElevenLabs (Liam) atas pilihan Felix; kuota akun gratis terpakai 520 huruf, sisa sekitar 1.778 huruf (cukup untuk sekitar 3 Reels tanpa pengulangan). alat/vo-reels.py mendukung dua mesin. || 15.15: Felix memilih naskah VO versi pangkas di chat laptop (pertanyaan itu dihapus dari daftar). File video v2 dicek lagi 15.15, masih belum ada. || Run 15.00 Kamis 12 Nov: Reels Kamis tetap terhambat (file video dasar dan caption v2 belum ada); audio narator versi pangkas disiapkan dan lolos ukur supaya sisa kerja tinggal gabung + QC. Tidak ada item siap-unggah untuk dibersihkan, jadi Windsor tidak dipanggil. Berikutnya: run 10.00 Jumat 13 Nov carousel 12.00 (butuh isi dari Manager cloud 15.40 hari ini, kalau tidak laptop memilih topik AMAN sendiri) lalu mulai Reels Jumat."
 }
