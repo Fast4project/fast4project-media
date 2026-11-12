@@ -1,6 +1,6 @@
 {
- "diperbarui": "2026-11-12T14:34:00+07:00",
- "jalan": "lanjut vo-reels 12-nov",
+ "diperbarui": "2026-11-12T15:10:00+07:00",
+ "jalan": "15.00",
  "item": [
   {
    "format": "reels",
@@ -10,8 +10,8 @@
    "judul": "Jangan kirim dokumen yang salah",
    "caption": "",
    "urls": [],
-   "qc": "butuh file video v2 dari chat. Dicek 12 Nov 14.34: reels-12-nov-v2-tanpa-audio.mp4 tidak ada di video/2026-11-12-dokumen-salah/ (folder baru dibuat, kosong). musik.wav juga tidak ada. Caption 'versi v2' tidak ada di claude/reels-12-nov-dokumen-salah.md, perlu ditempel Felix. VO belum dibuat.",
-   "alasan_pilihan": "Naskah Manager cloud 11 Nov (Ide 4B). Felix memerintahkan lanjut VO lewat /manager lanjut vo-reels 12-nov; video dasar v2 dirender di cloud, narator dibuat di laptop setelah filenya ada."
+   "qc": "Run 15.00: audio narator versi pangkas jadi dan lolos ukur (8/8 baris muat, kata utuh, selisih mulai maks 0,11 dtk, -14,0 LUFS, true peak -3,0 dB). Masih terhambat: file reels-12-nov-v2-tanpa-audio.mp4 tidak ada di video/2026-11-12-dokumen-salah/ (dicek 15.00), caption v2 belum ditempel. Begitu file ada, gabung + QC sekitar 5 menit.",
+   "alasan_pilihan": "Naskah Manager cloud 11 Nov (Ide 4B). Versi pangkas dipakai karena naskah asli terukur tidak muat setelah 2 putaran teknis, dan penutup 'aku bales satu-satu' membuat narator berjanji seperti orang."
   },
   {
    "format": "reels",
@@ -29,13 +29,22 @@
  ],
  "pertanyaan": [
   {
-   "teks": "Reels Kamis 12 Nov: laptop siap membuat narator, tetapi file video dasar belum ada di laptop. Taruh reels-12-nov-v2-tanpa-audio.mp4 (dan musik.wav kalau ada) di video/2026-11-12-dokumen-salah/, lalu tempel lagi /manager lanjut vo-reels 12-nov beserta caption v2.",
+   "teks": "Reels Kamis 12 Nov: audio narator sudah jadi, tinggal digabung. File video dasar v2 belum ada di laptop. Taruh reels-12-nov-v2-tanpa-audio.mp4 (dan musik.wav kalau ada) di video/2026-11-12-dokumen-salah/, lalu tempel /manager lanjut vo-reels 12-nov beserta caption v2.",
    "opsi": [
-    "Sudah ditaruh, lanjutkan VO (Rekomendasi: tayang 19.30 masih terkejar)",
+    "Sudah ditaruh, lanjutkan gabung VO (Rekomendasi: 19.30 masih terkejar, kerja laptop sekitar 5 menit)",
     "Tayangkan v2 tanpa narator",
     "Lewati Reels Kamis, fokus Reels Jumat"
    ],
    "dipakai_sementara": "tidak ada (tanpa file video, VO tidak bisa digabung)"
+  },
+  {
+   "teks": "Naskah narator Reels Kamis dipangkas supaya muat: baris 2 'Dia minta profilnya dulu...', baris 6 tanpa 'Nah,', baris 8 tanpa 'aku bales satu-satu'. Pakai versi ini?",
+   "opsi": [
+    "Pakai versi pangkas (Rekomendasi: semua baris muat, narator tidak berjanji seperti orang)",
+    "Pakai naskah asli dengan rate lebih cepat (3 baris tetap melewati slot)",
+    "Tulis ulang baris 8 sendiri"
+   ],
+   "dipakai_sementara": "opsi 1"
   },
   {
    "teks": "Berapa jam per minggu yang bisa kamu pakai untuk produksi? Ini menentukan Reels 4 atau 6 per minggu selama sprint (jadwal 6c).",
@@ -47,5 +56,5 @@
    "dipakai_sementara": "opsi 1"
   }
  ],
- "catatan": "14.34 Kamis 12 Nov, /manager lanjut vo-reels 12-nov: berhenti di langkah awal, butuh file video v2 dari chat. Pertanyaan BLOKIR pagi ini diganti karena Felix sudah memerintahkan lanjut dan video dasar dirender di cloud. Catatan run 10.00 di bawah ini masih berlaku untuk hal lain. || Run 10.00 Kamis 12 Nov. Windsor: 8 posting 14 Okt-12 Nov, tidak ada posting 11 Nov. Reels 10 Nov terverifikasi tayang 19.27 WIB, repo dibersihkan, log eksperimen diisi (R5, C3). Reels Kamis terhambat di gerbang sinkron tayang (BLOKIR, butuh Felix). Hambatan lain bila jalan: deck SEMBADA tidak ada di folder, adegan company profile akan memakai ilustrasi berlabel, bukan slide. Node tidak bisa dijalankan di mode terjadwal (izin), render memakai Python Playwright. Berikutnya: run 15.00 produksi Reels bila Felix meluluskan; carousel Jumat 13 Nov 12.00 butuh isi dari Manager cloud 15.40."
+ "catatan": "Run 15.00 Kamis 12 Nov: Reels Kamis tetap terhambat (file video dasar dan caption v2 belum ada); audio narator versi pangkas disiapkan dan lolos ukur supaya sisa kerja tinggal gabung + QC. Tidak ada item siap-unggah untuk dibersihkan, jadi Windsor tidak dipanggil. Berikutnya: run 10.00 Jumat 13 Nov carousel 12.00 (butuh isi dari Manager cloud 15.40 hari ini, kalau tidak laptop memilih topik AMAN sendiri) lalu mulai Reels Jumat."
 }
