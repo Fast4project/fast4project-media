@@ -1,17 +1,51 @@
 {
- "diperbarui": "2026-11-11T15:00:00+07:00",
- "jalan": "15.00",
- "item": [],
+ "diperbarui": "2026-11-12T10:30:00+07:00",
+ "jalan": "10.00",
+ "item": [
+  {
+   "format": "reels",
+   "nama": "dokumen-salah",
+   "jam_tayang": "2026-11-12 19:30",
+   "status": "terhambat",
+   "judul": "Jangan kirim dokumen yang salah",
+   "caption": "",
+   "urls": [],
+   "qc": "Gerbang sinkron tayang: BLOKIR otomatis. Caption Instagram tanpa BLOKIR setelah penutup diganti, tetapi naskah Reels 7 Nov (bikinin-slide-besok-pagi) masih BLOKIR. Produksi belum dimulai. Detail: claude/reels-12-nov-dokumen-salah.md bagian Gerbang ulang.",
+   "alasan_pilihan": "Naskah Manager cloud 11 Nov (Ide 4B, sektor kemitraan dan franchise). Ditahan karena BLOKIR hanya bisa diluluskan Felix, dan file deck SEMBADA tidak ada di folder."
+  },
+  {
+   "format": "reels",
+   "nama": "warna-satu-arti",
+   "jam_tayang": "2026-11-10 19:30",
+   "status": "tayang",
+   "judul": "Satu warna, satu arti",
+   "caption": "",
+   "urls": [
+    "https://www.instagram.com/reel/Dfj502-jVZ1/"
+   ],
+   "qc": "Tayang terverifikasi lewat Windsor 12 Nov; file di repo media dihapus.",
+   "alasan_pilihan": "Pembersihan butir 5."
+  }
+ ],
  "pertanyaan": [
+  {
+   "teks": "Reels Kamis 12 Nov 'Jangan kirim dokumen yang salah' kena BLOKIR otomatis karena kata-katanya mirip naskah Reels 7 Nov (lima pertanyaan sebelum bikin slide). Isi intinya beda: tiga jenis dokumen menjawab tiga pertanyaan berbeda. Lanjut?",
+   "opsi": [
+    "Luluskan, produksi di run 15.00 (Rekomendasi: isi inti belum pernah tayang, penutup yang sama sudah diganti; tempel /manager lanjut reels dokumen-salah lulus-gerbang sebelum 15.00)",
+    "Ganti topik: Manager pilih ide AMAN lain untuk Kamis",
+    "Lewati Reels Kamis, fokus Reels Jumat"
+   ],
+   "dipakai_sementara": "tidak ada (menurunkan BLOKIR bukan keputusan Manager; tanpa jawaban, Reels Kamis terlewat)"
+  },
   {
    "teks": "Berapa jam per minggu yang bisa kamu pakai untuk produksi? Ini menentukan Reels 4 atau 6 per minggu selama sprint (jadwal 6c).",
    "opsi": [
-    "Kurang dari 6 jam: Reels 4 per minggu, Selasa/Kamis/Jumat/Sabtu (Rekomendasi: sesuai aturan bawaan sprint, beban produksi tetap ringan sementara outreach dikejar)",
+    "Kurang dari 6 jam: Reels 4 per minggu, Selasa/Kamis/Jumat/Sabtu (Rekomendasi: sesuai aturan bawaan sprint)",
     "6 jam atau lebih: Reels 6 per minggu, Senin-Sabtu",
     "Hentikan sprint, kembali ke Mode 1"
    ],
    "dipakai_sementara": "opsi 1"
   }
  ],
- "catatan": "Run 15.00 Rabu 11 Nov: tidak ada produksi. Rabu bukan hari carousel (Selasa/Jumat) dan bukan hari Reels pada pola 4 per minggu (dipakai sementara, Felix belum menjawab). Status tidak punya item siap-unggah, jadi tidak ada yang dibersihkan dan Windsor tidak ditarik. Berikutnya: Reels Kamis 12 Nov 19.30 (run 10.00 dan 15.00 besok). Catatan risiko: carousel Jumat 13 Nov 12.00 hanya punya run 10.00 Jumat untuk produksi; topik dan isi 8 halaman sebaiknya sudah disiapkan Manager cloud slot 15.40 Kamis supaya run 10.00 Jumat tinggal render, QC, dan siapkan unggah."
+ "catatan": "Run 10.00 Kamis 12 Nov. Windsor: 8 posting 14 Okt-12 Nov, tidak ada posting 11 Nov. Reels 10 Nov terverifikasi tayang 19.27 WIB, repo dibersihkan, log eksperimen diisi (R5, C3). Reels Kamis terhambat di gerbang sinkron tayang (BLOKIR, butuh Felix). Hambatan lain bila jalan: deck SEMBADA tidak ada di folder, adegan company profile akan memakai ilustrasi berlabel, bukan slide. Node tidak bisa dijalankan di mode terjadwal (izin), render memakai Python Playwright. Berikutnya: run 15.00 produksi Reels bila Felix meluluskan; carousel Jumat 13 Nov 12.00 butuh isi dari Manager cloud 15.40."
 }
