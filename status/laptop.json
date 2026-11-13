@@ -1,19 +1,58 @@
 {
- "diperbarui": "2026-11-12T17:41:00+07:00",
- "jalan": "lanjut vo-reels 12-nov",
+ "diperbarui": "2026-11-13T16:20:00+07:00",
+ "jalan": "15.00",
  "item": [
+  {
+   "format": "reels",
+   "nama": "kas-berapa-bulan",
+   "antrian_id": "",
+   "ganti_dari": "2026-11-12-reels-dokumen-salah",
+   "jam_tayang": "2026-11-13 19:30",
+   "status": "siap-unggah",
+   "judul": "Kasmu cukup berapa bulan?",
+   "caption": "Investor nanya: kasmu cukup berapa bulan? Jawabannya cuma satu pembagian.\n\nUang di kas dibagi pengeluaran sebulan. Misalnya kas 30 juta, keluar 10 juta sebulan. Berarti usahamu tahan 3 bulan tanpa pemasukan baru. Investor menyebutnya runway.\n\nTulis angka ini di dekmu, jangan tunggu ditanya.\n\nSemua angka di video ini ilustratif.\n\nSimpan, buka lagi sebelum kamu pitching.\n\nKamu sudah tahu angkamu? Tulis SUDAH atau BELUM di komentar.\n\n#pitchdeck #umkm #investor #proposalkemitraan #presentasi",
+   "urls": [
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/65d4d5cee422a8f22daae7ea7118aea44b1cca82/reels-13-nov-kas/reels-13-nov-kas-v4.mp4"
+   ],
+   "cover": {
+    "thumb_offset": 3600
+   },
+   "qc": "v4, 25,8 dtk. ukur-retensi 6/6 (G1 1,23x, frame diam terpanjang 0,7 dtk), cek-format 11/11 (true peak -2,1 dB, LRA 3,7 LU). Lembar frame dilihat: teks utuh, di luar zona UI. Gerbang sinkron tayang AMAN setelah caption dibaca (alat menandai kata umum saja). [CEK KATA] lolos. Pemicu komentar: SUDAH/BELUM. Level MOFU. Tema B Malam Garis Terang (jalan dengan rekomendasi). Narator Liam, belum didengar Felix (lafal 'runway' dan musik perlu telinga).",
+   "alasan_pilihan": "Antrian cloud kosong (404) dan 'dokumen salah' masih BLOKIR, jadi Manager laptop menulis naskah sendiri: istilah investor dari bank ide Ide 4A, satu istilah yang belum pernah tayang, cocok dengan sektor minggu ini (usaha yang menyiapkan pitching/kemitraan)."
+  },
+  {
+   "format": "carousel",
+   "nama": "cek-proposal-mitra",
+   "antrian_id": "",
+   "jam_tayang": "2026-11-17 12:00",
+   "status": "siap-unggah",
+   "judul": "Empat pertanyaan sebelum proposal kemitraan dikirim",
+   "caption": "Empat pertanyaan ini sebaiknya sudah terjawab sebelum proposal kemitraanmu dikirim.\n\nKamu kirim hari Senin, sampai Jumat belum dibalas, dan kamu tidak tahu pembacanya berhenti di halaman mana. Yang bisa kamu cek sendiri: angka naikmu dari berapa, uangnya dipakai untuk apa, mitramu dapat apa, dan risiko apa yang sudah kamu jaga.\n\nContoh di carousel ini aku buat sendiri untuk latihan, bukan dari usaha sungguhan. Semua angkanya ilustratif. Aku tidak bisa menjanjikan proposalmu diterima. Dengan daftar ini, pembacamu tidak perlu menebak.\n\nSimpan, lalu buka lagi saat proposalmu hampir jadi.\n\nDari empat ini, mana yang paling susah kamu tulis: 1, 2, 3, atau 4? Tulis di komentar.\n\n#proposalkemitraan #umkm #franchise #pitchdeck #proposalusaha",
+   "urls": [
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/5cb0456f0b5892946096ce95d7efd642a8800c58/carousel-13-nov-cek-proposal/halaman-1.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/b35f5b479fbfe324eb13b930735d268b7cc2b05c/carousel-13-nov-cek-proposal/halaman-2.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/bcab590f9392f6a2c7cdcba55b2ecded9f938662/carousel-13-nov-cek-proposal/halaman-3.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/721027d81a87d4f0fa849b57e6e8b99546041d71/carousel-13-nov-cek-proposal/halaman-4.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/ffd86da36b74f050f61a322c9ab94e2dcf5d8845/carousel-13-nov-cek-proposal/halaman-5.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/fce06f929230bb6bf771fc5e8fd32a13ef00929a/carousel-13-nov-cek-proposal/halaman-6.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/8e943214e21529991edc1e1cb0cc93ebe4c75694/carousel-13-nov-cek-proposal/halaman-7.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/7f5317d518febd4abcd4741eb81e3e24fb0776cc/carousel-13-nov-cek-proposal/halaman-8.jpg"
+   ],
+   "qc": "Dirender run 10.00 Jumat (status tidak sempat ditulis run itu). Lembar kontak dilihat 15.00: teks utuh. Gerbang sinkron tayang 15.00 tanpa BLOKIR. Baris pemicu komentar ditambahkan di caption run 15.00. MOFU, objektif simpan.",
+   "alasan_pilihan": "Slot carousel Jumat 12.00 sudah diisi 'Tiga Label Data' (tayang 12.22 lewat cloud), jadi carousel ini dijadikan stok Selasa 17 Nov."
+  },
   {
    "format": "reels",
    "nama": "traksi-bukan-follower",
    "jam_tayang": "2026-11-12 19:30",
-   "status": "siap-unggah",
+   "status": "tayang",
    "judul": "Traksi itu bukan jumlah follower",
    "caption": "",
    "urls": [
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/22e2ee2627ded4191f90b8bace1b8ef7603e28da/reels-12-nov-traksi/reels-12-nov-traksi-v4.mp4"
+    "https://www.instagram.com/reel/Dfo3384kidQ/"
    ],
-   "qc": "DISETUJUI FELIX (17:38): v4 dipakai untuk tayang 19.30. v4 (17:28): gambar dirender ulang di laptop atas koreksi Felix (hook lebih nendang, alur cerita, tanpa istilah, adegan tidak lambat). Tema A Kolase Kertas Hidup, 8 adegan mengikuti kata narator Liam v3 (klip tersimpan, tanpa kuota baru); teks layar tanpa istilah (BERAPA / SELAMA KAPAN / DATA DARI MANA). Durasi 27,7 dtk. ukur-retensi.py 6/6 lolos, cek-format.py 11/11 lolos (true peak -1,9 dB, LRA 3,7 LU). Lembar frame tiap 0,5 dtk dilihat: kata puncak tampil +-1 dtk, nol teks terpotong. Musik dari video cloud, whoosh lama diredam, SFX baru di titik adegan. Belum didengar Felix. CAPTION KOSONG: ambil caption Traksi dari Manager cloud sebelum 'Unggah sekarang'.",
-   "alasan_pilihan": "Dimajukan dari Jumat atas pilihan Felix 12 Nov 14.10 (papan-skor-reels). Felix meminta naskah narator baru untuk video ini di chat laptop."
+   "qc": "Tayang terverifikasi lewat Windsor 13 Nov 15.10 (12 Nov 17.46 WIB). Folder repo media sudah tidak ada.",
+   "alasan_pilihan": "Pembersihan butir 5."
   },
   {
    "format": "reels",
@@ -23,33 +62,35 @@
    "judul": "Jangan kirim dokumen yang salah",
    "caption": "",
    "urls": [],
-   "qc": "Tidak tayang 12 Nov: Reels Kamis diganti 'Traksi itu bukan jumlah follower' (pilihan Felix). Audio narator Liam untuk naskah ini sudah jadi dan tersimpan di video/2026-11-12-dokumen-salah/vo-liam/; video dasar v2 belum pernah sampai di laptop.",
-   "alasan_pilihan": "Naskah Manager cloud 11 Nov (Ide 4B). Versi pangkas dipakai karena naskah asli terukur tidak muat setelah 2 putaran teknis, dan penutup 'aku bales satu-satu' membuat narator berjanji seperti orang."
-  },
-  {
-   "format": "reels",
-   "nama": "warna-satu-arti",
-   "jam_tayang": "2026-11-10 19:30",
-   "status": "tayang",
-   "judul": "Satu warna, satu arti",
-   "caption": "",
-   "urls": [
-    "https://www.instagram.com/reel/Dfj502-jVZ1/"
-   ],
-   "qc": "Tayang terverifikasi lewat Windsor 12 Nov; file di repo media dihapus.",
-   "alasan_pilihan": "Pembersihan butir 5."
+   "qc": "Tetap BLOKIR (mirip Reels 7 Nov) dan ditunda pilihan Felix 12 Nov; video dasar tidak ada di laptop. Narator Liam tersimpan. Tidak diproduksi.",
+   "alasan_pilihan": "Naskah Manager cloud 11 Nov (Ide 4B)."
   }
  ],
+ "verifikasi": {
+  "dicek": 1,
+  "kirim": 0,
+  "tanya": 1,
+  "buang": 0
+ },
  "pertanyaan": [
   {
-   "teks": "Berapa jam per minggu yang bisa kamu pakai untuk produksi? Ini menentukan Reels 4 atau 6 per minggu selama sprint (jadwal 6c).",
+   "teks": "Carousel 'Cek 4 hal sebelum kirim proposal' sudah jadi tapi slot Jumat 12.00 terisi. Tayang kapan?",
    "opsi": [
-    "Kurang dari 6 jam: Reels 4 per minggu, Selasa/Kamis/Jumat/Sabtu (Rekomendasi: sesuai aturan bawaan sprint)",
-    "6 jam atau lebih: Reels 6 per minggu, Senin-Sabtu",
-    "Hentikan sprint, kembali ke Mode 1"
+    "Selasa 17 Nov 12.00 (Rekomendasi: slot carousel berikutnya, tanpa melebihi 1 carousel per hari)",
+    "Sabtu 14 Nov 12.00 sebagai tambahan",
+    "Batalkan"
    ],
    "dipakai_sementara": "opsi 1"
+  },
+  {
+   "teks": "1 alamat outreach hanya lolos cek MX (port 25 di jaringan rumah tertutup, Reacher tidak bisa mengecek kotak surat). Draf Gmail-nya dikirim?",
+   "opsi": [
+    "Kirim juga (Rekomendasi: alamat tertulis di situs resmi usaha, MX Gmail aktif; risiko mental kecil)",
+    "Tahan sampai dicek lewat hotspot/jaringan lain",
+    "Jalankan pasang-reacher.ps1 dulu"
+   ],
+   "dipakai_sementara": "tidak ada yang dikirim; Felix yang mengirim"
   }
  ],
- "catatan": "17.41: Felix memilih menayangkan Reels Traksi v4 lewat Manager cloud (caption ditempel di sana). Laptop tidak memanggil Windsor. || 17.38: Felix menyetujui Reels Traksi v4. Menunggu: caption dari Manager cloud, lalu 'Unggah sekarang'. || 17.28: Reels Traksi v4 (render ulang gambar di laptop) menggantikan v3 di repo media. Alat baru: alat/gaya-blend/render_adegan.py (render adegan.html jadi MP4 lewat Python Playwright). || 16.06: Reels Traksi v3 narator menggantikan v2 di repo media (v2 masih ada di folder yang sama, tidak dipakai). Kuota ElevenLabs sisa sekitar 917 dari 10.000 huruf. || 15.52: Reels Kamis = Traksi, siap-unggah dengan narator Liam (kuota ElevenLabs terpakai 383 huruf, sisa sekitar 1.395 dari 10.000). Caption belum ada di laptop. alat/vo-reels.py: dua mesin suara, musik turun otomatis saat narator bicara. || 15.37: koreksi Felix, narator wajib ekspresif (alur/video.md 3b), dicatat di claude/aturan-permanen.md. Mesin suara edge-tts diganti ElevenLabs (Liam) atas pilihan Felix; kuota akun gratis terpakai 520 huruf, sisa sekitar 1.778 huruf (cukup untuk sekitar 3 Reels tanpa pengulangan). alat/vo-reels.py mendukung dua mesin. || 15.15: Felix memilih naskah VO versi pangkas di chat laptop (pertanyaan itu dihapus dari daftar). File video v2 dicek lagi 15.15, masih belum ada. || Run 15.00 Kamis 12 Nov: Reels Kamis tetap terhambat (file video dasar dan caption v2 belum ada); audio narator versi pangkas disiapkan dan lolos ukur supaya sisa kerja tinggal gabung + QC. Tidak ada item siap-unggah untuk dibersihkan, jadi Windsor tidak dipanggil. Berikutnya: run 10.00 Jumat 13 Nov carousel 12.00 (butuh isi dari Manager cloud 15.40 hari ini, kalau tidak laptop memilih topik AMAN sendiri) lalu mulai Reels Jumat."
+ "catatan": "Run 15.00 Jum 13 Nov: run 10.00 merender carousel cek-proposal tetapi tidak menulis status. Antrian cloud 404 (antrian/antrian.json belum ada). Windsor: Traksi tayang 12 Nov 17.46, carousel Tiga Label tayang 13 Nov 12.22. Reels hari ini diproduksi laptop sendiri: 'Kasmu cukup berapa bulan?' siap-unggah 16.20, menunggu 'Unggah sekarang' di Manager cloud sebelum 19.30. Kuota ElevenLabs sisa sekitar 548 huruf (cukup untuk 1 Reels lagi). Stok Reels Sabtu 14 Nov: kosong, perlu naskah cloud 15.40 atau run 10.00 Sabtu menulis sendiri."
 }
