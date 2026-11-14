@@ -19,7 +19,7 @@
    "cover": {
     "thumb_offset": 500
    },
-   "qc": "final.mp4 1080x1920, 31,6 dtk. Video dasar Felix + VO Liam (ElevenLabs, 473 huruf) + 20 SFX + dorongan zoom halus per adegan. Hook di frame 0, VO 0,10 dtk, selisih VO maks 0,20 dtk. True peak -1,8 dBTP, -14,6 LUFS, LRA 3,9. ukur-retensi 5/6 (G1 1,20x; G4 tiga adegan >4,5 dtk dari video dasar), cek-format 10/11 (F2 durasi 31,6 > 28, dari naskah). Lembar frame dilihat: teks utuh. Daftar periksa bagian 8 claude/rombak-2026-11-14-pesaing.md tercentang. Lafal Liam belum didengar Felix.",
+   "qc": "final.mp4 1080x1920, 31,6 dtk. Video dasar Felix + VO Liam (ElevenLabs, 473 huruf) + 20 SFX + dorongan zoom halus per adegan. Hook di frame 0, VO 0,10 dtk, selisih VO maks 0,20 dtk. True peak -1,8 dBTP, -14,6 LUFS, LRA 3,9. ukur-retensi 5/6 (G1 1,20x; G4 tiga adegan >4,5 dtk dari video dasar), cek-format 10/11 (F2 durasi 31,6 > 28, dari naskah). Lembar frame dilihat: teks utuh. Daftar periksa bagian 8 claude/rombak-2026-11-14-pesaing.md tercentang. Sudah didengar Felix 14 Nov, disetujui untuk diunggah lewat Manager cloud.",
    "alasan_pilihan": "Perintah /manager lanjut A6 dari Manager cloud; naskah + caption persis dari claude/produksi-2026-11-14-pesaing.md. Dok rombak versi Project tidak ada di laptop, ditulis ulang laptop atas perintah Felix."
   },
   {
@@ -118,6 +118,6 @@
    "dipakai_sementara": "tidak ada yang dikirim; Felix yang mengirim"
   }
  ],
- "catatan": "Sab 14 Nov: Reels 'pesaing' siap-unggah 10.55, menunggu 'unggah' Felix lewat Manager cloud sebelum 19.30. Kuota ElevenLabs tersisa sekitar 75 huruf: Reels berikutnya pakai edge-tts kecuali kuota diisi. 'Kas berapa bulan' sudah tayang 13 Nov 18.43.",
+ "catatan": "Sab 14 Nov: Reels 'pesaing' siap-unggah 10.55, didengar dan disetujui Felix; menunggu 'unggah' di chat Manager cloud sebelum 19.30. Kuota ElevenLabs tersisa sekitar 75 huruf: Reels berikutnya pakai edge-tts kecuali kuota diisi. 'Kas berapa bulan' sudah tayang 13 Nov 18.43.",
  "perangkat": "laptop"
 }
