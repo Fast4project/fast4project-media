@@ -75,16 +75,16 @@
    "judul": "Empat pertanyaan sebelum proposal kemitraan dikirim",
    "caption": "Empat pertanyaan ini sebaiknya sudah terjawab sebelum proposal kemitraanmu dikirim.\n\nKamu kirim hari Senin, sampai Jumat belum dibalas, dan kamu tidak tahu pembacanya berhenti di halaman mana. Yang bisa kamu cek sendiri: angka naikmu dari berapa, uangnya dipakai untuk apa, mitramu dapat apa, dan risiko apa yang sudah kamu jaga.\n\nContoh di carousel ini aku buat sendiri untuk latihan, bukan dari usaha sungguhan. Semua angkanya ilustratif. Aku tidak bisa menjanjikan proposalmu diterima. Dengan daftar ini, pembacamu tidak perlu menebak.\n\nSimpan, lalu buka lagi saat proposalmu hampir jadi.\n\nDari empat ini, mana yang paling susah kamu tulis: 1, 2, 3, atau 4? Tulis di komentar.\n\n#proposalkemitraan #umkm #franchise #pitchdeck #proposalusaha",
    "urls": [
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/5cb0456f0b5892946096ce95d7efd642a8800c58/carousel-13-nov-cek-proposal/halaman-1.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/b35f5b479fbfe324eb13b930735d268b7cc2b05c/carousel-13-nov-cek-proposal/halaman-2.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/bcab590f9392f6a2c7cdcba55b2ecded9f938662/carousel-13-nov-cek-proposal/halaman-3.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/721027d81a87d4f0fa849b57e6e8b99546041d71/carousel-13-nov-cek-proposal/halaman-4.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/ffd86da36b74f050f61a322c9ab94e2dcf5d8845/carousel-13-nov-cek-proposal/halaman-5.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/fce06f929230bb6bf771fc5e8fd32a13ef00929a/carousel-13-nov-cek-proposal/halaman-6.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/8e943214e21529991edc1e1cb0cc93ebe4c75694/carousel-13-nov-cek-proposal/halaman-7.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/7f5317d518febd4abcd4741eb81e3e24fb0776cc/carousel-13-nov-cek-proposal/halaman-8.jpg"
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/78ce191d152eee906c3698699810e8e2fa42828c/carousel-13-nov-cek-proposal/halaman-1.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/6237fd8cbc94667957fec7f761a7fa8dc9ef8525/carousel-13-nov-cek-proposal/halaman-2.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/bcf345edf6c8a4a578391680a2c884eed1c9bdfd/carousel-13-nov-cek-proposal/halaman-3.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/b96145634c471e9d0b4ba3aff4f1000ec44152da/carousel-13-nov-cek-proposal/halaman-4.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/119422ede35127301a9c787fb5826b15eb05909f/carousel-13-nov-cek-proposal/halaman-5.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/34eb99785f6ecae5adf817e14ede0631f80e5fc8/carousel-13-nov-cek-proposal/halaman-6.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/2b981d07070c9f89212158f827db143ba080aa69/carousel-13-nov-cek-proposal/halaman-7.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/01b827c68cc78eb3f35122d8a51cc8aa092a485f/carousel-13-nov-cek-proposal/halaman-8.jpg"
    ],
-   "qc": "Dirender run 10.00 Jumat. Lembar kontak dilihat: teks utuh. Gerbang sinkron tayang tanpa BLOKIR. Pemicu komentar 1/2/3/4. MOFU, objektif simpan.",
+   "qc": "Dirender run 10.00 Jumat. Lembar kontak dilihat: teks utuh. Gerbang sinkron tayang tanpa BLOKIR. Pemicu komentar 1/2/3/4. MOFU, objektif simpan. | V2 14 Nov (permintaan Felix): dirombak Gaya angka pahlawan, palet D plum + peach, isi ditulis ulang (5 hari, 3 pos, 30%, 1 risiko, tes 4 pertanyaan), hero kode: amplop, kotak, perisai. cek_teks 0 KRITIS, nol peringatan kontras/zona aman/variasi. Lembar kontak dilihat, teks utuh. Empat hal di caption tetap sama. V1 di arsip/v1.",
    "alasan_pilihan": "Stok carousel Selasa 17 Nov 12.00."
   },
   {
@@ -274,6 +274,6 @@
    "dijawab": "Felix 14 Nov: Ya, tayang (opsi 1)"
   }
  ],
- "catatan": "Run 15.00 Sab 14 Nov: antrian repo 404 (antrian/antrian.json belum ada). Reels Sen 16 Nov 'pembeli baru' siap-unggah (VO edge-tts, suara lebih datar dari Liam). Verifikasi email dilewati run ini; angka verifikasi di bawah dari run sebelumnya (Reacher belum terpasang). Minggu libur tayang. Sab 14 Nov: Reels 'pesaing' v2 (slide 3 dek Geprek Lumbung) siap-unggah 13.00, menunggu Felix mendengar dan mengetik 'unggah'. v1 tetap di cadangan_v1. Kuota ElevenLabs akun laptop: free, sisa 32 huruf sampai 4 Des. Sab 14 Nov: stok 3 Reels + 1 carousel (19-21 Nov) selesai dengan suara Liam dari connector ElevenLabs (akun connector paket free, 10.000 huruf, terpakai sekitar 1.800). 14 Nov: Felix memutuskan carousel kamus tayang apa adanya dan Reels Jum 20 Nov (37,2 dtk) tayang apa adanya. Tetap perlu 'unggah' di Manager cloud per konten. 14 Nov: carousel kamus dirombak V2 (isi dan desain baru, palet B), siap-unggah; cek-overlap belum diulang.",
+ "catatan": "Run 15.00 Sab 14 Nov: antrian repo 404 (antrian/antrian.json belum ada). Reels Sen 16 Nov 'pembeli baru' siap-unggah (VO edge-tts, suara lebih datar dari Liam). Verifikasi email dilewati run ini; angka verifikasi di bawah dari run sebelumnya (Reacher belum terpasang). Minggu libur tayang. Sab 14 Nov: Reels 'pesaing' v2 (slide 3 dek Geprek Lumbung) siap-unggah 13.00, menunggu Felix mendengar dan mengetik 'unggah'. v1 tetap di cadangan_v1. Kuota ElevenLabs akun laptop: free, sisa 32 huruf sampai 4 Des. Sab 14 Nov: stok 3 Reels + 1 carousel (19-21 Nov) selesai dengan suara Liam dari connector ElevenLabs (akun connector paket free, 10.000 huruf, terpakai sekitar 1.800). 14 Nov: Felix memutuskan carousel kamus tayang apa adanya dan Reels Jum 20 Nov (37,2 dtk) tayang apa adanya. Tetap perlu 'unggah' di Manager cloud per konten. 14 Nov: carousel kamus dirombak V2 (isi dan desain baru, palet B), siap-unggah; cek-overlap belum diulang. 14 Nov: carousel cek-proposal-mitra (stok Selasa 17 Nov) dirombak V2 palet D, siap-unggah.",
  "perangkat": "laptop"
 }
