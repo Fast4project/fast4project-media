@@ -270,7 +270,8 @@
     "Tayang (Rekomendasi: rangkuman, tujuan simpan, bukan isi kembar)",
     "Ganti topik carousel Jum"
    ],
-   "dipakai_sementara": "opsi 1"
+   "dipakai_sementara": "opsi 1 (final)",
+   "dijawab": "Felix 14 Nov: Ya, tayang (opsi 1)"
   },
   {
    "teks": "Reels Jum 20 Nov 37,2 dtk (naskah padat angka, batas 22-28). Tayang apa adanya atau dipadatkan?",
@@ -278,9 +279,10 @@
     "Tayang apa adanya (Rekomendasi: B12.2, durasi tidak menahan tayang)",
     "Naskah dipadatkan dulu"
    ],
-   "dipakai_sementara": "opsi 1"
+   "dipakai_sementara": "opsi 1 (final)",
+   "dijawab": "Felix 14 Nov: Ya, tayang (opsi 1)"
   }
  ],
- "catatan": "Run 15.00 Sab 14 Nov: antrian repo 404 (antrian/antrian.json belum ada). Reels Sen 16 Nov 'pembeli baru' siap-unggah (VO edge-tts, suara lebih datar dari Liam). Verifikasi email dilewati run ini; angka verifikasi di bawah dari run sebelumnya (Reacher belum terpasang). Minggu libur tayang. Sab 14 Nov: Reels 'pesaing' v2 (slide 3 dek Geprek Lumbung) siap-unggah 13.00, menunggu Felix mendengar dan mengetik 'unggah'. v1 tetap di cadangan_v1. Kuota ElevenLabs akun laptop: free, sisa 32 huruf sampai 4 Des. Sab 14 Nov: stok 3 Reels + 1 carousel (19-21 Nov) selesai dengan suara Liam dari connector ElevenLabs (akun connector paket free, 10.000 huruf, terpakai sekitar 1.800).",
+ "catatan": "Run 15.00 Sab 14 Nov: antrian repo 404 (antrian/antrian.json belum ada). Reels Sen 16 Nov 'pembeli baru' siap-unggah (VO edge-tts, suara lebih datar dari Liam). Verifikasi email dilewati run ini; angka verifikasi di bawah dari run sebelumnya (Reacher belum terpasang). Minggu libur tayang. Sab 14 Nov: Reels 'pesaing' v2 (slide 3 dek Geprek Lumbung) siap-unggah 13.00, menunggu Felix mendengar dan mengetik 'unggah'. v1 tetap di cadangan_v1. Kuota ElevenLabs akun laptop: free, sisa 32 huruf sampai 4 Des. Sab 14 Nov: stok 3 Reels + 1 carousel (19-21 Nov) selesai dengan suara Liam dari connector ElevenLabs (akun connector paket free, 10.000 huruf, terpakai sekitar 1.800). 14 Nov: Felix memutuskan carousel kamus tayang apa adanya dan Reels Jum 20 Nov (37,2 dtk) tayang apa adanya. Tetap perlu 'unggah' di Manager cloud per konten.",
  "perangkat": "laptop"
 }
