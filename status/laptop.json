@@ -91,12 +91,18 @@
    "tugas": "Final Reels Sab 14 Nov 'Kami tidak punya pesaing' (VO + SFX)",
    "bukti": "video/2026-11-14-pesaing/final.mp4",
    "status": "selesai"
+  },
+  {
+   "agent": "A4",
+   "tugas": "Pasokan email: 10 profil Waralabakan hal. 2 dibuka, situs resmi dicek; 1 sah, 9 gugur (situs mati/tanpa tanggal)",
+   "bukti": "claude/outreach-antrian.md",
+   "status": "selesai"
   }
  ],
  "verifikasi": {
-  "dicek": 2,
+  "dicek": 3,
   "kirim": 0,
-  "tanya": 2,
+  "tanya": 3,
   "buang": 0
  },
  "pertanyaan": [
