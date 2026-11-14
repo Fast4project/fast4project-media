@@ -1,6 +1,6 @@
 {
- "diperbarui": "2026-11-14T10:55:00+07:00",
- "jalan": "lanjut A6",
+ "diperbarui": "2026-11-14T13:30:00+07:00",
+ "jalan": "lanjut A3",
  "item": [
   {
    "format": "reels",
@@ -83,6 +83,17 @@
    "urls": [],
    "qc": "Tetap BLOKIR (mirip Reels 7 Nov) dan ditunda pilihan Felix 12 Nov. Tidak diproduksi.",
    "alasan_pilihan": "Naskah Manager cloud 11 Nov (Ide 4B)."
+  },
+  {
+   "format": "dek",
+   "nama": "contoh-geprek-lumbung",
+   "antrian_id": "",
+   "status": "dikerjakan",
+   "judul": "Contoh dek kemitraan Geprek Lumbung (usaha karangan untuk portofolio)",
+   "caption": "",
+   "urls": [],
+   "qc": "Ledger L1-L18 disusun laptop (versi Project tidak ada di laptop, pilihan Felix). Opsi A 7 slide P4 datar; opsi B (P4 tidak polos) dan C (Senja) contoh 2 slide. Semua dirender lewat PowerPoint dan dilihat. CEK KATA: nol kata terlarang, label karangan + ilustratif di tiap slide.",
+   "alasan_pilihan": "Perintah /manager lanjut A3. Felix minta opsi desain dengan contoh visual sebelum dek dirampungkan."
   }
  ],
  "agen_hari_ini": [
@@ -97,6 +108,12 @@
    "tugas": "Pasokan email: 10 profil Waralabakan hal. 2 dibuka, situs resmi dicek; 1 sah, 9 gugur (situs mati/tanpa tanggal)",
    "bukti": "claude/outreach-antrian.md",
    "status": "selesai"
+  },
+  {
+   "agent": "A3",
+   "tugas": "Contoh dek kemitraan Geprek Lumbung: ledger + 3 opsi desain",
+   "bukti": "deck/contoh-geprek-lumbung/opsi-desain-v1.png",
+   "status": "dikerjakan"
   }
  ],
  "verifikasi": {
@@ -122,6 +139,15 @@
     "Jalankan pasang-reacher.ps1 dulu"
    ],
    "dipakai_sementara": "tidak ada yang dikirim; Felix yang mengirim"
+  },
+  {
+   "teks": "Contoh dek Geprek Lumbung: arah desain mana?",
+   "opsi": [
+    "B P4 Kontras Kuning tidak polos (Rekomendasi)",
+    "A P4 datar",
+    "C Senja hangat"
+   ],
+   "dipakai_sementara": "belum, menunggu Felix"
   }
  ],
  "catatan": "Sab 14 Nov: Reels 'pesaing' siap-unggah 10.55, didengar dan disetujui Felix; menunggu 'unggah' di chat Manager cloud sebelum 19.30. Kuota ElevenLabs tersisa sekitar 75 huruf: Reels berikutnya pakai edge-tts kecuali kuota diisi. 'Kas berapa bulan' sudah tayang 13 Nov 18.43.",
