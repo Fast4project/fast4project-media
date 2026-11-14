@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-14T15:10:00+07:00",
+ "diperbarui": "2026-11-14T12:05:00+07:00",
  "jalan": "lanjut A3",
  "item": [
   {
@@ -20,7 +20,8 @@
     "thumb_offset": 500
    },
    "qc": "final.mp4 1080x1920, 31,6 dtk. Video dasar Felix + VO Liam (ElevenLabs, 473 huruf) + 20 SFX + dorongan zoom halus per adegan. Hook di frame 0, VO 0,10 dtk, selisih VO maks 0,20 dtk. True peak -1,8 dBTP, -14,6 LUFS, LRA 3,9. ukur-retensi 5/6 (G1 1,20x; G4 tiga adegan >4,5 dtk dari video dasar), cek-format 10/11 (F2 durasi 31,6 > 28, dari naskah). Lembar frame dilihat: teks utuh. Daftar periksa bagian 8 claude/rombak-2026-11-14-pesaing.md tercentang. Sudah didengar Felix 14 Nov, disetujui untuk diunggah lewat Manager cloud.",
-   "alasan_pilihan": "Perintah /manager lanjut A6 dari Manager cloud; naskah + caption persis dari claude/produksi-2026-11-14-pesaing.md. Dok rombak versi Project tidak ada di laptop, ditulis ulang laptop atas perintah Felix."
+   "alasan_pilihan": "Perintah /manager lanjut A6 dari Manager cloud; naskah + caption persis dari claude/produksi-2026-11-14-pesaing.md. Dok rombak versi Project tidak ada di laptop, ditulis ulang laptop atas perintah Felix.",
+   "revisi_berjalan": "v2 (adegan 4-5 pakai slide 3 dek Geprek Lumbung) diminta Felix 14 Nov 11.25; tertahan kuota ElevenLabs. URL di item ini = v1 yang sudah disetujui, cadangan bila v2 tidak jadi sebelum 18.00."
   },
   {
    "format": "reels",
@@ -33,7 +34,8 @@
    "caption": "",
    "urls": [],
    "qc": "Video dasar dasar-k.mp4 (31,6 dtk) ada di video/2026-11-14-pesaing. Rombak (VO Liam, SFX, final.mp4) sedang dikerjakan sesi Claude Code lain yang mulai 10.22 dan menunggu dokumen rombak dari Felix. Run terjadwal tidak menyentuh folder itu supaya berkas tidak tertimpa. Gerbang sinkron tayang 14 Nov 10.30 (Windsor, 11 posting): alat menandai kata umum saja (usaha, warung, tulis); caption dibaca, tidak ada posting soal pesaing → AMAN.",
-   "alasan_pilihan": "Naskah Manager cloud claude/produksi-2026-11-14-pesaing.md. Seri S-A setelah dua hari S-B (Traksi, Kas)."
+   "alasan_pilihan": "Naskah Manager cloud claude/produksi-2026-11-14-pesaing.md. Seri S-A setelah dua hari S-B (Traksi, Kas).",
+   "revisi_berjalan": "v2 (adegan 4-5 pakai slide 3 dek Geprek Lumbung) diminta Felix 14 Nov 11.25; tertahan kuota ElevenLabs. URL di item ini = v1 yang sudah disetujui, cadangan bila v2 tidak jadi sebelum 18.00."
   },
   {
    "format": "reels",
@@ -99,9 +101,9 @@
  "agen_hari_ini": [
   {
    "agent": "A6",
-   "tugas": "Final Reels Sab 14 Nov 'Kami tidak punya pesaing' (VO + SFX)",
+   "tugas": "Final Reels Sab 14 Nov 'Kami tidak punya pesaing' (VO + SFX) · v2 dengan slide 3 dek Geprek Lumbung",
    "bukti": "video/2026-11-14-pesaing/final.mp4",
-   "status": "selesai"
+   "status": "dikerjakan"
   },
   {
    "agent": "A4",
@@ -141,6 +143,6 @@
    "dipakai_sementara": "tidak ada yang dikirim; Felix yang mengirim"
   }
  ],
- "catatan": "Sab 14 Nov: Reels 'pesaing' siap-unggah 10.55, didengar dan disetujui Felix; menunggu 'unggah' di chat Manager cloud sebelum 19.30. Kuota ElevenLabs tersisa sekitar 75 huruf: Reels berikutnya pakai edge-tts kecuali kuota diisi. 'Kas berapa bulan' sudah tayang 13 Nov 18.43.",
+ "catatan": "Sab 14 Nov: Reels 'pesaing' v1 siap-unggah (disetujui). v2 sedang dibuat atas permintaan Felix, menunggu kuota ElevenLabs. Tayangkan hanya setelah Felix mengetik 'unggah' dan menyebut versinya.",
  "perangkat": "laptop"
 }
