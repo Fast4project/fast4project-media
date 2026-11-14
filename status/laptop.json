@@ -1,7 +1,27 @@
 {
- "diperbarui": "2026-11-14T13:00:00+07:00",
- "jalan": "lanjut A3",
+ "diperbarui": "2026-11-14T16:40:00+07:00",
+ "jalan": "otomatis 15.00",
  "item": [
+  {
+   "format": "reels",
+   "nama": "pembeli-baru",
+   "antrian_id": "",
+   "seri": "S-B",
+   "tema": "B",
+   "jam_tayang": "2026-11-16 19:30",
+   "status": "siap-unggah",
+   "judul": "Satu pembeli baru, biayanya berapa?",
+   "caption": "Iklan 1 juta sebulan, datang 50 pembeli baru. Berarti satu pembeli baru biayanya 20 ribu.\n\nKalau untung satu porsi 5 ribu, pembeli itu belum balik modal di kunjungan pertama. Karena itu investor dan calon mitra menanyakan dua angka bersamaan: biaya dapat satu pembeli, dan berapa kali pembeli datang lagi.\n\nPembeli geprek ini harus datang berapa kali supaya impas? Jawab angkanya di komentar.\n\nContoh di video dari Geprek Lumbung, usaha karangan untuk portofolio. Semua angka ilustratif.\n\nKirim ke teman yang lagi pasang iklan.\n\n#pitchdeck #umkm #franchise #proposalkemitraan #presentasi",
+   "caption_tiktok": "Pembeli baru harus datang berapa kali supaya impas? Jawab angkanya di komentar. Geprek Lumbung: usaha karangan, angka ilustratif.\n\n#pitchdeck #umkm #franchise #usahakecil",
+   "urls": [
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/3a4e4a9218d93b298a7f42348b65e6e76986c988/reels-16-nov-pembeli-baru/final.mp4"
+   ],
+   "cover": {
+    "thumb_offset": 500
+   },
+   "qc": "final.mp4 1080x1920, 31,0 dtk. Hook utuh frame 0 + SFX hit 0,00, VO edge-tts ArdiNeural mulai 0,16 dtk (kuota ElevenLabs habis), true peak -2,0 dBTP, -14,0 LUFS. ukur-retensi 6/6 setelah 1 putaran (G4). hook lemah: F2 durasi 31,0 dtk, V4 LRA 2,1. Lembar frame dilihat: teks utuh. [CEK KATA] lolos. Gerbang sinkron tayang AMAN setelah caption dibaca (cek-overlap BLOKIR kata umum vs Reels 12 & 13 Nov). Belum didengar Felix.",
+   "alasan_pilihan": "Naskah Manager cloud (produksi-2026-11-13, dijadwalkan Sel 17 Nov). Dimajukan ke Senin karena 'Cek ini sebelum kirim dek' kembar isi dengan carousel Sel 17 Nov 12.00 (2 dari 4 butir sama). Seri: Sab S-A, Sen S-B."
+  },
   {
    "format": "reels",
    "nama": "pesaing",
@@ -93,6 +113,12 @@
  "agen_hari_ini": [
   {
    "agent": "A6",
+   "tugas": "Stok Reels Sen 16 Nov 'Satu pembeli baru, biayanya berapa?' (S-B, VO edge-tts + SFX)",
+   "bukti": "video/2026-11-16-biaya-pembeli-baru/final.mp4",
+   "status": "selesai"
+  },
+  {
+   "agent": "A6",
    "tugas": "Final Reels Sab 14 Nov 'Kami tidak punya pesaing' (VO + SFX) · v2 dengan slide 3 dek Geprek Lumbung",
    "bukti": "video/2026-11-14-pesaing/final-v2.mp4",
    "status": "selesai"
@@ -118,6 +144,22 @@
  },
  "pertanyaan": [
   {
+   "teks": "Reels Senin 16 Nov ditukar: 'Cek ini sebelum kirim dek' kembar isi dengan carousel Selasa 12.00 (2 dari 4 butir sama). Senin pakai yang mana?",
+   "opsi": [
+    "Senin 'Satu pembeli baru, biayanya berapa?' (Rekomendasi: sudah siap-unggah, tidak kembar; 'Cek ini' tunggu minggu depan)",
+    "Senin 'Cek ini sebelum kirim dek', carousel Selasa digeser ke Jumat 20 Nov"
+   ],
+   "dipakai_sementara": "opsi 1"
+  },
+  {
+   "teks": "Contoh Geprek Lumbung sudah dipakai di Reels 12, 13, 14 Nov, dan Reels Senin juga. Tetap?",
+   "opsi": [
+    "Tetap (Rekomendasi: sektor minggu ini kemitraan/franchise, semua berlabel karangan)",
+    "Mulai minggu depan ganti contoh usaha karangan lain"
+   ],
+   "dipakai_sementara": "opsi 1"
+  },
+  {
    "teks": "Carousel 'Cek 4 hal sebelum kirim proposal' sudah jadi. Tayang kapan?",
    "opsi": [
     "Selasa 17 Nov 12.00 (Rekomendasi: slot carousel berikutnya)",
@@ -135,6 +177,6 @@
    "dipakai_sementara": "tidak ada yang dikirim; Felix yang mengirim"
   }
  ],
- "catatan": "Sab 14 Nov: Reels 'pesaing' v2 (slide 3 dek Geprek Lumbung) siap-unggah 13.00, menunggu Felix mendengar dan mengetik 'unggah'. v1 tetap di cadangan_v1. Kuota ElevenLabs akun laptop: free, sisa 32 huruf sampai 4 Des.",
+ "catatan": "Run 15.00 Sab 14 Nov: antrian repo 404 (antrian/antrian.json belum ada). Reels Sen 16 Nov 'pembeli baru' siap-unggah (VO edge-tts, suara lebih datar dari Liam). Verifikasi email dilewati run ini; angka verifikasi di bawah dari run sebelumnya (Reacher belum terpasang). Minggu libur tayang. Sab 14 Nov: Reels 'pesaing' v2 (slide 3 dek Geprek Lumbung) siap-unggah 13.00, menunggu Felix mendengar dan mengetik 'unggah'. v1 tetap di cadangan_v1. Kuota ElevenLabs akun laptop: free, sisa 32 huruf sampai 4 Des.",
  "perangkat": "laptop"
 }
