@@ -1,7 +1,27 @@
 {
- "diperbarui": "2026-11-14T10:40:00+07:00",
- "jalan": "10.00",
+ "diperbarui": "2026-11-14T10:55:00+07:00",
+ "jalan": "lanjut A6",
  "item": [
+  {
+   "format": "reels",
+   "nama": "pesaing",
+   "antrian_id": "",
+   "seri": "S-A",
+   "tema": "C",
+   "jam_tayang": "2026-11-14 19:30",
+   "status": "siap-unggah",
+   "judul": "Kami tidak punya pesaing",
+   "caption": "\"Kami tidak punya pesaing.\" Kalimat ini sering muncul di pitch deck.\n\nPembaca dek bisa menangkap dua hal: pasarnya belum ada, atau kamu belum cek. Padahal pesaing bukan cuma usaha sejenis. Pembeli geprek juga bisa pilih warung nasi sebelah, atau masak sendiri di rumah.\n\nTulis dua atau tiga pilihan yang dipakai pembeli sekarang, lalu satu alasan mereka pindah ke kamu.\n\nPesaing terdekat usahamu yang mana? Tulis SEBELAH (usaha sejenis di dekatmu) atau RUMAH (pembeli bikin sendiri) di komentar.\n\nContoh di video dari Geprek Lumbung, usaha karangan untuk portofolio.\n\nKirim ke teman yang lagi menyusun dek.\n\n#pitchdeck #umkm #franchise #proposalkemitraan #presentasi",
+   "caption_tiktok": "\"Kami tidak punya pesaing\"? Pesaing terdekat usahamu SEBELAH atau RUMAH? Tulis di komentar. Geprek Lumbung di video: usaha karangan untuk portofolio.\n\n#pitchdeck #umkm #franchise #usahakecil",
+   "urls": [
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/984dd9e2293ae81c83274f4903bde6c72c546ce6/reels-14-nov-pesaing/final.mp4"
+   ],
+   "cover": {
+    "thumb_offset": 500
+   },
+   "qc": "final.mp4 1080x1920, 31,6 dtk. Video dasar Felix + VO Liam (ElevenLabs, 473 huruf) + 20 SFX + dorongan zoom halus per adegan. Hook di frame 0, VO 0,10 dtk, selisih VO maks 0,20 dtk. True peak -1,8 dBTP, -14,6 LUFS, LRA 3,9. ukur-retensi 5/6 (G1 1,20x; G4 tiga adegan >4,5 dtk dari video dasar), cek-format 10/11 (F2 durasi 31,6 > 28, dari naskah). Lembar frame dilihat: teks utuh. Daftar periksa bagian 8 claude/rombak-2026-11-14-pesaing.md tercentang. Lafal Liam belum didengar Felix.",
+   "alasan_pilihan": "Perintah /manager lanjut A6 dari Manager cloud; naskah + caption persis dari claude/produksi-2026-11-14-pesaing.md. Dok rombak versi Project tidak ada di laptop, ditulis ulang laptop atas perintah Felix."
+  },
   {
    "format": "reels",
    "nama": "pesaing",
@@ -28,7 +48,7 @@
    "urls": [
     "https://www.instagram.com/reel/DfrjMv4Fby2/"
    ],
-   "qc": "Tayang terverifikasi lewat Windsor 14 Nov 10.30 (13 Nov 18.43 WIB, caption cocok). Folder repo media dihapus.",
+   "qc": "Tayang 13 Nov 18.43 WIB (Windsor 14 Nov 10.30). Folder repo media dihapus 14 Nov.",
    "alasan_pilihan": "Pembersihan butir 5."
   },
   {
@@ -67,22 +87,10 @@
  ],
  "agen_hari_ini": [
   {
-   "agent": "A1",
-   "tugas": "Gerbang sinkron tayang: tarik 11 posting Instagram lewat Windsor, Reels kas dicatat tayang",
-   "bukti": "laporan/2026-11-14-tayang.json",
-   "status": "selesai"
-  },
-  {
-   "agent": "A4",
-   "tugas": "Verifikasi email antrian outreach (sintaks + MX, tanpa Reacher)",
-   "bukti": "outreach/hasil-verifikasi-2026-11-14.csv",
-   "status": "selesai"
-  },
-  {
    "agent": "A6",
-   "tugas": "Reels Sab 19.30 'Kami tidak punya pesaing' (rombak di sesi lain)",
-   "bukti": "video/2026-11-14-pesaing/STATUS.md",
-   "status": "dikerjakan"
+   "tugas": "Final Reels Sab 14 Nov 'Kami tidak punya pesaing' (VO + SFX)",
+   "bukti": "video/2026-11-14-pesaing/final.mp4",
+   "status": "selesai"
   }
  ],
  "verifikasi": {
@@ -110,6 +118,6 @@
    "dipakai_sementara": "tidak ada yang dikirim; Felix yang mengirim"
   }
  ],
- "catatan": "Run 10.00 Sab 14 Nov. Antrian cloud masih 404 (antrian/antrian.json belum ada; perlu CA certifi karena SSL Python laptop gagal). Reels hari ini: rombak sedang berjalan di sesi Claude Code lain, menunggu dokumen rombak dari Felix; tenggat siap-unggah sebelum 18.00. Bila belum siap di run 15.00, run itu menyelesaikannya dari dasar-k.mp4. Stok Reels Senin 16 Nov (S-C 'Cek ini sebelum kirim dek'): naskah belum ada di folder; dikerjakan run 15.00 setelah Reels hari ini siap (B12.4).",
+ "catatan": "Sab 14 Nov: Reels 'pesaing' siap-unggah 10.55, menunggu 'unggah' Felix lewat Manager cloud sebelum 19.30. Kuota ElevenLabs tersisa sekitar 75 huruf: Reels berikutnya pakai edge-tts kecuali kuota diisi. 'Kas berapa bulan' sudah tayang 13 Nov 18.43.",
  "perangkat": "laptop"
 }
