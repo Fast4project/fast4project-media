@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-14T14:30:00+07:00",
+ "diperbarui": "2026-11-14T15:10:00+07:00",
  "jalan": "lanjut A3",
  "item": [
   {
@@ -92,7 +92,7 @@
    "judul": "Contoh dek kemitraan Geprek Lumbung (usaha karangan untuk portofolio)",
    "caption": "",
    "urls": [],
-   "qc": "v2 arah B (P4 Kontras Kuning, tidak polos) pilihan Felix. 7 slide .pptx + PNG pratinjau, dirender lewat PowerPoint dan dilihat. QC 2 putaran: rekonsiliasi ledger cocok, 0 KRITIS, 5 temuan konten/visual ditutup. Label karangan + ilustratif di tiap slide.",
+   "qc": "v3 arah B (P4 Kontras Kuning, tidak polos). 7 slide .pptx + PNG, susunan dirapikan: latar 1 gambar per slide, isi dikelompokkan dan bernama, 0 objek di luar slide. Dirender lewat PowerPoint dan dilihat. QC 3 putaran: ledger cocok, 0 KRITIS. Label karangan + ilustratif di tiap slide.",
    "alasan_pilihan": "Perintah /manager lanjut A3. Felix minta opsi desain dengan contoh visual sebelum dek dirampungkan."
   }
  ],
@@ -111,8 +111,8 @@
   },
   {
    "agent": "A3",
-   "tugas": "Contoh dek kemitraan Geprek Lumbung v2 (7 slide, arah B)",
-   "bukti": "deck/contoh-geprek-lumbung/contoh-geprek-lumbung-v2.pptx",
+   "tugas": "Contoh dek kemitraan Geprek Lumbung v3 (7 slide, arah B, susunan rapi)",
+   "bukti": "deck/contoh-geprek-lumbung/contoh-geprek-lumbung-v3.pptx",
    "status": "selesai"
   }
  ],
