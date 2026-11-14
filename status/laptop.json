@@ -1,29 +1,41 @@
 {
- "diperbarui": "2026-11-13T16:20:00+07:00",
- "jalan": "15.00",
+ "diperbarui": "2026-11-14T10:40:00+07:00",
+ "jalan": "10.00",
  "item": [
+  {
+   "format": "reels",
+   "nama": "pesaing",
+   "antrian_id": "",
+   "seri": "S-A",
+   "jam_tayang": "2026-11-14 19:30",
+   "status": "dikerjakan",
+   "judul": "Kami tidak punya pesaing",
+   "caption": "",
+   "urls": [],
+   "qc": "Video dasar dasar-k.mp4 (31,6 dtk) ada di video/2026-11-14-pesaing. Rombak (VO Liam, SFX, final.mp4) sedang dikerjakan sesi Claude Code lain yang mulai 10.22 dan menunggu dokumen rombak dari Felix. Run terjadwal tidak menyentuh folder itu supaya berkas tidak tertimpa. Gerbang sinkron tayang 14 Nov 10.30 (Windsor, 11 posting): alat menandai kata umum saja (usaha, warung, tulis); caption dibaca, tidak ada posting soal pesaing → AMAN.",
+   "alasan_pilihan": "Naskah Manager cloud claude/produksi-2026-11-14-pesaing.md. Seri S-A setelah dua hari S-B (Traksi, Kas)."
+  },
   {
    "format": "reels",
    "nama": "kas-berapa-bulan",
    "antrian_id": "",
+   "seri": "S-B",
    "ganti_dari": "2026-11-12-reels-dokumen-salah",
    "jam_tayang": "2026-11-13 19:30",
-   "status": "siap-unggah",
+   "status": "tayang",
    "judul": "Kasmu cukup berapa bulan?",
-   "caption": "Investor nanya: kasmu cukup berapa bulan? Jawabannya cuma satu pembagian.\n\nUang di kas dibagi pengeluaran sebulan. Misalnya kas 30 juta, keluar 10 juta sebulan. Berarti usahamu tahan 3 bulan tanpa pemasukan baru. Investor menyebutnya runway.\n\nTulis angka ini di dekmu, jangan tunggu ditanya.\n\nSemua angka di video ini ilustratif.\n\nSimpan, buka lagi sebelum kamu pitching.\n\nKamu sudah tahu angkamu? Tulis SUDAH atau BELUM di komentar.\n\n#pitchdeck #umkm #investor #proposalkemitraan #presentasi",
+   "caption": "",
    "urls": [
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/65d4d5cee422a8f22daae7ea7118aea44b1cca82/reels-13-nov-kas/reels-13-nov-kas-v4.mp4"
+    "https://www.instagram.com/reel/DfrjMv4Fby2/"
    ],
-   "cover": {
-    "thumb_offset": 3600
-   },
-   "qc": "v4, 25,8 dtk. ukur-retensi 6/6 (G1 1,23x, frame diam terpanjang 0,7 dtk), cek-format 11/11 (true peak -2,1 dB, LRA 3,7 LU). Lembar frame dilihat: teks utuh, di luar zona UI. Gerbang sinkron tayang AMAN setelah caption dibaca (alat menandai kata umum saja). [CEK KATA] lolos. Pemicu komentar: SUDAH/BELUM. Level MOFU. Tema B Malam Garis Terang (jalan dengan rekomendasi). Narator Liam, belum didengar Felix (lafal 'runway' dan musik perlu telinga).",
-   "alasan_pilihan": "Antrian cloud kosong (404) dan 'dokumen salah' masih BLOKIR, jadi Manager laptop menulis naskah sendiri: istilah investor dari bank ide Ide 4A, satu istilah yang belum pernah tayang, cocok dengan sektor minggu ini (usaha yang menyiapkan pitching/kemitraan)."
+   "qc": "Tayang terverifikasi lewat Windsor 14 Nov 10.30 (13 Nov 18.43 WIB, caption cocok). Folder repo media dihapus.",
+   "alasan_pilihan": "Pembersihan butir 5."
   },
   {
    "format": "carousel",
    "nama": "cek-proposal-mitra",
    "antrian_id": "",
+   "seri": "S-D",
    "jam_tayang": "2026-11-17 12:00",
    "status": "siap-unggah",
    "judul": "Empat pertanyaan sebelum proposal kemitraan dikirim",
@@ -38,21 +50,8 @@
     "https://raw.githubusercontent.com/Fast4project/fast4project-media/8e943214e21529991edc1e1cb0cc93ebe4c75694/carousel-13-nov-cek-proposal/halaman-7.jpg",
     "https://raw.githubusercontent.com/Fast4project/fast4project-media/7f5317d518febd4abcd4741eb81e3e24fb0776cc/carousel-13-nov-cek-proposal/halaman-8.jpg"
    ],
-   "qc": "Dirender run 10.00 Jumat (status tidak sempat ditulis run itu). Lembar kontak dilihat 15.00: teks utuh. Gerbang sinkron tayang 15.00 tanpa BLOKIR. Baris pemicu komentar ditambahkan di caption run 15.00. MOFU, objektif simpan.",
-   "alasan_pilihan": "Slot carousel Jumat 12.00 sudah diisi 'Tiga Label Data' (tayang 12.22 lewat cloud), jadi carousel ini dijadikan stok Selasa 17 Nov."
-  },
-  {
-   "format": "reels",
-   "nama": "traksi-bukan-follower",
-   "jam_tayang": "2026-11-12 19:30",
-   "status": "tayang",
-   "judul": "Traksi itu bukan jumlah follower",
-   "caption": "",
-   "urls": [
-    "https://www.instagram.com/reel/Dfo3384kidQ/"
-   ],
-   "qc": "Tayang terverifikasi lewat Windsor 13 Nov 15.10 (12 Nov 17.46 WIB). Folder repo media sudah tidak ada.",
-   "alasan_pilihan": "Pembersihan butir 5."
+   "qc": "Dirender run 10.00 Jumat. Lembar kontak dilihat: teks utuh. Gerbang sinkron tayang tanpa BLOKIR. Pemicu komentar 1/2/3/4. MOFU, objektif simpan.",
+   "alasan_pilihan": "Stok carousel Selasa 17 Nov 12.00."
   },
   {
    "format": "reels",
@@ -62,35 +61,55 @@
    "judul": "Jangan kirim dokumen yang salah",
    "caption": "",
    "urls": [],
-   "qc": "Tetap BLOKIR (mirip Reels 7 Nov) dan ditunda pilihan Felix 12 Nov; video dasar tidak ada di laptop. Narator Liam tersimpan. Tidak diproduksi.",
+   "qc": "Tetap BLOKIR (mirip Reels 7 Nov) dan ditunda pilihan Felix 12 Nov. Tidak diproduksi.",
    "alasan_pilihan": "Naskah Manager cloud 11 Nov (Ide 4B)."
   }
  ],
+ "agen_hari_ini": [
+  {
+   "agent": "A1",
+   "tugas": "Gerbang sinkron tayang: tarik 11 posting Instagram lewat Windsor, Reels kas dicatat tayang",
+   "bukti": "laporan/2026-11-14-tayang.json",
+   "status": "selesai"
+  },
+  {
+   "agent": "A4",
+   "tugas": "Verifikasi email antrian outreach (sintaks + MX, tanpa Reacher)",
+   "bukti": "outreach/hasil-verifikasi-2026-11-14.csv",
+   "status": "selesai"
+  },
+  {
+   "agent": "A6",
+   "tugas": "Reels Sab 19.30 'Kami tidak punya pesaing' (rombak di sesi lain)",
+   "bukti": "video/2026-11-14-pesaing/STATUS.md",
+   "status": "dikerjakan"
+  }
+ ],
  "verifikasi": {
-  "dicek": 1,
+  "dicek": 2,
   "kirim": 0,
-  "tanya": 1,
+  "tanya": 2,
   "buang": 0
  },
  "pertanyaan": [
   {
-   "teks": "Carousel 'Cek 4 hal sebelum kirim proposal' sudah jadi tapi slot Jumat 12.00 terisi. Tayang kapan?",
+   "teks": "Carousel 'Cek 4 hal sebelum kirim proposal' sudah jadi. Tayang kapan?",
    "opsi": [
-    "Selasa 17 Nov 12.00 (Rekomendasi: slot carousel berikutnya, tanpa melebihi 1 carousel per hari)",
-    "Sabtu 14 Nov 12.00 sebagai tambahan",
+    "Selasa 17 Nov 12.00 (Rekomendasi: slot carousel berikutnya)",
     "Batalkan"
    ],
    "dipakai_sementara": "opsi 1"
   },
   {
-   "teks": "1 alamat outreach hanya lolos cek MX (port 25 di jaringan rumah tertutup, Reacher tidak bisa mengecek kotak surat). Draf Gmail-nya dikirim?",
+   "teks": "2 alamat outreach hanya lolos cek MX (port 25 di jaringan rumah tertutup, Reacher belum terpasang). Draf Gmail-nya dikirim?",
    "opsi": [
-    "Kirim juga (Rekomendasi: alamat tertulis di situs resmi usaha, MX Gmail aktif; risiko mental kecil)",
+    "Kirim juga (Rekomendasi: kedua alamat tertulis di situs resmi usaha, MX Gmail aktif)",
     "Tahan sampai dicek lewat hotspot/jaringan lain",
     "Jalankan pasang-reacher.ps1 dulu"
    ],
    "dipakai_sementara": "tidak ada yang dikirim; Felix yang mengirim"
   }
  ],
- "catatan": "Run 15.00 Jum 13 Nov: run 10.00 merender carousel cek-proposal tetapi tidak menulis status. Antrian cloud 404 (antrian/antrian.json belum ada). Windsor: Traksi tayang 12 Nov 17.46, carousel Tiga Label tayang 13 Nov 12.22. Reels hari ini diproduksi laptop sendiri: 'Kasmu cukup berapa bulan?' siap-unggah 16.20, menunggu 'Unggah sekarang' di Manager cloud sebelum 19.30. Kuota ElevenLabs sisa sekitar 548 huruf (cukup untuk 1 Reels lagi). Stok Reels Sabtu 14 Nov: kosong, perlu naskah cloud 15.40 atau run 10.00 Sabtu menulis sendiri."
+ "catatan": "Run 10.00 Sab 14 Nov. Antrian cloud masih 404 (antrian/antrian.json belum ada; perlu CA certifi karena SSL Python laptop gagal). Reels hari ini: rombak sedang berjalan di sesi Claude Code lain, menunggu dokumen rombak dari Felix; tenggat siap-unggah sebelum 18.00. Bila belum siap di run 15.00, run itu menyelesaikannya dari dasar-k.mp4. Stok Reels Senin 16 Nov (S-C 'Cek ini sebelum kirim dek'): naskah belum ada di folder; dikerjakan run 15.00 setelah Reels hari ini siap (B12.4).",
+ "perangkat": "laptop"
 }
