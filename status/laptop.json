@@ -1,6 +1,6 @@
 {
- "diperbarui": "2026-11-15T11:10:00+07:00",
- "jalan": "otomatis 10.00",
+ "diperbarui": "2026-11-15T15:40:00+07:00",
+ "jalan": "otomatis 15.00",
  "item": [
   {
    "format": "reels",
@@ -214,6 +214,28 @@
    ],
    "qc": "V2 dirombak 14 Nov atas permintaan Felix: Gaya 3 'angka jadi pahlawan', palet B krem + merah bata (preset nestly + warna kustom), isi baru (angka contoh baru: runway 3 bulan, 10 juta vs 2 juta, 20 rb, 120 pesanan). 8 halaman JPG 1080x1350. cek_teks_carousel: 0 KRITIS setelah 3 putaran (hapus 'Rp', judul slide 7 jadi 9 kata, kata 'kamu' ditambah); saran: slide 8 tanpa kata kunci DM (MOFU, objektif simpan). Builder: nol peringatan kontras, zona aman, variasi (7 layout). Lembar kontak dilihat: teks utuh. cek-overlap BELUM dijalankan ulang untuk isi baru (butuh tarik ulang posting Instagram lewat Windsor). V1 diarsipkan di carousel/2026-11-20-kamus-investor/arsip/v1. | V2b 14 Nov: ditambah 4 hero objek gambar kode (buku kamus, tumpukan koin, megafon, papan centang; PNG transparan di carousel/2026-11-20-kamus-investor/hero/) di kanan-bawah, ukuran diperkecil agar tidak menutup teks; slide 5 memakai angka outline 120 sebagai hero. Lembar kontak dilihat ulang: teks utuh.",
    "alasan_pilihan": "Perintah /manager lanjut A6 carousel Jum 20 Nov dari Manager cloud."
+  },
+  {
+   "format": "carousel",
+   "nama": "grafik-sumbu",
+   "antrian_id": "",
+   "seri": "S-D",
+   "jam_tayang": "2026-11-17 12:00",
+   "status": "siap-unggah",
+   "judul": "Grafik naik 4 persen, kenapa terlihat naik tiga kali?",
+   "caption": "Grafik penjualanmu naik 4 persen, tapi di slide terlihat naik tiga kali lipat? Itu bisa terjadi kalau sumbunya tidak mulai dari nol.\n\nContoh di carousel ini: penjualan 100 porsi jadi 104 porsi. Dengan sumbu mulai dari 98, batang kedua terlihat tiga kali lebih tinggi. Dengan sumbu dari 0, selisihnya tampak sebesar aslinya, 4 persen. Pembaca dek yang menghitung sendiri akan menemukan bedanya.\n\nMulai batang dari nol, dan tulis angka aslinya di atas batang.\n\nSimpan, lalu cek grafik di dekmu sebelum dikirim.\n\nGrafikmu paling bermasalah di nomor berapa: 1, 2, 3, atau 4? Tulis di komentar.\n\nSemua angka di carousel ini ilustratif.\n\n#pitchdeck #umkm #proposalkemitraan #presentasi #datadek",
+   "urls": [
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/c02d1cd1884719511e62a0715188c11da0cd8605/carousel-17-nov-grafik-sumbu/halaman-1.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/b14086a1337c25b8d1e99d03b7467c8a91f580ce/carousel-17-nov-grafik-sumbu/halaman-2.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/a4be99a4cd302875a90dda936096daba166ff9ea/carousel-17-nov-grafik-sumbu/halaman-3.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/253ddc9e1bfd024f0364fcaecd7601a8ea6ed870/carousel-17-nov-grafik-sumbu/halaman-4.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/2844efe5434220633b13cd668f8c057af640de6d/carousel-17-nov-grafik-sumbu/halaman-5.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/4cc39d42e72013573bb6fac42d83a414072af401/carousel-17-nov-grafik-sumbu/halaman-6.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/0f9fdb8e2edf607c3bef41116593900e14b18061/carousel-17-nov-grafik-sumbu/halaman-7.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/09a3f000c8a9de8de1b2e1c75adfe003ac9ba4b9/carousel-17-nov-grafik-sumbu/halaman-8.jpg"
+   ],
+   "qc": "8 halaman JPG 1080x1350, preset dasar-trading + warna kustom (teal gelap + kuning). cek_teks_carousel 0 KRITIS setelah 1 putaran (isi slide 2 dipangkas jadi 2 kalimat, kata 'kamu' ditambah); saran: slide 8 tanpa kata kunci DM (MOFU, objektif simpan). Builder: nol peringatan kontras, zona aman, variasi setelah 1 putaran (isi dicerahkan, slide 6 ganti layout kartu). Lembar kontak dilihat: teks utuh. Pemicu komentar 1/2/3/4. Gerbang sinkron tayang: kandidat awal 'Tiga label data' BLOKIR (tayang 13 Nov, cek-overlap lolos tapi caption dibaca manual), diganti topik sumbu grafik; cek-overlap tanpa blokir, tidak ada posting tayang yang membahas grafik. Semua angka ilustratif dan berlabel. Belum dilihat Felix.",
+   "alasan_pilihan": "Slot Sel 17 Nov 12.00 kosong (carousel cek-proposal-mitra tayang lebih awal 14 Nov), antrian repo 404. Naskah ditulis Manager laptop. Seri S-D MOFU: Sen S-B, Sel Reels S-C, Kam S-A, Jum S-C, Sab S-B; carousel S-D melengkapi rotasi minggu ini (B13.4 butir 5)."
   }
  ],
  "agen_hari_ini": [
@@ -221,6 +243,12 @@
    "agent": "A1",
    "tugas": "Tarik 13 posting Instagram (Windsor, 17 Okt-15 Nov) untuk gerbang sinkron tayang + pembersihan: Reels pesaing dan carousel cek-proposal-mitra ditandai tayang",
    "bukti": "laporan/2026-11-15-tayang.json",
+   "status": "selesai"
+  },
+  {
+   "agent": "A1",
+   "tugas": "Run 15.00: carousel Sel 17 Nov 12.00 'grafik-sumbu' (S-D) dibuat, dirender, dilihat, URL siap",
+   "bukti": "carousel/2026-11-17-grafik-sumbu/jadi/lembar-kontak.jpg",
    "status": "selesai"
   },
   {
@@ -262,13 +290,13 @@
  },
  "pertanyaan": [
   {
-   "teks": "Carousel 'cek-proposal-mitra' sudah tayang Sab 14 Nov 19.00, jadi slot carousel Selasa 17 Nov 12.00 kosong. Diisi apa?",
+   "teks": "Slot carousel Selasa 17 Nov 12.00 kosong karena 'cek-proposal-mitra' tayang lebih awal. Laptop 15 Nov 15.00 sudah membuat carousel baru 'grafik-sumbu' (S-D, siap-unggah). Dipakai untuk Selasa?",
    "opsi": [
-    "Naskah carousel baru dari Manager cloud Minggu 21.00, laptop render Senin 10.00 (Rekomendasi: carousel Jumat tetap utuh)",
-    "Majukan carousel 'Kamus investor' (siap-unggah) ke Selasa, Jumat diisi carousel baru",
+    "Ya, 'grafik-sumbu' tayang Selasa 12.00, 'Kamus investor' tetap Jumat 20 Nov (Rekomendasi: kedua slot terisi, tidak ada isi kembar)",
+    "Tukar: 'Kamus investor' ke Selasa, 'grafik-sumbu' ke Jumat",
     "Selasa tanpa carousel minggu ini"
    ],
-   "dipakai_sementara": "opsi 1"
+   "dipakai_sementara": "opsi 1 (naskah cloud Minggu 21.00 tidak perlu untuk slot ini)"
   },
   {
    "teks": "Reels Senin 16 Nov ditukar: 'Cek ini sebelum kirim dek' kembar isi dengan carousel Selasa 12.00 (2 dari 4 butir sama). Senin pakai yang mana?",
@@ -296,6 +324,6 @@
    "dipakai_sementara": "tidak ada yang dikirim; Felix yang mengirim"
   }
  ],
- "catatan": "Run 10.00 Min 15 Nov: antrian repo 404 (antrian/antrian.json belum ada); alat/perangkat.txt belum ada, status tetap laptop.json. Windsor (trial 30 hari) menunjukkan Reels pesaing tayang 14 Nov 11.59 dan carousel cek-proposal-mitra tayang 14 Nov 19.00 (lebih awal dari jadwal Selasa). Reels Sel 17 Nov 'slide-masalah' (S-C) siap-unggah; naskah ditulis laptop karena slot kosong. Stok Reels siap: Sen 16, Sel 17, Kam 19, Jum 20, Sab 21. Kosong: Reels Rab 18 Nov dan carousel Sel 17 Nov (butuh naskah cloud Minggu 21.00, atau laptop menulis sendiri di run Senin). Hunter MCP gagal tersambung di run ini. Kuota ElevenLabs akun laptop: sisa 32 huruf sampai 4 Des; connector ElevenLabs: terpakai sekitar 1.800 dari 10.000. Semua konten tetap perlu 'unggah' dari Felix di Manager cloud.",
+ "catatan": "Run 15.00 Min 15 Nov: antrian repo masih 404; carousel Sel 17 Nov 'grafik-sumbu' (S-D) siap-unggah. Kandidat pertama 'Tiga label data' ditolak karena sudah tayang 13 Nov (cek-overlap tidak menangkapnya, ditemukan dari baca caption). Kosong tersisa: Reels Rab 18 Nov (naskah cloud Minggu 21.00 atau laptop menulis sendiri Senin 10.00). Hunter MCP timeout; verifikasi email tidak diulang (sudah 4 dicek 10.00). | Run 10.00 Min 15 Nov: antrian repo 404 (antrian/antrian.json belum ada); alat/perangkat.txt belum ada, status tetap laptop.json. Windsor (trial 30 hari) menunjukkan Reels pesaing tayang 14 Nov 11.59 dan carousel cek-proposal-mitra tayang 14 Nov 19.00 (lebih awal dari jadwal Selasa). Reels Sel 17 Nov 'slide-masalah' (S-C) siap-unggah; naskah ditulis laptop karena slot kosong. Stok Reels siap: Sen 16, Sel 17, Kam 19, Jum 20, Sab 21. Kosong: Reels Rab 18 Nov dan carousel Sel 17 Nov (butuh naskah cloud Minggu 21.00, atau laptop menulis sendiri di run Senin). Hunter MCP gagal tersambung di run ini. Kuota ElevenLabs akun laptop: sisa 32 huruf sampai 4 Des; connector ElevenLabs: terpakai sekitar 1.800 dari 10.000. Semua konten tetap perlu 'unggah' dari Felix di Manager cloud.",
  "perangkat": "laptop"
 }
