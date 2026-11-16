@@ -1,7 +1,21 @@
 {
- "diperbarui": "2026-11-15T15:40:00+07:00",
- "jalan": "otomatis 15.00",
+ "diperbarui": "2026-11-16T10:30:00+07:00",
+ "jalan": "otomatis 10.00",
  "item": [
+  {
+   "format": "reels",
+   "nama": "deck-atau-katalog",
+   "antrian_id": "",
+   "seri": "S-E",
+   "jam_tayang": "2026-11-18 19:30",
+   "status": "terhambat",
+   "judul": "Deck atau katalog? Salah kirim, pembacanya bingung",
+   "caption": "Deck atau katalog? Kalau salah kirim, pembacanya bingung harus melakukan apa.\n\nDeck dibaca calon mitra atau pemodal, yang diminta memutuskan: ikut atau tidak. Katalog dibaca calon pembeli, yang diminta memilih: produk apa, harganya berapa, cara pesannya bagaimana.\n\nContoh di video: Geprek Lumbung mengirim deck kemitraan ke pembeli yang cuma mau pesan. Pembeli itu tidak menemukan harga paket dan cara pesan.\n\nTanya satu hal sebelum mengirim: pembacanya mau memutuskan apa?\n\nMinggu ini kamu kirim dokumen ke siapa? Tulis MITRA atau PEMBELI di komentar.\n\nGeprek Lumbung: usaha karangan untuk portofolio. Contoh di video hanya ilustrasi.\n\n#katalogusaha #pitchdeck #umkm #proposalkemitraan #presentasi",
+   "caption_tiktok": "Deck atau katalog? Kamu kirim ke siapa minggu ini: MITRA atau PEMBELI? Tulis di komentar. Geprek Lumbung: usaha karangan.\n\n#katalogusaha #pitchdeck #umkm #tipsusaha",
+   "urls": [],
+   "qc": "BELUM ADA VIDEO. Naskah VO 7 baris + caption siap, [CEK KATA] lolos, cek-overlap tanpa blokir. Terhambat: (1) alat/vo-reels.py tidak ada di folder, (2) node/Playwright butuh persetujuan yang tidak bisa dijawab di run tanpa layar. Detail: video/2026-11-18-deck-atau-katalog/STATUS.md.",
+   "alasan_pilihan": "Slot Rab 18 Nov kosong; seri S-E jembatan pertama B18.15.4 butir 5; stok 16-21 Nov penuh S-A..S-D, porsi S-E/S-F/S-G belum terisi."
+  },
   {
    "format": "reels",
    "nama": "slide-masalah",
@@ -240,8 +254,20 @@
  ],
  "agen_hari_ini": [
   {
+   "agent": "A6",
+   "tugas": "Run 10.00 Sen 16 Nov: Reels Rab 18 Nov 'Deck atau katalog?' (S-E): naskah VO + caption siap, video belum dirender (alat/vo-reels.py hilang, node butuh izin)",
+   "bukti": "video/2026-11-18-deck-atau-katalog/STATUS.md",
+   "status": "terhambat"
+  },
+  {
    "agent": "A1",
-   "tugas": "Tarik 13 posting Instagram (Windsor, 17 Okt-15 Nov) untuk gerbang sinkron tayang + pembersihan: Reels pesaing dan carousel cek-proposal-mitra ditandai tayang",
+   "tugas": "Antrian cloud tidak terambil (SSL certificate verify failed); Reels Sen 16 'pembeli-baru' tetap siap-unggah untuk 19.30",
+   "bukti": "",
+   "status": "terhambat"
+  },
+  {
+   "agent": "A1",
+   "tugas": "(15 Nov) Tarik 13 posting Instagram (Windsor, 17 Okt-15 Nov) untuk gerbang sinkron tayang + pembersihan: Reels pesaing dan carousel cek-proposal-mitra ditandai tayang",
    "bukti": "laporan/2026-11-15-tayang.json",
    "status": "selesai"
   },
@@ -289,6 +315,23 @@
   "buang": 0
  },
  "pertanyaan": [
+  {
+   "teks": "Reels Rab 18 Nov belum bisa dirender otomatis (alat/vo-reels.py hilang, node minta izin). Cara membukanya?",
+   "opsi": [
+    "Felix jalankan '/manager lanjut A6 reels deck-atau-katalog' di layar, naskah dan caption sudah siap (Rekomendasi: tercepat, tidak mengubah pengaman)",
+    "Felix kembalikan zip alat lengkap (vo-reels.py) ke folder ini",
+    "Rab 18 Nov pakai stok yang sudah ada (geser Reels Kam-Sab maju satu hari)"
+   ],
+   "dipakai_sementara": "opsi 1; Reels lain tidak berubah"
+  },
+  {
+   "teks": "Porsi B18.15.4 minggu 16-21 Nov (S-G 2, deck 4, S-E 1, S-F 1) belum terpenuhi: stok sudah 7 dari 8 unggahan bergenre S-A..S-D, hanya Rab 18 Nov yang S-E. Carousel Jum 20 Nov 'kamus-investor' (S-B) mau ditukar ke seri baru?",
+   "opsi": [
+    "Tetap (Rekomendasi: sudah jadi dan dirombak Felix 14 Nov; porsi mulai terpenuhi dari 23 Nov)",
+    "Ganti carousel Jum 20 Nov ke S-E atau S-G, 'kamus-investor' dipindah ke minggu depan"
+   ],
+   "dipakai_sementara": "opsi 1"
+  },
   {
    "teks": "Slot carousel Selasa 17 Nov 12.00 kosong karena 'cek-proposal-mitra' tayang lebih awal. Laptop 15 Nov 15.00 sudah membuat carousel baru 'grafik-sumbu' (S-D, siap-unggah). Dipakai untuk Selasa?",
    "opsi": [
