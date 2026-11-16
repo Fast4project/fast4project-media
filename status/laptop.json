@@ -1,6 +1,6 @@
 {
- "diperbarui": "2026-11-16T10:30:00+07:00",
- "jalan": "otomatis 10.00",
+ "diperbarui": "2026-11-16T15:05:00+07:00",
+ "jalan": "otomatis 15.00",
  "item": [
   {
    "format": "reels",
@@ -253,6 +253,12 @@
   }
  ],
  "agen_hari_ini": [
+  {
+   "agent": "A6",
+   "tugas": "Run 15.00 Sen 16 Nov: Reels hari ini (pembeli-baru) sudah siap-unggah; Reels Rab 18 Nov tetap terhambat (alat/vo-reels.py tidak ada, node butuh izin). Antrian cloud 404. Tidak ada render baru.",
+   "bukti": "video/2026-11-18-deck-atau-katalog/STATUS.md",
+   "status": "terhambat"
+  },
   {
    "agent": "A6",
    "tugas": "Run 10.00 Sen 16 Nov: Reels Rab 18 Nov 'Deck atau katalog?' (S-E): naskah VO + caption siap, video belum dirender (alat/vo-reels.py hilang, node butuh izin)",
