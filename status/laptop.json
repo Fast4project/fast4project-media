@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-17T15:55:00+07:00",
+ "diperbarui": "2026-11-17T12:00:00+07:00",
  "jalan": "otomatis 15.00",
  "item": [
   {
@@ -7,19 +7,13 @@
    "nama": "deck-atau-katalog",
    "antrian_id": "",
    "seri": "S-E",
-   "tema": "D",
    "jam_tayang": "2026-11-18 19:30",
-   "status": "siap-unggah",
+   "status": "terhambat",
    "judul": "Deck atau katalog? Salah kirim, pembacanya bingung",
    "caption": "Deck atau katalog? Kalau salah kirim, pembacanya bingung harus melakukan apa.\n\nDeck dibaca calon mitra atau pemodal, yang diminta memutuskan: ikut atau tidak. Katalog dibaca calon pembeli, yang diminta memilih: produk apa, harganya berapa, cara pesannya bagaimana.\n\nContoh di video: Geprek Lumbung mengirim deck kemitraan ke pembeli yang cuma mau pesan. Pembeli itu tidak menemukan harga paket dan cara pesan.\n\nTanya satu hal sebelum mengirim: pembacanya mau memutuskan apa?\n\nMinggu ini kamu kirim dokumen ke siapa? Tulis MITRA atau PEMBELI di komentar.\n\nGeprek Lumbung: usaha karangan untuk portofolio. Contoh di video hanya ilustrasi.\n\n#katalogusaha #pitchdeck #umkm #proposalkemitraan #presentasi",
    "caption_tiktok": "Deck atau katalog? Kamu kirim ke siapa minggu ini: MITRA atau PEMBELI? Tulis di komentar. Geprek Lumbung: usaha karangan.\n\n#katalogusaha #pitchdeck #umkm #tipsusaha",
-   "urls": [
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/ac4b8fc575689fad1c88a5aca7f92142e267c68e/reels-18-nov-deck-atau-katalog/final.mp4"
-   ],
-   "cover": {
-    "thumb_offset": 500
-   },
-   "qc": "V1 run 15.00 Sel 17 Nov. Folder lama hilang dari laptop, naskah VO ditulis ulang 8 baris mengikuti B18.19 (hook masalah nyata 'Pembeli cuma tanya harga, tapi yang kamu kirim proposal kerja sama', deck dan katalog dijelaskan: siapa pembacanya, dia memutuskan apa). Caption tidak berubah. final.mp4 1080x1920, 36,9 dtk, tema D (sama dengan Reels 17 Nov). Hook utuh frame 0, SFX hit 0,00, VO 0,10 dtk, VO dan teks selaras per adegan (cut = awal baris - 0,05). Audio: -14,6 LUFS, peak -1,6 dBFS, LRA 2,0. SFX 17 efek 5 jenis (hit, whoosh, pop, tick, ding), dibuat sintetis ffmpeg (bebas lisensi), jarak >= 1,2 dtk. SUARA: edge-tts id-ID-ArdiNeural, BUKAN Liam: connector ElevenLabs dan node butuh izin yang tidak bisa dijawab run tanpa layar; render lewat Playwright Python. Jeda antarkalimat di dalam baris sekitar 0,75 dtk. ukur-retensi.py, cek-format, cek-posisi-tengah.py tidak ada di folder laptop ini, jadi tidak dijalankan; posisi dicek mata: margin 150 px, isi di y 410-1480. Lembar 10 frame dilihat: teks utuh, tanpa tabrakan, label Geprek Lumbung karangan di adegan contoh. [CEK KATA] + /stop-slop naskah: lolos. F2 durasi 36,9 dtk (catatan B12.2). Belum didengar Felix.",
+   "urls": [],
+   "qc": "BELUM ADA VIDEO. Naskah VO 7 baris + caption siap, [CEK KATA] lolos, cek-overlap tanpa blokir. Terhambat: (1) alat/vo-reels.py tidak ada di folder, (2) node/Playwright butuh persetujuan yang tidak bisa dijawab di run tanpa layar. Detail: video/2026-11-18-deck-atau-katalog/STATUS.md.",
    "alasan_pilihan": "Slot Rab 18 Nov kosong; seri S-E jembatan pertama B18.15.4 butir 5; stok 16-21 Nov penuh S-A..S-D, porsi S-E/S-F/S-G belum terisi."
   },
   {
@@ -29,9 +23,7 @@
    "seri": "S-C",
    "tema": "D",
    "jam_tayang": "2026-11-17 19:30",
-   "status": "tayang",
-   "permalink": "https://www.instagram.com/reel/Df1EdGBk5wv/",
-   "tayang_catatan": "Tayang 17 Nov 11.27 WIB (Windsor 17 Nov 15.xx), lebih awal dari 19.30. Folder repo media dihapus 17 Nov.",
+   "status": "siap-unggah",
    "judul": "Slide masalahmu cuma satu kalimat?",
    "caption": "\"Banyak orang sulit cari makan siang sehat.\"\n\nKalau slide masalahmu cuma berisi kalimat ini, pembaca dek langsung bertanya tiga hal: siapa orangnya, seberapa sulit, dan akibatnya apa.\n\nJawab masing-masing dengan satu baris:\nSiapa: pekerja kantor yang istirahatnya 45 menit.\nSeberapa: antre 20 menit di warung terdekat.\nAkibat: sisa waktu makan 10 menit, yang dibeli gorengan.\n\nDengan tiga baris ini, pembaca dekmu bisa mengecek masalahnya sendiri.\n\nSlide masalahmu kurang yang mana? Tulis SIAPA, SEBERAPA, atau AKIBAT di komentar.\n\nSimpan, cek lagi sebelum dekmu dikirim.\n\nContoh di video dari Katering Rantang Hijau, usaha karangan untuk portofolio. Semua angka ilustratif.\n\n#pitchdeck #umkm #proposalusaha #proposalkemitraan #presentasi",
    "caption_tiktok": "Slide masalahmu cuma satu kalimat? Kurang yang mana: SIAPA, SEBERAPA, atau AKIBAT? Rantang Hijau: usaha karangan, angka ilustratif.\n\n#pitchdeck #umkm #bisnisumkm #tipsusaha",
@@ -51,9 +43,7 @@
    "seri": "S-B",
    "tema": "B",
    "jam_tayang": "2026-11-16 19:30",
-   "status": "tayang",
-   "permalink": "https://www.instagram.com/reel/DfzRQMMgCRm/",
-   "tayang_catatan": "Tayang 16 Nov 18.40 WIB (Windsor 17 Nov). Folder repo media dihapus 17 Nov.",
+   "status": "siap-unggah",
    "judul": "Satu pembeli baru, biayanya berapa?",
    "caption": "Iklan 1 juta sebulan, datang 50 pembeli baru. Berarti satu pembeli baru biayanya 20 ribu.\n\nKalau untung satu porsi 5 ribu, pembeli itu belum balik modal di kunjungan pertama. Karena itu investor dan calon mitra menanyakan dua angka bersamaan: biaya dapat satu pembeli, dan berapa kali pembeli datang lagi.\n\nPembeli geprek ini harus datang berapa kali supaya impas? Jawab angkanya di komentar.\n\nContoh di video dari Geprek Lumbung, usaha karangan untuk portofolio. Semua angka ilustratif.\n\nKirim ke teman yang lagi pasang iklan.\n\n#pitchdeck #umkm #franchise #proposalkemitraan #presentasi",
    "caption_tiktok": "Pembeli baru harus datang berapa kali supaya impas? Jawab angkanya di komentar. Geprek Lumbung: usaha karangan, angka ilustratif.\n\n#pitchdeck #umkm #franchise #usahakecil",
@@ -249,43 +239,67 @@
    "judul": "Grafik naik 4 persen, kenapa terlihat naik tiga kali?",
    "caption": "Grafik penjualanmu naik 4 persen, tapi di slide terlihat naik tiga kali lipat? Itu bisa terjadi kalau sumbunya tidak mulai dari nol.\n\nContoh di carousel ini: penjualan 100 porsi jadi 104 porsi. Dengan sumbu mulai dari 98, batang kedua terlihat tiga kali lebih tinggi. Dengan sumbu dari 0, selisihnya tampak sebesar aslinya, 4 persen. Pembaca dek yang menghitung sendiri akan menemukan bedanya.\n\nMulai batang dari nol, dan tulis angka aslinya di atas batang.\n\nSimpan, lalu cek grafik di dekmu sebelum dikirim.\n\nGrafikmu paling bermasalah di nomor berapa: 1, 2, 3, atau 4? Tulis di komentar.\n\nSemua angka di carousel ini ilustratif.\n\n#pitchdeck #umkm #proposalkemitraan #presentasi #datadek",
    "urls": [
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/c02d1cd1884719511e62a0715188c11da0cd8605/carousel-17-nov-grafik-sumbu/halaman-1.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/b14086a1337c25b8d1e99d03b7467c8a91f580ce/carousel-17-nov-grafik-sumbu/halaman-2.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/a4be99a4cd302875a90dda936096daba166ff9ea/carousel-17-nov-grafik-sumbu/halaman-3.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/253ddc9e1bfd024f0364fcaecd7601a8ea6ed870/carousel-17-nov-grafik-sumbu/halaman-4.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/2844efe5434220633b13cd668f8c057af640de6d/carousel-17-nov-grafik-sumbu/halaman-5.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/4cc39d42e72013573bb6fac42d83a414072af401/carousel-17-nov-grafik-sumbu/halaman-6.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/0f9fdb8e2edf607c3bef41116593900e14b18061/carousel-17-nov-grafik-sumbu/halaman-7.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/09a3f000c8a9de8de1b2e1c75adfe003ac9ba4b9/carousel-17-nov-grafik-sumbu/halaman-8.jpg"
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/ee483840de0590d4c12798c181d903bf59ca0af5/carousel-17-nov-grafik-sumbu/halaman-1.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/502b94692645e4c38e56625f63b6bd004ad83801/carousel-17-nov-grafik-sumbu/halaman-2.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/c6cf5fe54d109cc50b8c9475780f792430eaec53/carousel-17-nov-grafik-sumbu/halaman-3.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/6f16eb5f9830e17709177014fbafe51a631c954a/carousel-17-nov-grafik-sumbu/halaman-4.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/adf52e2e4772a06b46df09bbc858946ae19f436f/carousel-17-nov-grafik-sumbu/halaman-5.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/e466d74fdaac8f53db990212ecfa6b9c56e9bb4b/carousel-17-nov-grafik-sumbu/halaman-6.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/5884c768eb52e1064f12145e51c3e4cc3c205128/carousel-17-nov-grafik-sumbu/halaman-7.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/bd1ae1c6c944dcc429c14785c2edd91562f62a1a/carousel-17-nov-grafik-sumbu/halaman-8.jpg"
    ],
-   "qc": "8 halaman JPG 1080x1350, preset dasar-trading + warna kustom (teal gelap + kuning). cek_teks_carousel 0 KRITIS setelah 1 putaran (isi slide 2 dipangkas jadi 2 kalimat, kata 'kamu' ditambah); saran: slide 8 tanpa kata kunci DM (MOFU, objektif simpan). Builder: nol peringatan kontras, zona aman, variasi setelah 1 putaran (isi dicerahkan, slide 6 ganti layout kartu). Lembar kontak dilihat: teks utuh. Pemicu komentar 1/2/3/4. Gerbang sinkron tayang: kandidat awal 'Tiga label data' BLOKIR (tayang 13 Nov, cek-overlap lolos tapi caption dibaca manual), diganti topik sumbu grafik; cek-overlap tanpa blokir, tidak ada posting tayang yang membahas grafik. Semua angka ilustratif dan berlabel. Belum dilihat Felix.",
+   "qc": "V2 rombak 17 Nov (P1-P6 disusun Manager laptop atas pilihan Felix; dok Project tidak ada di laptop): grafik batang/garis sungguhan dari angka yang sama (100, 104, sumbu 98/0) di slide 1-6, kata hantu tertimpa kartu dibuang (slide 2, 5, 6), margin kanan >= 110 px. Caption, angka, urutan, palet tidak berubah. cek_teks_carousel 0 KRITIS (2 saran tetap); cek-tulisan-manusia 0 tell; builder nol peringatan (zona aman, tumpang tindih, kontras, variasi); 8 JPG 1080x1350; lembar kontak dan tiap halaman dilihat. V1 disimpan di jadi-v1/. Belum dilihat Felix.",
    "alasan_pilihan": "Slot Sel 17 Nov 12.00 kosong (carousel cek-proposal-mitra tayang lebih awal 14 Nov), antrian repo 404. Naskah ditulis Manager laptop. Seri S-D MOFU: Sen S-B, Sel Reels S-C, Kam S-A, Jum S-C, Sab S-B; carousel S-D melengkapi rotasi minggu ini (B13.4 butir 5)."
   }
  ],
  "agen_hari_ini": [
   {
+   "agent": "A1",
+   "tugas": "Rombak carousel grafik-sumbu P1-P6 (grafik sungguhan, buang kata hantu), 8 JPG baru di repo media",
+   "bukti": "carousel/2026-11-17-grafik-sumbu/jadi/lembar-kontak.jpg",
+   "status": "selesai"
+  },
+  {
    "agent": "A6",
-   "tugas": "Run 15.00 Sel 17 Nov: Reels Rab 18 Nov 'Deck atau katalog?' (S-E) diproduksi sampai final (naskah ulang B18.19, VO edge-tts, render Playwright Python, SFX sintetis, mix -14,6 LUFS), URL publik siap",
-   "bukti": "video/2026-11-18-deck-atau-katalog/final.mp4",
-   "status": "selesai"
+   "tugas": "Run 15.00 Sen 16 Nov: Reels hari ini (pembeli-baru) sudah siap-unggah; Reels Rab 18 Nov tetap terhambat (alat/vo-reels.py tidak ada, node butuh izin). Antrian cloud 404. Tidak ada render baru.",
+   "bukti": "video/2026-11-18-deck-atau-katalog/STATUS.md",
+   "status": "terhambat"
+  },
+  {
+   "agent": "A6",
+   "tugas": "Run 10.00 Sen 16 Nov: Reels Rab 18 Nov 'Deck atau katalog?' (S-E): naskah VO + caption siap, video belum dirender (alat/vo-reels.py hilang, node butuh izin)",
+   "bukti": "video/2026-11-18-deck-atau-katalog/STATUS.md",
+   "status": "terhambat"
   },
   {
    "agent": "A1",
-   "tugas": "Pembersihan lewat Windsor (posting 15-17 Nov): Reels pembeli-baru dan slide-masalah ditandai tayang, folder repo media dihapus. Carousel grafik-sumbu belum tayang (slot Sel 12.00 lewat)",
-   "bukti": "status/laptop.json",
-   "status": "selesai"
-  },
-  {
-   "agent": "A1",
-   "tugas": "Antrian cloud tidak terambil (SSL certificate verify failed); repo media tidak punya folder antrian (404)",
+   "tugas": "Antrian cloud tidak terambil (SSL certificate verify failed); Reels Sen 16 'pembeli-baru' tetap siap-unggah untuk 19.30",
    "bukti": "",
    "status": "terhambat"
   },
   {
+   "agent": "A1",
+   "tugas": "(15 Nov) Tarik 13 posting Instagram (Windsor, 17 Okt-15 Nov) untuk gerbang sinkron tayang + pembersihan: Reels pesaing dan carousel cek-proposal-mitra ditandai tayang",
+   "bukti": "laporan/2026-11-15-tayang.json",
+   "status": "selesai"
+  },
+  {
+   "agent": "A1",
+   "tugas": "Run 15.00: carousel Sel 17 Nov 12.00 'grafik-sumbu' (S-D) dibuat, dirender, dilihat, URL siap",
+   "bukti": "carousel/2026-11-17-grafik-sumbu/jadi/lembar-kontak.jpg",
+   "status": "selesai"
+  },
+  {
+   "agent": "A6",
+   "tugas": "Reels Sel 17 Nov 'Slide masalahmu cuma satu kalimat?' (S-C, tema D, VO edge-tts + musik + SFX)",
+   "bukti": "video/2026-11-17-slide-masalah/final.mp4",
+   "status": "selesai"
+  },
+  {
    "agent": "A4",
-   "tugas": "Verifikasi email tidak diulang: 4 alamat sudah dicek MX 15 Nov, port 25 tertutup, Reacher belum terpasang. Hunter MCP gagal tersambung (timeout) di run ini, riset prospek tidak dijalankan di laptop; 0 balasan ditempel Felix",
+   "tugas": "Verifikasi email antrian siap dikirim: 4 dicek, cek MX saja (Reacher belum terpasang)",
    "bukti": "claude/outreach-antrian.md",
-   "status": "terhambat"
+   "status": "selesai"
   },
   {
    "agent": "A2",
@@ -295,15 +309,15 @@
   },
   {
    "agent": "A3",
-   "tugas": "Tidak ada brief; Rab 18 Nov 10.00 contoh katalog Geprek Lumbung (B18.15.7, giliran 16-21 Nov)",
+   "tugas": "Tidak ada perintah atau brief; Rabu 18 Nov contoh dek sektor minggu ini",
    "bukti": "",
-   "status": "dikerjakan"
+   "status": "terhambat"
   },
   {
    "agent": "A5",
-   "tugas": "Tidak ada perintah; Rab 18 Nov 15.00 portofolio dari contoh katalog A3",
+   "tugas": "Tidak ada perintah; Rabu 18 Nov 15.00 carousel portofolio",
    "bukti": "",
-   "status": "dikerjakan"
+   "status": "terhambat"
   }
  ],
  "verifikasi": {
@@ -314,27 +328,36 @@
  },
  "pertanyaan": [
   {
-   "teks": "Carousel 'grafik-sumbu' (S-D) belum tayang; slot Selasa 17 Nov 12.00 sudah lewat. Kapan ditayangkan?",
+   "teks": "Reels Rab 18 Nov belum bisa dirender otomatis (alat/vo-reels.py hilang, node minta izin). Cara membukanya?",
    "opsi": [
-    "Tayang Rabu 18 Nov 12.00 sebagai pengganti slot Selasa (Rekomendasi: sudah jadi, jadwal Jumat tetap 'kamus-investor')",
-    "Geser ke Selasa 24 Nov 12.00",
-    "Unggah sekarang juga hari ini"
+    "Felix jalankan '/manager lanjut A6 reels deck-atau-katalog' di layar, naskah dan caption sudah siap (Rekomendasi: tercepat, tidak mengubah pengaman)",
+    "Felix kembalikan zip alat lengkap (vo-reels.py) ke folder ini",
+    "Rab 18 Nov pakai stok yang sudah ada (geser Reels Kam-Sab maju satu hari)"
    ],
-   "dipakai_sementara": "tetap siap-unggah; tidak ditayangkan tanpa 'unggah' dari Felix"
-  },
-  {
-   "teks": "Reels Rab 18 Nov 'Deck atau katalog?' memakai suara edge-tts (Ardi), bukan Liam, karena run otomatis tidak bisa memakai connector ElevenLabs. Pakai yang mana?",
-   "opsi": [
-    "Tayang dengan suara Ardi yang sekarang (Rekomendasi: video sudah lolos QC audio, slot besok terisi)",
-    "Felix jalankan '/manager lanjut A6 suara Liam deck-atau-katalog' di layar sebelum 18.00 Rab 18 Nov; visual dan SFX tetap, hanya VO diganti"
-   ],
-   "dipakai_sementara": "opsi 1"
+   "dipakai_sementara": "opsi 1; Reels lain tidak berubah"
   },
   {
    "teks": "Porsi B18.15.4 minggu 16-21 Nov (S-G 2, deck 4, S-E 1, S-F 1) belum terpenuhi: stok sudah 7 dari 8 unggahan bergenre S-A..S-D, hanya Rab 18 Nov yang S-E. Carousel Jum 20 Nov 'kamus-investor' (S-B) mau ditukar ke seri baru?",
    "opsi": [
     "Tetap (Rekomendasi: sudah jadi dan dirombak Felix 14 Nov; porsi mulai terpenuhi dari 23 Nov)",
     "Ganti carousel Jum 20 Nov ke S-E atau S-G, 'kamus-investor' dipindah ke minggu depan"
+   ],
+   "dipakai_sementara": "opsi 1"
+  },
+  {
+   "teks": "Slot carousel Selasa 17 Nov 12.00 kosong karena 'cek-proposal-mitra' tayang lebih awal. Laptop 15 Nov 15.00 sudah membuat carousel baru 'grafik-sumbu' (S-D, siap-unggah). Dipakai untuk Selasa?",
+   "opsi": [
+    "Ya, 'grafik-sumbu' tayang Selasa 12.00, 'Kamus investor' tetap Jumat 20 Nov (Rekomendasi: kedua slot terisi, tidak ada isi kembar)",
+    "Tukar: 'Kamus investor' ke Selasa, 'grafik-sumbu' ke Jumat",
+    "Selasa tanpa carousel minggu ini"
+   ],
+   "dipakai_sementara": "opsi 1 (naskah cloud Minggu 21.00 tidak perlu untuk slot ini)"
+  },
+  {
+   "teks": "Reels Senin 16 Nov ditukar: 'Cek ini sebelum kirim dek' kembar isi dengan carousel Selasa 12.00 (2 dari 4 butir sama). Senin pakai yang mana?",
+   "opsi": [
+    "Senin 'Satu pembeli baru, biayanya berapa?' (Rekomendasi: sudah siap-unggah, tidak kembar; 'Cek ini' tunggu minggu depan)",
+    "Senin 'Cek ini sebelum kirim dek', carousel Selasa digeser ke Jumat 20 Nov"
    ],
    "dipakai_sementara": "opsi 1"
   },
@@ -356,6 +379,6 @@
    "dipakai_sementara": "tidak ada yang dikirim; Felix yang mengirim"
   }
  ],
- "catatan": "Run 15.00 Sel 17 Nov: antrian cloud gagal (SSL), repo tanpa folder antrian. Reels Sel 17 'slide-masalah' tayang 11.27 dan Sen 16 'pembeli-baru' tayang 18.40 (Windsor), folder repo dihapus. Reels Rab 18 Nov 'deck-atau-katalog' (S-E) siap-unggah: folder lamanya tidak ada di laptop, naskah VO ditulis ulang dari caption yang sama; node dan ElevenLabs butuh izin, jadi render lewat Playwright Python + edge-tts + SFX sintetis (skrip baru di video/_bangun: tts_edge.py, render_adegan.py, buat_sfx.py, lembar_cuplikan.py). Carousel 'grafik-sumbu' belum tayang, slot Selasa 12.00 lewat. Stok siap: Reels Rab 18, Kam 19, Jum 20, Sab 21; carousel grafik-sumbu + kamus-investor Jum 20. alat/koordinasi-perangkat.py, ukur-retensi.py, cek-posisi-tengah.py, qc-tata-letak-pptx.py tidak ada di folder laptop ini. | Run 15.00 Min 15 Nov: antrian repo masih 404; carousel Sel 17 Nov 'grafik-sumbu' (S-D) siap-unggah. Kandidat pertama 'Tiga label data' ditolak karena sudah tayang 13 Nov (cek-overlap tidak menangkapnya, ditemukan dari baca caption). Kosong tersisa: Reels Rab 18 Nov (naskah cloud Minggu 21.00 atau laptop menulis sendiri Senin 10.00). Hunter MCP timeout; verifikasi email tidak diulang (sudah 4 dicek 10.00). | Run 10.00 Min 15 Nov: antrian repo 404 (antrian/antrian.json belum ada); alat/perangkat.txt belum ada, status tetap laptop.json. Windsor (trial 30 hari) menunjukkan Reels pesaing tayang 14 Nov 11.59 dan carousel cek-proposal-mitra tayang 14 Nov 19.00 (lebih awal dari jadwal Selasa). Reels Sel 17 Nov 'slide-masalah' (S-C) siap-unggah; naskah ditulis laptop karena slot kosong. Stok Reels siap: Sen 16, Sel 17, Kam 19, Jum 20, Sab 21. Kosong: Reels Rab 18 Nov dan carousel Sel 17 Nov (butuh naskah cloud Minggu 21.00, atau laptop menulis sendiri di run Senin). Hunter MCP gagal tersambung di run ini. Kuota ElevenLabs akun laptop: sisa 32 huruf sampai 4 Des; connector ElevenLabs: terpakai sekitar 1.800 dari 10.000. Semua konten tetap perlu 'unggah' dari Felix di Manager cloud. 16 Nov 18.00: Reels Senin 'pembeli-baru' dibangun ulang V2 (hook masalah nyata, suara Liam eleven_v4, SFX dan transisi wipe kuning). 16 Nov 18.20: Reels Senin pembeli-baru V3 (gaya modern rapi, tanpa getar). 17 Nov 10.30: Reels Selasa slide-masalah dirombak V2 (Liam eleven_v4, tema D modern, 27,6 dtk, semua gerbang lolos). 17 Nov 12.30: Reels slide-masalah V3 (naskah logis, narator profesional, audio jernih, isi di tengah).",
+ "catatan": "Run 15.00 Min 15 Nov: antrian repo masih 404; carousel Sel 17 Nov 'grafik-sumbu' (S-D) siap-unggah. Kandidat pertama 'Tiga label data' ditolak karena sudah tayang 13 Nov (cek-overlap tidak menangkapnya, ditemukan dari baca caption). Kosong tersisa: Reels Rab 18 Nov (naskah cloud Minggu 21.00 atau laptop menulis sendiri Senin 10.00). Hunter MCP timeout; verifikasi email tidak diulang (sudah 4 dicek 10.00). | Run 10.00 Min 15 Nov: antrian repo 404 (antrian/antrian.json belum ada); alat/perangkat.txt belum ada, status tetap laptop.json. Windsor (trial 30 hari) menunjukkan Reels pesaing tayang 14 Nov 11.59 dan carousel cek-proposal-mitra tayang 14 Nov 19.00 (lebih awal dari jadwal Selasa). Reels Sel 17 Nov 'slide-masalah' (S-C) siap-unggah; naskah ditulis laptop karena slot kosong. Stok Reels siap: Sen 16, Sel 17, Kam 19, Jum 20, Sab 21. Kosong: Reels Rab 18 Nov dan carousel Sel 17 Nov (butuh naskah cloud Minggu 21.00, atau laptop menulis sendiri di run Senin). Hunter MCP gagal tersambung di run ini. Kuota ElevenLabs akun laptop: sisa 32 huruf sampai 4 Des; connector ElevenLabs: terpakai sekitar 1.800 dari 10.000. Semua konten tetap perlu 'unggah' dari Felix di Manager cloud. 16 Nov 18.00: Reels Senin 'pembeli-baru' dibangun ulang V2 (hook masalah nyata, suara Liam eleven_v4, SFX dan transisi wipe kuning). 16 Nov 18.20: Reels Senin pembeli-baru V3 (gaya modern rapi, tanpa getar). 17 Nov 10.30: Reels Selasa slide-masalah dirombak V2 (Liam eleven_v4, tema D modern, 27,6 dtk, semua gerbang lolos). 17 Nov 12.30: Reels slide-masalah V3 (naskah logis, narator profesional, audio jernih, isi di tengah).",
  "perangkat": "laptop"
 }
