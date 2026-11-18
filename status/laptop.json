@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-18T22:30:00+07:00",
+ "diperbarui": "2026-11-18T23:45:00+07:00",
  "jalan": "lanjut A6 (Felix di layar) Rab 18 Nov",
  "item": [
   {
@@ -15,14 +15,14 @@
    "caption": "Orang yang membuka profil usahamu biasanya cuma sebentar. Dalam tiga detik, bio harus menjawab tiga hal: jual apa, kirim ke mana, dan cara pesannya.\n\nBio \"Happy shopping. Est. 2021. DM for order.\" belum menjawab satu pun.\n\nTulis ulang satu baris satu jawaban:\nKeripik singkong pedas, tiga level.\nKirim se-Bandung.\nPesan: ketuk WA di bawah.\n\nBio-mu kurang yang mana? Tulis APA, MANA, atau PESAN di komentar.\n\nContoh di video dari Keripik Dapur Sumi, usaha karangan untuk portofolio.\n\nKirim ke teman yang baru buka toko online.\n\n#umkm #bisnisumkm #tipsusaha #instagrambisnis #jualanonline",
    "caption_tiktok": "Bio usahamu lolos tes 3 detik? Jual apa, kirim ke mana, pesan lewat mana. Kurang yang mana: APA, MANA, atau PESAN? Usaha karangan untuk portofolio.\n\n#umkm #bisnisumkm #tipsusaha #jualanonline",
    "urls": [
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/dd1e12bf35f788e09a209541dfc014b7a4d47b7e/reels-19-nov-bio-usaha/final.mp4"
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/12c4cab5b15edea1ab72a103adfd612ed43b4d44/reels-19-nov-bio-usaha/final.mp4"
    ],
    "cover": {
     "thumb_offset": 500
    },
-   "qc": "V2 18 Nov (koreksi Felix: narator edge-tts ditolak, tidak HD dan membosankan; wajib Liam ekspresif, antusias, hangat, profesional; lafal 'pembeli' diperbaiki). Suara Liam (ElevenLabs connector, 'Liam - Energetic, Social Media Creator'), eleven_v4 dengan arahan ekspresi per baris, 'pembeli' dieja IPA /pəmˈbəli/, tempo ringan 1,10 (sebelumnya 1,30) supaya jernih, rantai mix_audio (EQ kejernihan, kompresi, SFX ducking). final.mp4 1080x1920, 30 fps, 34,6 dtk. Hook utuh frame 0, SFX hit 0,00, VO 0,00. -14,6 LUFS, true peak -1,6 dBFS, LRA 4,5 (gain per baris mengikuti arahan naskah). Tema A Kolase Kertas Hidup, 13 adegan, geser + parallax, waktu adegan dari jeda frasa Liam. SFX 37 efek. Label 'usaha karangan untuk portofolio' di layar 6,7 dtk sampai akhir. ukur-retensi 6/6. cek-format 10/11 (F2 durasi 34,6 = catatan). cek-posisi-tengah titik berat 41-52%; peringatan pita/tepi dari tekstur grid penuh layar, isi di x 150-930, y 470-1410. cek-tulisan-manusia: teks ucapan VO, caption, caption_tiktok 0 KRITIS. Teks layar, caption, naskah tidak berubah. Lembar frame dilihat, teks utuh. Felix mendengar klip per baris (minta 'pembeli' diperbaiki), belum mendengar versi lengkap. V1 edge-tts di video/2026-11-19-bio-usaha/arsip/v1-edge (tidak dipakai).",
+   "qc": "V3 18 Nov (koreksi Felix: suara lebih jelas, intonasi profesional enak didengar, tidak terlalu antusias; acuan Reels 13 Nov). Suara Liam ('Liam - Energetic, Social Media Creator', ElevenLabs connector) model multilingual v2 tanpa tag emosi = resep Reels 13 Nov, tempo 1,10. Rantai audio lebih jernih (campur_jernih.py: lowpass 17 kHz, udara +1,5 dB di 9 kHz, kompresi 2:1, SFX ducking). final.mp4 1080x1920, 30 fps, 32,5 dtk. Hook utuh frame 0, SFX hit 0,00, VO 0,00. -14,6 LUFS, true peak -1,6 dBFS, LRA 3,0. Tema A Kolase Kertas Hidup, 13 adegan, geser + parallax, ketukan dari jeda frasa Liam. SFX 37 efek. Label 'usaha karangan untuk portofolio' di layar 6,9 dtk sampai akhir. ukur-retensi 5/6: G2 1,7 dtk agak tenang di 10,2 (catatan B12.2, 2 putaran perbaikan). cek-format 10/11 (F2 durasi 32,5 = catatan). cek-tulisan-manusia: teks ucapan VO, caption, caption_tiktok 0 KRITIS. Teks layar, caption, naskah tidak berubah. Lembar frame dilihat, teks utuh. Belum didengar Felix versi lengkap. V1 edge-tts dan V2 Liam eleven_v4 (terlalu antusias) di arsip/, tidak dipakai.",
    "alasan_pilihan": "Perintah /manager lanjut A6 dari Felix, naskah persis produksi-2026-11-19-bio-usaha.md (keputusan Felix 16 Nov Q1). slide-foto digeser ke 23-28 Nov.",
-   "versi": "v2"
+   "versi": "v3"
   },
   {
    "format": "reels",
@@ -278,7 +278,7 @@
  "agen_hari_ini": [
   {
    "agent": "A6",
-   "tugas": "Reels Kam 19 Nov 19.30 'Bio usahamu lolos tes 3 detik?' (S-G umkm, tema A) V2: narator Liam eleven_v4 ekspresif, lafal 'pembeli' diperbaiki, retensi 6/6, siap-unggah. slide-foto digeser ke 23-28 Nov.",
+   "tugas": "Reels Kam 19 Nov 19.30 'Bio usahamu lolos tes 3 detik?' (S-G umkm, tema A) V3: narator Liam multilingual v2 tenang-profesional (resep 13 Nov), audio lebih jernih, siap-unggah. slide-foto digeser ke 23-28 Nov.",
    "bukti": "video/2026-11-19-bio-usaha/final.mp4",
    "status": "selesai"
   },
