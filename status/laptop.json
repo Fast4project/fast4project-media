@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-19T00:45:00+07:00",
+ "diperbarui": "2026-11-18T12:40:00+07:00",
  "jalan": "lanjut A6 (Felix di layar) Rab 18 Nov",
  "item": [
   {
@@ -30,12 +30,17 @@
    "antrian_id": "",
    "seri": "S-E",
    "jam_tayang": "2026-11-18 19:30",
-   "status": "terhambat",
+   "status": "siap-unggah",
    "judul": "Deck atau katalog? Salah kirim, pembacanya bingung",
    "caption": "Deck atau katalog? Kalau salah kirim, pembacanya bingung harus melakukan apa.\n\nDeck dibaca calon mitra atau pemodal, yang diminta memutuskan: ikut atau tidak. Katalog dibaca calon pembeli, yang diminta memilih: produk apa, harganya berapa, cara pesannya bagaimana.\n\nContoh di video: Geprek Lumbung mengirim deck kemitraan ke pembeli yang cuma mau pesan. Pembeli itu tidak menemukan harga paket dan cara pesan.\n\nTanya satu hal sebelum mengirim: pembacanya mau memutuskan apa?\n\nMinggu ini kamu kirim dokumen ke siapa? Tulis MITRA atau PEMBELI di komentar.\n\nGeprek Lumbung: usaha karangan untuk portofolio. Contoh di video hanya ilustrasi.\n\n#katalogusaha #pitchdeck #umkm #proposalkemitraan #presentasi",
    "caption_tiktok": "Deck atau katalog? Kamu kirim ke siapa minggu ini: MITRA atau PEMBELI? Tulis di komentar. Geprek Lumbung: usaha karangan.\n\n#katalogusaha #pitchdeck #umkm #tipsusaha",
-   "urls": [],
-   "qc": "BELUM ADA VIDEO. Naskah VO 7 baris + caption siap, [CEK KATA] lolos, cek-overlap tanpa blokir. Terhambat: (1) alat/vo-reels.py tidak ada di folder, (2) node/Playwright butuh persetujuan yang tidak bisa dijawab di run tanpa layar. Detail: video/2026-11-18-deck-atau-katalog/STATUS.md.",
+   "urls": [
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/9b26ab38e97cf3306ebfe92d6b67b83aa17d854f/reels-18-nov-deck-atau-katalog/final.mp4"
+   ],
+   "cover": {
+    "thumb_offset": 500
+   },
+   "qc": "Video dirender 16 Nov sore (final.mp4 1080x1920, 30,2 dtk, true peak -1,7 dBFS, LRA 3,1). Lembar frame dilihat 18 Nov: teks utuh, label usaha karangan ada. Durasi 30,2 dtk di atas 28 = catatan, tidak menahan tayang. Suara: kemungkinan edge-tts (buat_vo_edge.py di folder), BUKAN standar Liam 19 Nov; Felix diminta memutar dan memilih 'oke, siapkan unggah' 18 Nov. Naskah dan caption [CEK KATA] lolos. URL lolos pemeriksaan unggah_media (raw dan jsdelivr). Belum diukur ulang dengan ukur-retensi dan cek-format.",
    "alasan_pilihan": "Slot Rab 18 Nov kosong; seri S-E jembatan pertama B18.15.4 butir 5; stok 16-21 Nov penuh S-A..S-D, porsi S-E/S-F/S-G belum terisi."
   },
   {
