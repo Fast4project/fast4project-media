@@ -1,7 +1,30 @@
 {
- "diperbarui": "2026-11-18T12:40:00+07:00",
- "jalan": "lanjut A6 (Felix di layar) Rab 18 Nov",
+ "diperbarui": "2026-11-19T09:58:42+07:00",
+ "jalan": "lanjut A1 rombak carousel tiga-posting (Felix di layar) Kam 19 Nov",
  "item": [
+  {
+   "format": "carousel",
+   "nama": "tiga-posting",
+   "antrian_id": "",
+   "seri": "S-G",
+   "audiens": "umkm",
+   "jam_tayang": "2026-11-20 12:00",
+   "status": "dikerjakan",
+   "judul": "Sebelum jualan, posting tiga ini dulu",
+   "caption": "",
+   "urls": [
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/00c5c0fb1bdac24ba1f6f5eb791e0612baa0696e/carousel-20-nov-tiga-posting/halaman-1.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/6c2bcd178a5641812d1808ea9d8b0ddaf0da31a4/carousel-20-nov-tiga-posting/halaman-2.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/77a0aada626337d314aba58e094206d4a1a131b0/carousel-20-nov-tiga-posting/halaman-3.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/dfe8168aa92468f6f55840717039523139f1eac7/carousel-20-nov-tiga-posting/halaman-4.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/a9e0f05c511e1ba3e1ffc5d25dd6fcd5aacbc9e0/carousel-20-nov-tiga-posting/halaman-5.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/f2f2df5ceca9769286c2d244a874ed3e5201bf1c/carousel-20-nov-tiga-posting/halaman-6.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/734eb6e33e262444c39ebe5b05e70894cc3b79c2/carousel-20-nov-tiga-posting/halaman-7.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/14ae59e7e568d16d4d99214fd1e86c594c0c6464/carousel-20-nov-tiga-posting/halaman-8.jpg"
+   ],
+   "qc": "Rombak desain arah C Grid Gelap Emas (P3 + terang F6F5FF), dipilih Felix 19 Nov. Teks 8 slide sama persis dengan versi lama (disalin dari PNG yang Felix tempel). 8 JPG 1080x1350. Pemeriksa tata letak browser: 0 tabrakan, 0 teks keluar kanvas/luber. Kontras terendah 7,6:1. cek-tulisan-manusia: lolos, 0 KRITIS. Lembar kontak dilihat. 8 URL raw HTTP 200. MENUNGGU caption persis dari Felix sebelum siap-unggah.",
+   "alasan_pilihan": "Perintah /manager lanjut A1 dari Manager cloud; slot Jum 20 Nov 12.00. Item kamus-investor tidak disentuh (Felix: cloud yang atur)."
+  },
   {
    "format": "reels",
    "nama": "bio-usaha",
@@ -281,6 +304,12 @@
   }
  ],
  "agen_hari_ini": [
+  {
+   "agent": "A1",
+   "tugas": "Rombak carousel tiga-posting Jum 20 Nov: 3 arah desain, Felix pilih C Grid Gelap Emas, 8 slide dibangun dan di-push",
+   "bukti": "carousel/2026-11-20-tiga-posting/jadi/lembar-kontak.jpg",
+   "status": "dikerjakan"
+  },
   {
    "agent": "A6",
    "tugas": "Reels Kam 19 Nov 19.30 'Bio usahamu lolos tes 3 detik?' (S-G umkm, tema A) V4: Liam satu tarikan seperti 13 Nov, tempo asli, SFX HD tanpa gema, siap-unggah. slide-foto digeser ke 23-28 Nov.",
