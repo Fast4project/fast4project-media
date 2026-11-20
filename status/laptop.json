@@ -1,6 +1,6 @@
 {
- "diperbarui": "2026-11-20 19:28",
- "jalan": "lanjut A6 revisi Reels 25 Nov slide-penutup v3: musik berketukan (Felix di layar)",
+ "diperbarui": "2026-11-20 20:15",
+ "jalan": "lanjut A4 rombak pilihan-desain v2 (Felix di layar)",
  "item": [
   {
    "format": "carousel",
@@ -329,6 +329,12 @@
   }
  ],
  "agen_hari_ini": [
+  {
+   "agent": "A4",
+   "tugas": "Rombak pilihan desain v2: P1-P5 dua slide jadi bergaya tidak polos per palet + lembar dek aplikasi (P5 Rek., P3, P4). QC tata letak + kontras 16 slide: 0 KRITIS; cek-tulisan-manusia lolos; 0,78 MB dan 0,46 MB. Berkas aktif diganti ke v2 atas persetujuan Felix, versi 17 Nov diarsipkan. Tidak ada email dikirim.",
+   "bukti": "deck/_pilihan-desain/pilihan-desain-v2.png",
+   "status": "selesai"
+  },
   {
    "agent": "A1",
    "tugas": "Rombak carousel tiga-posting Jum 20 Nov: 3 arah desain, Felix pilih C Grid Gelap Emas, 8 slide dibangun dan di-push",
