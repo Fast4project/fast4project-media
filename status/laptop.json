@@ -1,6 +1,6 @@
 {
- "diperbarui": "2026-11-20 20:01",
- "jalan": "lanjut A6 revisi Reels 25 Nov slide-penutup v4: naskah tengah disederhanakan + musik beat-pelan (Felix di layar)",
+ "diperbarui": "2026-11-20 21:05",
+ "jalan": "lanjut A4 pilihan-desain v3: tiga perpaduan baru (Felix di layar)",
  "item": [
   {
    "format": "carousel",
@@ -329,6 +329,12 @@
   }
  ],
  "agen_hari_ini": [
+  {
+   "agent": "A4",
+   "tugas": "Pilihan desain v3: tiga perpaduan baru (Navy Emas Seleksi, Bata Krem Kaca, Ungu Pion Terang) dari palet terkunci + karakter carousel + referensi gaya; 2 slide per gaya + dek aplikasi (V3-C rekomendasi). QC 12 slide 0 KRITIS, cek-tulisan-manusia lolos, 0,50 MB dan 0,39 MB. Belum menggantikan v2 (menunggu Felix).",
+   "bukti": "deck/_pilihan-desain/pilihan-desain-v3.png",
+   "status": "selesai"
+  },
   {
    "agent": "A4",
    "tugas": "Rombak pilihan desain v2: P1-P5 dua slide jadi bergaya tidak polos per palet + lembar dek aplikasi (P5 Rek., P3, P4). QC tata letak + kontras 16 slide: 0 KRITIS; cek-tulisan-manusia lolos; 0,78 MB dan 0,46 MB. Berkas aktif diganti ke v2 atas persetujuan Felix, versi 17 Nov diarsipkan. Tidak ada email dikirim.",
