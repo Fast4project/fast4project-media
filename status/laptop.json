@@ -1,6 +1,6 @@
 {
- "diperbarui": "2026-11-20 18:45",
- "jalan": "lanjut A6 produksi Reels Rab 25 Nov slide-penutup (Felix di layar) Jum 20 Nov",
+ "diperbarui": "2026-11-20 19:01",
+ "jalan": "lanjut A6 revisi Reels 25 Nov slide-penutup v2: musik latar dinaikkan (Felix di layar)",
  "item": [
   {
    "format": "carousel",
@@ -317,14 +317,15 @@
    "caption": "Slide terakhirmu cuma \"Terima kasih\"? Pembaca dekmu sampai di halaman itu, lalu bingung harus ngapain.\n\nTambahkan tiga baris di slide penutup:\n1. Permintaanmu. Contoh: uji coba dua minggu di kedaimu.\n2. Langkah pertama yang gampang. Contoh: balas pesan, sampel kami kirim.\n3. Satu nama dan nomor WA yang bisa dihubungi.\n\nTerima kasihnya tetap boleh, cukup kecil di bawah.\n\nSlide terakhirmu sekarang yang mana? Tulis MAKASIH atau AJAKAN di komentar.\n\nContoh di video dari Kopi Lereng Ranu, usaha karangan untuk portofolio. Isi slidenya ilustratif.\n\nSimpan, cek lagi sebelum dekmu dikirim.\n\n#pitchdeck #umkm #proposalkemitraan #proposalusaha #presentasi",
    "caption_tiktok": "Slide terakhirmu cuma terima kasih? Tambahkan 3 baris: permintaan, langkah pertama, kontak. Kamu MAKASIH atau AJAKAN? Usaha karangan.\n\n#pitchdeck #umkm #presentasi #tipsusaha",
    "urls": [
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/3107cb649e129afb68667cf914340f8688ac1fad/reels-25-nov-slide-penutup/final.mp4"
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/5ce2afb83ba65fa10a0642bd4f21ae73f567f663/reels-25-nov-slide-penutup/final-v2.mp4"
    ],
    "cover": {
     "thumb_offset": 500
    },
-   "qc": "qc: G1-G6 catatan (5/6; G3 detik mati 41% setelah 2 putaran = catatan B12.2; G2 0 beku) · format ok 10/11 (F2 durasi 33,5 dtk = catatan) · LUFS -14,5 · TP -1,6 · LRA 3,5 · musik hangat -17 dB di bawah narator (narator -21,4 dBFS, musik saat bicara -38,4), belum didengar Felix · galat halaman 0 · freezedetect 0 · frame dilihat ya (16 frame dari final.mp4) · posisi tengah ok (titik berat 40-53%; peringatan tepi = palsu latar grid, sama dengan rekap 19 Nov) · tulisan manusia KRITIS 0 (VO, caption, caption_tiktok) · cek-overlap tanpa blokir (Windsor 20 Nov) · VO Liam multilingual v2 satu tarikan via connector, tempo asli, hening dipendekkan, lafal dicek transkrip Scribe · 1080x1920 30 fps, encode ulang crf 22 maxrate 8M (32 MB), audio disalin",
+   "qc": "qc: G1-G6 catatan (5/6; G3 detik mati 41% setelah 2 putaran = catatan B12.2; G2 0 beku) · format ok 10/11 (F2 durasi 33,5 dtk = catatan) · LUFS -14,4 · TP -1,6 · LRA 3,5 · musik hangat -12 dB di bawah narator (v2 atas permintaan Felix: tambahkan musik latar; campur_hd --celah-db 8 --turun-db 4, narator -21,4 dBFS, musik saat bicara -33,4; energi trek >300 Hz 35%%), belum didengar Felix · galat halaman 0 · freezedetect 0 · frame dilihat ya (16 frame dari final.mp4) · posisi tengah ok (titik berat 40-53%; peringatan tepi = palsu latar grid, sama dengan rekap 19 Nov) · tulisan manusia KRITIS 0 (VO, caption, caption_tiktok) · cek-overlap tanpa blokir (Windsor 20 Nov) · VO Liam multilingual v2 satu tarikan via connector, tempo asli, hening dipendekkan, lafal dicek transkrip Scribe · 1080x1920 30 fps, encode ulang crf 22 maxrate 8M (32 MB), audio disalin",
    "alasan_pilihan": "Perintah /manager lanjut A6 dari Felix (S-A, tema A, musik hangat). Berkas produksi versi Project tidak ada di laptop; Felix memutuskan produksi dari nol di laptop sesuai prosedur: naskah ditulis di claude/produksi-2026-11-25-slide-penutup.md lewat rantai gaya-ngomong-gaul, copy-hangat-berlogika, stop-slop. Kopi Lereng Ranu = usaha karangan untuk portofolio. Musik hangat: topik ringan + ajakan, trek terakhir penasaran.",
-   "versi": "v1"
+   "versi": "v2",
+   "ganti_dari": "3107cb6"
   }
  ],
  "agen_hari_ini": [
