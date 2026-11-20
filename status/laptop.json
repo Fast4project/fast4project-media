@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-20 11:44",
+ "diperbarui": "2026-11-20 11:56",
  "jalan": "lanjut A1 rombak carousel tiga-posting (Felix di layar) Kam 19 Nov",
  "item": [
   {
@@ -230,15 +230,15 @@
    "caption": "\"Butuh dana 80 juta untuk pengembangan usaha.\" Kalimat ini sering muncul di slide kebutuhan dana. Kita bedah tiga lubangnya.\n\n1. \"Pengembangan\" tidak bisa dicek. Rinci per pos: mesin 45 juta, renovasi 20 juta, kas tiga bulan 15 juta.\n2. Tidak ada hasil yang dituju. Tulis apa yang berubah: kapasitas 60 jadi 150 kilo sehari.\n3. Tidak ada kapan. Tambahkan urutan: mesin bulan 1, renovasi bulan 2, buka bulan 3.\n\nDari tiga ini, dekmu kurang yang mana? Tulis 1, 2, atau 3 di komentar.\n\nMau slide kebutuhan danamu dibedah? Kirim DM \"BEDAH\".\n\nContoh di video dari Laundry Sigap, usaha karangan untuk portofolio. Semua angka ilustratif.\n\n#pitchdeck #umkm #proposalkemitraan #proposalusaha #presentasi",
    "caption_tiktok": "Minta 80 juta, buat apa? Tiga lubang di slide kebutuhan dana. Dekmu kurang yang mana: 1, 2, atau 3? Laundry Sigap: usaha karangan, angka ilustratif.\n\n#pitchdeck #umkm #bisnisumkm #tipsusaha #presentasi",
    "urls": [
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/a8fd04f55dcb7eced57ef94bd4a791bf1df89837/reels-20-nov-bedah-dana/final-v3.mp4"
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/add3a9bf591712851758202520082367cb7a0b21/reels-20-nov-bedah-dana/final-v4.mp4"
    ],
    "cover": {
     "thumb_offset": 500
    },
-   "qc": "final-v3.mp4 1080x1920 30 fps, 44,7 dtk (catatan: >28, VO Liam tempo asli). Koreksi Felix: tanpa ganti warna latar; hook dengan 3 penanda misteri + peta mini yang mencentang lubang; payoff slide sesudah; musik latar baru 'penasaran' (100 BPM, buatan kode) ±12 dB di bawah narator. Naskah VO tidak diubah. Hook utuh frame 0, VO 0,10 dtk, SFX hit 0,00. -14,3 LUFS, TP -1,6, LRA 3,0. ukur-retensi 6/6, freezedetect 0, cek-format 10/11 (F2 durasi), cek-posisi-tengah 21 frame 0 peringatan, cek-overlap tanpa blokir, cek-tulisan-manusia VO+caption KRITIS 0. Label karangan + angka ilustratif tiap adegan; 45+20+15=80. Lembar frame dilihat. Belum didengar Felix.",
+   "qc": "final-v4.mp4 1080x1920 30 fps, 44,7 dtk (catatan: >28, VO Liam tempo asli). Koreksi Felix: tanpa ganti warna latar; hook dengan 3 penanda misteri + peta mini yang mencentang lubang; bagian 'dari tiga temuan ini' jadi satu adegan mengalir: ringkasan 1 rinci per pos / 2 hasil yang dituju / 3 urutan kapan, baris menyala saat diucapkan; musik latar baru 'penasaran' (100 BPM, buatan kode) ±12 dB di bawah narator. Naskah VO tidak diubah. Hook utuh frame 0, VO 0,10 dtk, SFX hit 0,00. -14,3 LUFS, TP -1,6, LRA 3,0. ukur-retensi 5/6 (G4 adegan ringkasan 7,8 dtk = catatan B12.2, sengaja tanpa potongan), freezedetect 0, cek-format 10/11 (F2 durasi), cek-posisi-tengah 15 frame 0 peringatan, cek-overlap tanpa blokir, cek-tulisan-manusia VO+caption KRITIS 0. Label karangan + angka ilustratif tiap adegan; 45+20+15=80. Lembar frame dilihat. Belum didengar Felix.",
    "alasan_pilihan": "Perintah /manager lanjut A6 dari Manager cloud (produksi-2026-11-19-stok). BOFU didahului MOFU Sen 16 Nov.",
    "ganti_dari": "f9bb31a",
-   "versi": "v3 (koreksi Felix 19 Nov malam)"
+   "versi": "v4 (koreksi Felix 20 Nov: bagian 'dari tiga temuan ini')"
   },
   {
    "format": "reels",
@@ -387,7 +387,7 @@
   {
    "agent": "A6",
    "tugas": "rombak video bedah-dana v3 (koreksi Felix: tanpa ganti warna, hook+loop penasaran, musik latar)",
-   "bukti": "video/2026-11-20-bedah-dana/final-v3.mp4",
+   "bukti": "video/2026-11-20-bedah-dana/final-v4.mp4",
    "status": "selesai"
   }
  ],
