@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-20 21:15",
+ "diperbarui": "2026-11-20 21:40",
  "jalan": "lanjut A4 pilihan-desain v3: tiga perpaduan baru (Felix di layar)",
  "item": [
   {
@@ -329,6 +329,12 @@
   }
  ],
  "agen_hari_ini": [
+  {
+   "agent": "A4",
+   "tugas": "Teks pilihan desain v3 ditulis ulang dengan standar copywriting (hook <=6 kata + subjudul, judul kesimpulan, kata kerja di depan) + /stop-slop; lembar jadi milik calon pemesan (balas A/B/C). Lembar aplikasi dihentikan dan diarsipkan atas arahan Felix. QC 6 slide 0 KRITIS, cek-tulisan-manusia 0 KRITIS, 0,49 MB.",
+   "bukti": "deck/_pilihan-desain/pilihan-desain-v3.png",
+   "status": "selesai"
+  },
   {
    "agent": "A4",
    "tugas": "Pilihan desain v3: tiga perpaduan baru (Navy Emas Seleksi, Bata Krem Kaca, Ungu Pion Terang) dari palet terkunci + karakter carousel + referensi gaya; 2 slide per gaya + dek aplikasi (V3-C rekomendasi). QC 12 slide 0 KRITIS, cek-tulisan-manusia lolos, 0,50 MB dan 0,39 MB. Disetujui Felix: v3 jadi berkas aktif, v2 diarsipkan.",
