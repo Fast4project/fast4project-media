@@ -1,6 +1,6 @@
 {
- "diperbarui": "2026-11-20 22:00",
- "jalan": "lanjut A4 pilihan-desain v3: tiga perpaduan baru (Felix di layar)",
+ "diperbarui": "2026-11-21",
+ "jalan": "lanjut A5 verifikasi email antrian (Felix di layar)",
  "item": [
   {
    "format": "carousel",
@@ -265,22 +265,35 @@
    "nama": "kamus-investor",
    "antrian_id": "",
    "seri": "S-B",
-   "jam_tayang": "2026-11-20 12:00",
+   "jam_tayang": "2026-11-24 12:00",
    "status": "siap-unggah",
    "judul": "Kamus investor versi warung",
-   "caption": "Enam istilah investor yang sering muncul saat kamu cari mitra atau modal, masing-masing dengan satu angka contoh.\n\nRunway: berapa bulan usaha masih jalan kalau pemasukan berhenti. Contoh: kas 30 juta ÷ pengeluaran 10 juta = 3 bulan.\nOmzet dan sisa: uang masuk beda dengan yang tertinggal setelah semua biaya.\nBiaya dapat pembeli: biaya promosi dibagi jumlah pembeli baru. Contoh: 1 juta ÷ 50 = 20 ribu.\nTraksi: bukti usahamu sudah dipakai orang. Contoh: 120 pesanan dalam sebulan.\nRincian dana: uang yang kamu minta dipakai untuk apa, berapa, dan kapan.\nSaham, pinjaman, bagi hasil: bentuk bagian yang didapat pemodal.\n\nSimpan buat dibuka saat menyusun dek.\n\nIstilah mana yang paling bikin kamu bingung? Tulis nomor halamannya di komentar.\n\nSemua angka di carousel ini ilustratif. Ini penjelasan istilah, bukan saran keuangan.\n\n#pitchdeck #umkm #istilahbisnis #proposalkemitraan #presentasi",
+   "caption": "Enam istilah yang sering ditanyakan calon mitra atau pemodal, masing-masing dengan satu angka contoh.\n\nTitik impas: modal awal 6 juta ÷ untung 6 ribu per porsi = 1.000 porsi.\nOmzet dan sisa: uang masuk beda dengan yang tertinggal setelah semua biaya.\nPersen beli: 200 orang bertanya, 40 membeli = 20%.\nMargin: jual 25 ribu, modal 15 ribu, untung 10 ribu = 40%.\nBiaya tetap: sewa 3 juta tiap bulan, laku atau tidak.\nBiaya berubah: bahan 150 ribu untuk 10 porsi, 1,5 juta untuk 100 porsi.\n\nSimpan, buka lagi saat menyusun deck.\n\nIstilah mana yang paling bikin kamu bingung? Tulis nomor halamannya di komentar.\n\nSemua angka ilustratif. Ini penjelasan istilah, bukan saran keuangan.\n\n#pitchdeck #umkm #istilahbisnis #proposalkemitraan #presentasi",
    "urls": [
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/269d82a8bf37dc71e9bee8eb0fc32bd654a94afa/carousel-20-nov-kamus-investor/halaman-1.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/ae98fae177e3fc41fa731b8f4a3ae00242c2fdfd/carousel-20-nov-kamus-investor/halaman-2.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/a18b0e5b9ac55cb910e827cd3ae3bd4e773cebff/carousel-20-nov-kamus-investor/halaman-3.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/a6fa9f08996a8545f6d1da44819e584f9b2e27fc/carousel-20-nov-kamus-investor/halaman-4.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/9bfbf0f503566e3929e728747675c3e0976e2e72/carousel-20-nov-kamus-investor/halaman-5.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/fb4d6aea5ccb07b8088015f8478acf87f515bcb0/carousel-20-nov-kamus-investor/halaman-6.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/45d017d88d97706b6f69bdf5ce29fba54b4942a0/carousel-20-nov-kamus-investor/halaman-7.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/646dc5483f7f30aceab82ddb15f48ffa1ceabc6c/carousel-20-nov-kamus-investor/halaman-8.jpg"
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/08566af99beb2db229a8274760d738940b16a26c/carousel-24-nov-kamus-investor/halaman-1.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/f779e53fefdd249e82abb6b4a24609f78413583c/carousel-24-nov-kamus-investor/halaman-2.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/97e2054bfacc7d6e81c655e25d75b477ba7608d8/carousel-24-nov-kamus-investor/halaman-3.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/47dd904d75955a3b50f9c70d261d37e3f19016c4/carousel-24-nov-kamus-investor/halaman-4.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/2dc081187fdc23705ce0bce903474cfe72d92065/carousel-24-nov-kamus-investor/halaman-5.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/7e19670b002308d5dc1bc3409b152c06217a16d0/carousel-24-nov-kamus-investor/halaman-6.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/a9e1b4387377c3914365b265050f011a940d0cb8/carousel-24-nov-kamus-investor/halaman-7.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/aceff32d5fe37479af256b199bd21d1580524a3e/carousel-24-nov-kamus-investor/halaman-8.jpg"
    ],
-   "qc": "V2 dirombak 14 Nov atas permintaan Felix: Gaya 3 'angka jadi pahlawan', palet B krem + merah bata (preset nestly + warna kustom), isi baru (angka contoh baru: runway 3 bulan, 10 juta vs 2 juta, 20 rb, 120 pesanan). 8 halaman JPG 1080x1350. cek_teks_carousel: 0 KRITIS setelah 3 putaran (hapus 'Rp', judul slide 7 jadi 9 kata, kata 'kamu' ditambah); saran: slide 8 tanpa kata kunci DM (MOFU, objektif simpan). Builder: nol peringatan kontras, zona aman, variasi (7 layout). Lembar kontak dilihat: teks utuh. cek-overlap BELUM dijalankan ulang untuk isi baru (butuh tarik ulang posting Instagram lewat Windsor). V1 diarsipkan di carousel/2026-11-20-kamus-investor/arsip/v1. | V2b 14 Nov: ditambah 4 hero objek gambar kode (buku kamus, tumpukan koin, megafon, papan centang; PNG transparan di carousel/2026-11-20-kamus-investor/hero/) di kanan-bawah, ukuran diperkecil agar tidak menutup teks; slide 5 memakai angka outline 120 sebagai hero. Lembar kontak dilihat ulang: teks utuh.",
-   "alasan_pilihan": "Perintah /manager lanjut A6 carousel Jum 20 Nov dari Manager cloud."
+   "qc": "21 Nov: 8 JPG diunggah ke repo media carousel-24-nov-kamus-investor, semua URL lolos (semua_lolos true). Caption final = opsi 1. 21 Nov: ejaan 'dek' diganti 'deck' di slide 8 dan 3 opsi caption (permintaan Felix). 21 Nov: teks terpotong diperbaiki (bagian bawah huruf j, p, g pada angka besar slide 2 dan 6 terpotong oleh efek gradien; builder diberi ruang bawah). Lembar kontak dilihat ulang, semua teks utuh. 21 Nov rombak slide 2-7 atas pilihan Felix. cek-tulisan-manusia 3 opsi caption KRITIS 0. 21 Nov rombak slide 2/4/5 atas pilihan Felix. 21 Nov: gerbang BLOKIR (lihat gerbang). 3 opsi caption: cek-tulisan-manusia KRITIS 0. TIDAK DIUNGGAH. V2 dirombak 14 Nov atas permintaan Felix: Gaya 3 'angka jadi pahlawan', palet B krem + merah bata (preset nestly + warna kustom), isi baru (angka contoh baru: runway 3 bulan, 10 juta vs 2 juta, 20 rb, 120 pesanan). 8 halaman JPG 1080x1350. cek_teks_carousel: 0 KRITIS setelah 3 putaran (hapus 'Rp', judul slide 7 jadi 9 kata, kata 'kamu' ditambah); saran: slide 8 tanpa kata kunci DM (MOFU, objektif simpan). Builder: nol peringatan kontras, zona aman, variasi (7 layout). Lembar kontak dilihat: teks utuh. cek-overlap BELUM dijalankan ulang untuk isi baru (butuh tarik ulang posting Instagram lewat Windsor). V1 diarsipkan di carousel/2026-11-20-kamus-investor/arsip/v1. | V2b 14 Nov: ditambah 4 hero objek gambar kode (buku kamus, tumpukan koin, megafon, papan centang; PNG transparan di carousel/2026-11-20-kamus-investor/hero/) di kanan-bawah, ukuran diperkecil agar tidak menutup teks; slide 5 memakai angka outline 120 sebagai hero. Lembar kontak dilihat ulang: teks utuh.",
+   "alasan_pilihan": "Perintah /manager lanjut A1 cek (21 Nov): slot dipindah ke Sel 24 Nov 12.00.",
+   "gerbang": {
+    "hasil": "AMAN (6 istilah baru, di luar bentrok Reels 12, 13, 16, 20, 21 Nov)",
+    "dicek": "2026-11-21",
+    "alasan": "Isi inti sudah tayang di Reels: slide 4 (1 juta / 50 pembeli = 20 ribu) sama persis dengan Reels 16 Nov; slide 2 (runway = kas dibagi pengeluaran sebulan) sama dengan Reels 13 Nov; slide 5 (traksi) sama dengan Reels 12 Nov. Slide 6 (rincian dana) dekat Reels 20 Nov, slide 7 (saham/pinjaman/bagi hasil) sama dengan Reels dikasih-modal 21 Nov (belum tayang). Menurunkan BLOKIR hanya keputusan Felix (gerbang sinkron 6b). Data: Windsor dijeda (2 akun, paket Free), dipakai daftar tayang 20 Nov 18.00; Reels 21 Nov belum terverifikasi. cek-overlap otomatis: tanpa blokir (pencocok kata tidak menangkap angka sama).",
+    "visual": "8 halaman dilihat. Temuan tata letak: kata hantu (angka outline) di belakang teks kartu di slide 2, 4, 6 (paling parah slide 4); baris judul slide 4 dan 7 terlalu rapat; slide 1 kalimat bawah hampir menyentuh buku; cincin dekor menyentuh label KAMUS INVESTOR di slide 2 dan 7. Perlu diperbaiki sebelum diserahkan. Nol kata terlarang, label ilustratif dan bukan saran keuangan ada.",
+    "catatan_rombak": "21 Nov: slide 2-7 sekarang titik impas, omzet dan sisa, persen beli, margin, biaya tetap, biaya berubah. Builder 0 KRITIS, nol peringatan, cek-overlap tanpa blokir, 8 halaman dilihat. Sisa: Windsor dijeda, daftar tayang dasar 20 Nov 18.00 (Reels 21 Nov belum terverifikasi; isinya tidak beririsan). URL repo media belum diperbarui, belum diunggah."
+   },
+   "caption_opsi": [
+    "Enam istilah yang sering ditanyakan calon mitra atau pemodal, masing-masing dengan satu angka contoh.\n\nTitik impas: modal awal 6 juta ÷ untung 6 ribu per porsi = 1.000 porsi.\nOmzet dan sisa: uang masuk beda dengan yang tertinggal setelah semua biaya.\nPersen beli: 200 orang bertanya, 40 membeli = 20%.\nMargin: jual 25 ribu, modal 15 ribu, untung 10 ribu = 40%.\nBiaya tetap: sewa 3 juta tiap bulan, laku atau tidak.\nBiaya berubah: bahan 150 ribu untuk 10 porsi, 1,5 juta untuk 100 porsi.\n\nSimpan, buka lagi saat menyusun deck.\n\nIstilah mana yang paling bikin kamu bingung? Tulis nomor halamannya di komentar.\n\nSemua angka ilustratif. Ini penjelasan istilah, bukan saran keuangan.\n\n#pitchdeck #umkm #istilahbisnis #proposalkemitraan #presentasi",
+    "Istilah investor terdengar rumit, padahal enam di carousel ini cuma pembagian dan pertanyaan sederhana. Tiap istilah ada satu angka contoh.\n\nKalau calon mitra bertanya soal titik impas, margin, atau biaya tetap, kamu sudah punya jawabannya di deck.\n\nSimpan, buka lagi saat menyusun deck.\n\nDari enam istilah ini, mana yang belum kamu tulis di deckmu? Tulis nomor halamannya di komentar.\n\nSemua angka ilustratif. Ini penjelasan istilah, bukan saran keuangan.\n\n#pitchdeck #umkm #istilahbisnis #proposalkemitraan #presentasi",
+    "Kamus investor versi warung: enam istilah, satu angka contoh tiap istilah, tanpa kata yang bikin pusing.\n\nGeser sampai halaman 8, lalu simpan buat dibuka saat menyusun deck.\n\nIstilah mana yang paling bikin kamu bingung? Tulis nomor halamannya di komentar.\n\nSemua angka ilustratif. Ini penjelasan istilah, bukan saran keuangan.\n\n#pitchdeck #umkm #istilahbisnis #proposalkemitraan #presentasi"
+   ],
+   "copy": "opsi 1 (rekomendasi) dipakai karena Felix mengetik 'unggah' tanpa memilih; Felix boleh minta opsi 2 atau 3 sebelum tayang"
   },
   {
    "format": "carousel",
@@ -329,6 +342,18 @@
   }
  ],
  "agen_hari_ini": [
+  {
+   "agent": "A1",
+   "tugas": "Cek carousel kamus-investor untuk Sel 24 Nov 12.00: 8 halaman dilihat, gerbang BLOKIR, 3 opsi caption ditulis. Tidak diunggah.",
+   "bukti": "carousel/2026-11-20-kamus-investor/jadi/lembar-kontak.jpg",
+   "status": "selesai"
+  },
+  {
+   "agent": "A5",
+   "tugas": "Verifikasi 4 alamat antrian outreach (perintah Manager cloud 21 Nov): 4 dicek, mx-saja, KIRIM 0 / TANYA 4 / BUANG 0. Reacher mati dan port 25 tertutup. Tidak ada email dikirim.",
+   "bukti": "outreach/hasil-verifikasi-2026-11-21.csv",
+   "status": "selesai"
+  },
   {
    "agent": "Manager",
    "tugas": "Aturan baru B18.23 gerbang opsi copy untuk semua agent: evaluasi copywriting 5 langkah lalu 2-3 opsi contoh penulisan sebelum membangun; mode otomatis memakai rekomendasi sementara dan konfirmasi di gerbang unggah. Rekap proses + contoh sebelum/sesudah ditulis.",
@@ -439,12 +464,50 @@
   }
  ],
  "verifikasi": {
+  "tanggal": "2026-11-21",
   "dicek": 4,
   "kirim": 0,
-  "tanya": 4,
-  "buang": 0
+  "tanya": 3,
+  "buang": 1,
+  "mesin": "mx-saja (sintaks + MX lolos; Reacher tidak hidup, port 25 tertutup)",
+  "per_alamat": [
+   {
+    "urutan": 1,
+    "status": "mx-saja",
+    "tindakan": "TANYA",
+    "sumber": "tertulis di halaman Kontak situs resmi Tea Break Indo, dibuka 21 Nov"
+   },
+   {
+    "urutan": 2,
+    "status": "mx-saja",
+    "tindakan": "TANYA",
+    "sumber": "tertulis di halaman utama situs resmi, dibuka 21 Nov"
+   },
+   {
+    "urutan": 3,
+    "status": "mx-saja",
+    "tindakan": "TANYA",
+    "sumber": "tertulis di halaman utama situs resmi, dibuka 21 Nov"
+   },
+   {
+    "urutan": 4,
+    "status": "mx-saja",
+    "tindakan": "BUANG",
+    "sumber": "tidak ditemukan di situs resmi (6 halaman dicek); Felix putuskan jangan dikirim, 21 Nov"
+   }
+  ],
+  "catatan": "Urutan = urutan alamat di perintah A5 (marketing.transindoinnovative, beta-uas, momofin, algobash). Alamat utuh hanya di outreach/hasil-verifikasi-2026-11-21.csv (laptop, tidak diunggah)."
  },
  "pertanyaan": [
+  {
+   "teks": "4 alamat antrian A5 (21 Nov) hanya lolos cek MX; kotak surat belum bisa dicek (port 25 tertutup, Reacher mati). Bagaimana?",
+   "opsi": [
+    "Tahan sampai dicek lewat hotspot/jaringan lain (Rekomendasi: tidak ada risiko bounce baru, Felix tidak perlu apa-apa dulu)",
+    "Jalankan pasang-reacher.ps1 (Docker) lalu ulangi, port 25 tetap butuh jaringan lain",
+    "Kirim apa adanya; bounce nyata baru kelihatan setelah kirim"
+   ],
+   "dipakai_sementara": "tahan; tidak ada email dikirim"
+  },
   {
    "teks": "Reels Rab 18 Nov belum bisa dirender otomatis (alat/vo-reels.py hilang, node minta izin). Cara membukanya?",
    "opsi": [
