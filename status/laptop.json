@@ -252,13 +252,20 @@
    "caption": "Calon pemodal hampir selalu bertanya: kalau saya kasih modal, saya dapat apa?\n\nAda tiga bentuk yang sering dipakai. Saham: pemodal ikut memiliki sebagian usaha, untung dan rugi ditanggung bersama. Pinjaman: uang dikembalikan sesuai jadwal, usaha tetap milikmu penuh. Bagi hasil: pemodal dapat persen dari hasil usaha untuk jangka waktu tertentu.\n\nDi dek, tulis kamu menawarkan yang mana. Tanpa itu, pembaca harus menebak.\n\nKalau kamu cari modal, kamu condong ke mana? Tulis SAHAM, PINJAM, atau BAGI di komentar.\n\nContoh di video dari Bakso Lereng, usaha karangan untuk portofolio. Angka ilustratif. Ini penjelasan istilah, bukan saran keuangan.\n\nKirim ke teman yang lagi cari modal.\n\n#pitchdeck #umkm #modalusaha #proposalkemitraan #presentasi",
    "caption_tiktok": "Dikasih modal, kamu kasih apa? Saham, pinjaman, atau bagi hasil. Kamu condong ke mana: SAHAM, PINJAM, atau BAGI? Usaha karangan, bukan saran keuangan.\n\n#pitchdeck #umkm #bisnisumkm #tipsusaha #presentasi",
    "urls": [
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/24df026cdb18dc7d0e8c7d3ddb856afaff26639f/reels-21-nov-dikasih-modal/final.mp4"
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/5d3f3cc5826781572a0ac8cfc75de25824bbd417/reels-21-nov-dikasih-modal/final-v6.mp4"
    ],
    "cover": {
     "thumb_offset": 500
    },
-   "qc": "final.mp4 1080x1920, 31,5 dtk. Hook utuh frame 0, SFX hit 0,00, VO 0,10 dtk, true peak -1,9 dBTP. ukur-retensi 6/6. cek-format 8/11 (catatan: F2 durasi 31,5; V2 jeda 1,29; V4 LRA 1,5). Lembar frame dilihat. Penjelasan istilah tanpa angka bunga dan tanpa rekomendasi; label 'bukan saran keuangan' di layar. Gerbang sinkron tayang: tanpa BLOKIR. Suara: Liam (ElevenLabs lewat connector, suara bawaan 'Liam - Energetic, Social Media Creator'), model multilingual_v2, dipercepat ffmpeg x1,20 (resep v1 memakai speed 1,10 langsung). ejaan 'tim-mu' hanya di bahan suara. Felix menyetujui suara lewat dua file uji, belum mendengar versi lengkap.",
-   "alasan_pilihan": "Perintah /manager lanjut A6 dari Manager cloud (produksi-2026-11-19-stok)."
+   "qc": "final.mp4 1080x1920, 31,5 dtk. Hook utuh frame 0, SFX hit 0,00, VO 0,10 dtk, true peak -1,9 dBTP. ukur-retensi 6/6. cek-format 8/11 (catatan: F2 durasi 31,5; V2 jeda 1,29; V4 LRA 1,5). Lembar frame dilihat. Penjelasan istilah tanpa angka bunga dan tanpa rekomendasi; label 'bukan saran keuangan' di layar. Gerbang sinkron tayang: tanpa BLOKIR. Suara: Liam (ElevenLabs lewat connector, suara bawaan 'Liam - Energetic, Social Media Creator'), model multilingual_v2, dipercepat ffmpeg x1,20 (resep v1 memakai speed 1,10 langsung). ejaan 'tim-mu' hanya di bahan suara. Felix menyetujui suara lewat dua file uji, belum mendengar versi lengkap. | v2 visual 21 Nov (rombak): final-v2.mp4 lokal, Arah 1 Malam Tiga Jalur, menunggu pilihan Felix. Audio sama dengan v1. ukur-retensi 5/6 (G4 catatan), posisi tengah 0 peringatan, frame dilihat. Durasi 31,4 dtk. Belum diunggah ke repo; final.mp4 tetap yang di URL. | v3 21 Nov: final-v3.mp4 lokal, Arah 1 dipilih Felix, ukur-retensi 6/6, posisi tengah ok. Audio v1. Belum diunggah. | v4 21 Nov: final-v4.mp4 lokal, musik beat-pelan + animasi contoh, ukur-retensi 6/6, posisi tengah ok, -14,3 LUFS TP -1,6. Belum didengar Felix, belum diunggah. | v5 21 Nov: final-v5.mp4 lokal, hook lebih kuat (G1 1,48x), SFX bernada lembut, ukur-retensi 6/6, -14,3 LUFS TP -1,6. Belum didengar Felix, belum diunggah. | v6 21 Nov: final-v6.mp4 lokal, subtitle bergaya dari transkrip whisper (74 kata, perlu dicocokkan dengan naskah), ukur-retensi 6/6, posisi tengah ok. Belum diunggah. | v6 URL publik lolos (raw dan jsdelivr). Menunggu Felix mengetik unggah di chat Manager cloud setelah melihat caption persis.",
+   "alasan_pilihan": "Perintah /manager lanjut A6 dari Manager cloud (produksi-2026-11-19-stok).",
+   "cadangan_v1": {
+    "urls": [
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/24df026cdb18dc7d0e8c7d3ddb856afaff26639f/reels-21-nov-dikasih-modal/final.mp4"
+    ],
+    "catatan": "final.mp4 versi awal (sebelum rombak v6)"
+   },
+   "versi": "v6"
   },
   {
    "format": "carousel",
@@ -356,6 +363,12 @@
   }
  ],
  "agen_hari_ini": [
+  {
+   "agent": "A6",
+   "tugas": "Rombak Reels dikasih-modal v6: subtitle bergaya (pil kaca, kata yang diucapkan menyala) menggantikan tulisan kecil; hook kuat, SFX bernada lembut, musik beat-pelan kecil, animasi contoh. Naskah/VO/label tetap. ukur-retensi 6/6. Tidak diunggah.",
+   "bukti": "video/2026-11-21-dikasih-modal/final-v6.mp4",
+   "status": "selesai"
+  },
   {
    "agent": "A1",
    "tugas": "Rombak carousel produk Build Up Your Master Deck: slide 3-5 dan thumbnail Lynk.id memakai mockup potongan slide asli (gaya A). Versi umum di-push, versi satu-lawan-satu (slide 7 memuat harga) hanya lokal.",
