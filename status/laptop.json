@@ -339,9 +339,44 @@
    "alasan_pilihan": "Perintah /manager lanjut A6 dari Felix (S-A, tema A, musik hangat). Berkas produksi versi Project tidak ada di laptop; Felix memutuskan produksi dari nol di laptop sesuai prosedur: naskah ditulis di claude/produksi-2026-11-25-slide-penutup.md lewat rantai gaya-ngomong-gaul, copy-hangat-berlogika, stop-slop. Kopi Lereng Ranu = usaha karangan untuk portofolio. Musik hangat: topik ringan + ajakan, trek terakhir penasaran.",
    "versi": "v4",
    "ganti_dari": "d45db05"
+  },
+  {
+   "format": "carousel",
+   "nama": "produk-build-up-master-deck",
+   "antrian_id": "",
+   "seri": "S-C",
+   "audiens": "umkm",
+   "jam_tayang": "",
+   "status": "dikerjakan",
+   "judul": "Bahan ada. Deck-nya belum jadi?",
+   "caption": "",
+   "urls": [
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/51f718a03241a940ab5b57b561af48345e4dd8d3/carousel-21-nov-build-up-master-deck/halaman-1.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/b2d153d922703fc10e11d66faa45b9bfc6bd78ea/carousel-21-nov-build-up-master-deck/halaman-2.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/69cdb17fd046d41a1fa6a28bb83342ef76dc3c1d/carousel-21-nov-build-up-master-deck/halaman-3.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/3175ce52f5089e736074a08b898834ca5365265d/carousel-21-nov-build-up-master-deck/halaman-4.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/78623efa4fa9f8c516c26404c19d2ce6924617bc/carousel-21-nov-build-up-master-deck/halaman-5.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/03ed68be1d4d098638cd2a7befa5537d129c1fb3/carousel-21-nov-build-up-master-deck/halaman-6.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/8ca47c53a0fd8ad17393f0c41f6e1060f3d6affc/carousel-21-nov-build-up-master-deck/halaman-7.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/e6d936b68fc2107fd2a73de71b8553494682de5a/carousel-21-nov-build-up-master-deck/halaman-8.jpg"
+   ],
+   "qc": "Versi umum v2 (arah Hijau Laut P2 + label pil, gaya mockup A dipilih Felix 21 Nov): slide 3-5 + thumbnail memakai potongan slide asli deck/_pilihan-desain/v3. 8 JPG 1080x1350, cek-tabrakan 0, cek-tulisan-manusia lolos, lembar kontak dan tiap halaman dilihat. Thumbnail Lynk.id 1080x1080 (pilihan Felix, belum terverifikasi Lynk.id). Caption kosong; belum diunggah.",
+   "alasan_pilihan": "Perintah /manager lanjut A1 dari Felix 21 Nov (rombak mockup). Versi lama di paket/build-up-master-deck-umum/arsip/2026-11-21-v1-hero-ikon."
   }
  ],
  "agen_hari_ini": [
+  {
+   "agent": "A1",
+   "tugas": "Rombak carousel produk Build Up Your Master Deck: slide 3-5 dan thumbnail Lynk.id memakai mockup potongan slide asli (gaya A). Versi umum di-push, versi satu-lawan-satu (slide 7 memuat harga) hanya lokal.",
+   "bukti": "paket/build-up-master-deck-umum/lembar-kontak.jpg",
+   "status": "selesai"
+  },
+  {
+   "agent": "A5",
+   "tugas": "Alat verifikasi email dibagikan ke cloud: skrip, README, ambang hasil (6 status), cara pakai /verifikasi-email, dan batas harian disalin ke folder dokumen-manager-verifikasi-email/ di repo fast4project-media, tanpa alamat, kunci, .env, atau daftar prospek. Satu commit, grep kunci/email kosong. Dikirim lewat API GitHub karena git tidak terpasang di laptop.",
+   "bukti": "dokumen-manager-verifikasi-email/ @ f269cb8b46c9ff3e59b16a8ecbe9968cc38de14d",
+   "status": "selesai"
+  },
   {
    "agent": "A1",
    "tugas": "Cek carousel kamus-investor untuk Sel 24 Nov 12.00: 8 halaman dilihat, gerbang BLOKIR, 3 opsi caption ditulis. Tidak diunggah.",
