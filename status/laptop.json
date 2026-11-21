@@ -247,7 +247,7 @@
    "seri": "S-B",
    "tema": "B",
    "jam_tayang": "2026-11-21 19:30",
-   "status": "siap-unggah",
+   "status": "tayang",
    "judul": "Dikasih modal, kamu kasih apa?",
    "caption": "Calon pemodal hampir selalu bertanya: kalau saya kasih modal, saya dapat apa?\n\nAda tiga bentuk yang sering dipakai. Saham: pemodal ikut memiliki sebagian usaha, untung dan rugi ditanggung bersama. Pinjaman: uang dikembalikan sesuai jadwal, usaha tetap milikmu penuh. Bagi hasil: pemodal dapat persen dari hasil usaha untuk jangka waktu tertentu.\n\nDi dek, tulis kamu menawarkan yang mana. Tanpa itu, pembaca harus menebak.\n\nKalau kamu cari modal, kamu condong ke mana? Tulis SAHAM, PINJAM, atau BAGI di komentar.\n\nContoh di video dari Bakso Lereng, usaha karangan untuk portofolio. Angka ilustratif. Ini penjelasan istilah, bukan saran keuangan.\n\nKirim ke teman yang lagi cari modal.\n\n#pitchdeck #umkm #modalusaha #proposalkemitraan #presentasi",
    "caption_tiktok": "Dikasih modal, kamu kasih apa? Saham, pinjaman, atau bagi hasil. Kamu condong ke mana: SAHAM, PINJAM, atau BAGI? Usaha karangan, bukan saran keuangan.\n\n#pitchdeck #umkm #bisnisumkm #tipsusaha #presentasi",
@@ -265,7 +265,9 @@
     ],
     "catatan": "final.mp4 versi awal (sebelum rombak v6)"
    },
-   "versi": "v6"
+   "versi": "v6",
+   "media_id": "18112490840244383",
+   "tayang_catatan": "Diunggah 21 Nov malam lewat Windsor create_video_post atas perintah Felix (Unggah sekarang), final-v6.mp4, caption persis dari status, cover thumb_offset 500. Slot 19.30 sudah lewat; sinkron dengan versi awal tidak diverifikasi (Windsor dijeda). Permalink belum diambil. Folder repo media belum dihapus."
   },
   {
    "format": "carousel",
