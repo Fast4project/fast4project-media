@@ -341,27 +341,18 @@
    "ganti_dari": "d45db05"
   },
   {
-   "format": "carousel",
+   "format": "paket",
    "nama": "produk-build-up-master-deck",
    "antrian_id": "",
    "seri": "S-C",
    "audiens": "umkm",
-   "jam_tayang": "",
-   "status": "dikerjakan",
+   "status": "selesai",
    "judul": "Bahan ada. Deck-nya belum jadi?",
    "caption": "",
-   "urls": [
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/8f96836cc157a156fa4281f9970e0530130d3104/carousel-21-nov-build-up-master-deck/halaman-1.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/602e1897c07a759ae218c1e39f4cd880027bae53/carousel-21-nov-build-up-master-deck/halaman-2.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/60ee92297b4d12c2144459697ac7cd27d6bb5c49/carousel-21-nov-build-up-master-deck/halaman-3.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/a0a749cc3cc49c9ab5c9a9b0aabecd1022dffbf0/carousel-21-nov-build-up-master-deck/halaman-4.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/c66ee327160cc9c28e57ddcdb3f6c5d889ead7b7/carousel-21-nov-build-up-master-deck/halaman-5.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/c7db87e2ccaa3b8df80f36d6c74340a4d96f35e9/carousel-21-nov-build-up-master-deck/halaman-6.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/21dec830875d7903620c9afc7eadd165cf267de4/carousel-21-nov-build-up-master-deck/halaman-7.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/4fce3322077211cf5077fc9d75dfc0fabf07a449/carousel-21-nov-build-up-master-deck/halaman-8.jpg"
-   ],
-   "qc": "Versi umum v2 (arah Hijau Laut P2 + label pil, gaya mockup A dipilih Felix 21 Nov): slide 3-5 + thumbnail memakai potongan slide asli deck/_pilihan-desain/v3. 8 JPG 1080x1080 (permintaan Felix 21 Nov; versi 1080x1350 diarsip), cek-tabrakan 0, cek-tulisan-manusia lolos, lembar kontak dan tiap halaman dilihat. Thumbnail Lynk.id 1080x1080 (pilihan Felix, belum terverifikasi Lynk.id). Caption kosong; belum diunggah.",
-   "alasan_pilihan": "Perintah /manager lanjut A1 dari Felix 21 Nov (rombak mockup). Versi lama di paket/build-up-master-deck-umum/arsip/2026-11-21-v1-hero-ikon."
+   "urls": [],
+   "qc": "Materi produk Lynk.id, bukan konten Instagram: 5 JPG 1080x1080 lokal di paket/build-up-master-deck-umum/, tidak diunggah. Cek-tabrakan 0, cek-tulisan lolos, lembar kontak dilihat.",
+   "alasan_pilihan": "Felix 21 Nov: tujuan mockup demonstrasi produk di Lynk.id, 5 slide, bukan konten organik IG.",
+   "jam_tayang": ""
   }
  ],
  "agen_hari_ini": [
