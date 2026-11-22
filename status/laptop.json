@@ -1,6 +1,6 @@
 {
- "diperbarui": "2026-11-22T10:30:00+07:00",
- "jalan": "otomatis Min 22 Nov 10.00",
+ "diperbarui": "2026-11-22T15:10:00+07:00",
+ "jalan": "otomatis Min 22 Nov 15.00",
  "item": [
   {
    "format": "reels",
@@ -314,6 +314,12 @@
   }
  ],
  "agen_hari_ini": [
+  {
+   "agent": "A6",
+   "tugas": "Min 22 Nov 15.00: antrian cloud masih 404, tidak ada naskah cloud baru di claude/produksi-*. Tidak ada produksi baru, gerbang sinkron tayang tetap tidak bisa menarik posting (Windsor Free 1 akun). Stok siap: Reels Sen 23 (slide-foto), Sel 24 (baris-pertama-caption). Kosong: Reels Rab 25-Sab 28, carousel Sel 24 dan Jum 27. Menunggu jawaban Felix soal Windsor (pertanyaan 1)",
+   "bukti": "status/laptop.json",
+   "status": "terhambat"
+  },
   {
    "agent": "A6",
    "tugas": "Min 22 Nov (hari stok, libur tayang): gerbang sinkron tayang tetap tidak bisa dijalankan, Windsor menjeda baca karena 2 akun di paket Free (Instagram + TikTok). Antrian cloud gagal SSL. Tidak ada produksi baru. Stok siap: Reels Sen 23 (slide-foto), Sel 24 (baris-pertama-caption); bedah-dana, dikasih-modal, kamus-investor masih tercatat siap-unggah (tayang/tidaknya tidak bisa diverifikasi). Kosong: Reels Rab 25-Sab 28, carousel Sel 24 dan Jum 27",
