@@ -14,16 +14,16 @@
    "judul": "Calon mitra cari tiga hal",
    "caption": "Kamu bercerita tentang sejarah usahamu. Calon mitra mencari tiga jawaban.\n\n1. Sanggup berapa banyak. Contoh: kirim sayur 2 ton per minggu ke 40 dapur.\n2. Sudah pernah mengerjakan. Contoh: memasok 12 katering kantor sejak 2024.\n3. Kalau ada masalah, hubungi siapa. Contoh: Rina, koordinator pengiriman, WA dibalas sebelum 10.00.\n\nSejarah, visi, dan misi cukup satu baris di bawahnya.\n\nBerapa baris sejarah di halaman Tentang Kami-mu sekarang? Tulis angkanya di komentar.\n\nSimpan postingan ini untuk dicek sebelum kirim profil ke calon mitra.\n\nContoh dari SEMBADA, usaha karangan untuk portofolio. Angka ilustratif.\n\n#umkm #proposalkemitraan #bisnisumkm #tipsusaha #presentasi",
    "urls": [
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/4bc75d1569b52197f18bf7e87844a2f1fd76948c/carousel-24-nov-calon-mitra-v3/halaman-1.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/15c477ed710c26774d93f34a805e2523743beb0b/carousel-24-nov-calon-mitra-v3/halaman-2.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/38cdc7890fb9f3f20d67053cec95574972822ae8/carousel-24-nov-calon-mitra-v3/halaman-3.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/44a2e6c9aefcde244f7a2f7d224b0da1f97eb32e/carousel-24-nov-calon-mitra-v3/halaman-4.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/de6f96ea94a887041b6e075e640c81d2ebcc9574/carousel-24-nov-calon-mitra-v3/halaman-5.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/ce32c5afe5513c2810288c5eb3f88f85e0b877f6/carousel-24-nov-calon-mitra-v3/halaman-6.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/b784b0b1d166cb77d86686b3b435ca15fba27529/carousel-24-nov-calon-mitra-v3/halaman-7.jpg",
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/2e93d8c9ca57a8b324ccd6fbee8b925ec68564c2/carousel-24-nov-calon-mitra-v3/halaman-8.jpg"
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/1e5b4f6b7d638e1fd423c73218bbde0c4f1393ae/carousel-24-nov-calon-mitra-v4/halaman-1.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/a0908d788fe573568bbe7fa40d302571df44948f/carousel-24-nov-calon-mitra-v4/halaman-2.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/fb28d6c70ba4c06e95dab56eecd9535bb5b365d0/carousel-24-nov-calon-mitra-v4/halaman-3.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/288673f2b94634c892a4eb00172ab24dbe802574/carousel-24-nov-calon-mitra-v4/halaman-4.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/171c72c4197945ee75a7b404bf77299d5ad4330d/carousel-24-nov-calon-mitra-v4/halaman-5.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/d613eaef8e5f22b2e4677564fdaaed323342a1c1/carousel-24-nov-calon-mitra-v4/halaman-6.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/d7c8e680b1939e5d281293780f839dd79b3da876/carousel-24-nov-calon-mitra-v4/halaman-7.jpg",
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/d59be60a3225862ce2489286ecd592e8715ba66f/carousel-24-nov-calon-mitra-v4/halaman-8.jpg"
    ],
-   "qc": "V3 23 Nov (permintaan Felix: urutan dan pembuka lebih kuat, desain lebih inovatif, penulisan ala copywriter ahli). Teks: pembuka 'KAMU CERITA SEJARAH. MITRA CARI JAWABAN.' + subjudul untuk siapa; slide 3-5 ditulis sebagai pertanyaan calon mitra, dijawab satu baris, tiap slide ditutup jembatan ke berikutnya; pertanyaan pemicu di tengah (slide 5) dan akhir (slide 8). Tanpa istilah teknis. Angka, nama Rina, dan label SEMBADA tidak diubah. Caption: kalimat pembuka dan tiga butir disesuaikan. Desain: panorama menyambung (kartu Tentang Kami menyambung dari slide 1 ke 2, rel hijau menyambung di semua slide, penghitung terjawab 0/3 sampai 3/3), Krem + Hijau Daun. Pemeriksa browser 0 temuan, cek-tabrakan-teks 0 temuan, lembar kontak, strip panorama, slide 1 dan 5 dilihat. cek-tulisan-manusia caption dan teks slide KRITIS 0. 8 JPG di carousel-24-nov-calon-mitra-v3, URL lolos.",
+   "qc": "V4 23 Nov (permintaan Felix: hero visual jauh lebih kuat dari referensi video dan carousel, konsep membangun trust). Hero: 4 objek fotorealistis buatan model seedream-5.5 (tumpukan kertas dengan satu map hijau menonjol, peti sayur segar, papan jalan dengan centang, ponsel dengan obrolan abstrak), latar dipotong, bayangan lembut, terpotong tepi slide; tumpukan menyambung slide 1 ke 2. Konsep dari referensi: satu objek berwarna di antara yang netral (carousel/_referensi-gaya pion) dan objek besar terpotong tepi (video/_referensi-gaya ref1, ref4). Gambar ilustrasi, bukan foto usaha sungguhan; label karangan tetap. Tanpa wajah dan logo. Teks, caption, angka, Rina, label SEMBADA sama dengan V3. Pemeriksa browser 0 temuan, cek-tabrakan-teks 0 temuan (teks tidak menimpa kartu atau hero), lembar kontak, strip panorama, slide 1, 4, 5 dilihat. cek-tulisan-manusia KRITIS 0. 8 JPG di carousel-24-nov-calon-mitra-v4, URL lolos. Biaya gambar 392 kredit (4 x 98).",
    "copy": "pembuka ditulis ulang atas permintaan Felix 23 Nov ('kalimat lebih kuat, dilarang jargon'): KAMU CERITA SEJARAH. MITRA CARI JAWABAN. Desain A panorama menyambung dipilih Felix.",
    "alasan_pilihan": "Perintah /manager lanjut A6 dari Felix 23 Nov: produksi claude/produksi-2026-11-24-carousel-calon-mitra.md, ganti kamus-investor di slot Sel 24 Nov 12.00.",
    "cadangan_v1": {
@@ -39,7 +39,7 @@
     ],
     "catatan": "V1 (folder carousel-24-nov-calon-mitra), dibangun 23 Nov sebelum rombak; arsip lokal jadi-v1/. Jangan tayang bersama V2."
    },
-   "versi": "v3",
+   "versi": "v4",
    "cadangan_v2": {
     "urls": [
      "https://raw.githubusercontent.com/Fast4project/fast4project-media/fa4264a4588c225fb0c4e221cec31bbc919f267e/carousel-24-nov-calon-mitra-v2/halaman-1.jpg",
@@ -52,6 +52,19 @@
      "https://raw.githubusercontent.com/Fast4project/fast4project-media/16f603e378d754d5f265f893e45c4942e0ea42f4/carousel-24-nov-calon-mitra-v2/halaman-8.jpg"
     ],
     "catatan": "V2 (folder carousel-24-nov-calon-mitra-v2). Jangan tayang bersama V3."
+   },
+   "cadangan_v3": {
+    "urls": [
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/4bc75d1569b52197f18bf7e87844a2f1fd76948c/carousel-24-nov-calon-mitra-v3/halaman-1.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/15c477ed710c26774d93f34a805e2523743beb0b/carousel-24-nov-calon-mitra-v3/halaman-2.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/38cdc7890fb9f3f20d67053cec95574972822ae8/carousel-24-nov-calon-mitra-v3/halaman-3.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/44a2e6c9aefcde244f7a2f7d224b0da1f97eb32e/carousel-24-nov-calon-mitra-v3/halaman-4.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/de6f96ea94a887041b6e075e640c81d2ebcc9574/carousel-24-nov-calon-mitra-v3/halaman-5.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/ce32c5afe5513c2810288c5eb3f88f85e0b877f6/carousel-24-nov-calon-mitra-v3/halaman-6.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/b784b0b1d166cb77d86686b3b435ca15fba27529/carousel-24-nov-calon-mitra-v3/halaman-7.jpg",
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/2e93d8c9ca57a8b324ccd6fbee8b925ec68564c2/carousel-24-nov-calon-mitra-v3/halaman-8.jpg"
+    ],
+    "catatan": "V3 (folder carousel-24-nov-calon-mitra-v3, tanpa hero foto). Jangan tayang bersama V4."
    }
   },
   {
