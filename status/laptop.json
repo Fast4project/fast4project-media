@@ -217,11 +217,17 @@
    },
    "qc": "final.mp4 1080x1920, 31,5 dtk. Hook utuh frame 0, SFX hit 0,00, VO mulai 0,10 dtk, true peak -1,8 dBTP. ukur-retensi 6/6. cek-format 8/11 (catatan: F2 durasi 31,5; V2 jeda 1,33 dtk = ekor 1,3 dtk di akhir; V4 LRA 1,9). Lembar frame dilihat, teks utuh. Label Bakso Lereng karangan + angka ilustratif di layar. Gerbang sinkron tayang: tanpa BLOKIR. Suara: Liam (ElevenLabs lewat connector, suara bawaan 'Liam - Energetic, Social Media Creator'), model multilingual_v2, dipercepat ffmpeg x1,20 (resep v1 memakai speed 1,10 langsung). ejaan 'tim-mu' hanya di bahan suara. Felix menyetujui suara lewat dua file uji, belum mendengar versi lengkap.",
    "alasan_pilihan": "Perintah /manager lanjut A6 dari Manager cloud (produksi-2026-11-19-stok), naskah ditempel Felix 14 Nov.",
-   "versi_baru": "final-v2.mp4",
+   "versi_baru": "final-v3.mp4",
    "urls_v2": [
     "https://raw.githubusercontent.com/Fast4project/fast4project-media/1ab79b80dbcd137e7bb44e7b8f52daee33d1d7f2/reels-19-nov-slide-foto/final-v2.mp4"
    ],
-   "qc_v2": "Rombak 23 Nov selesai sebelum 19.10. 1080x1920, 30,2 dtk (ekor diam dibuang), hook utuh frame 0, bingkai jatuh 0,15 dtk, zoom punch 0,4 dtk, ALASAN kinetik, 'dek'->'deck', pemicu angka 18,6-20,35 dtk, pop SFX di 6 tahun/200 porsi/CABANG KEDUA, teks disinkronkan ke kata VO (selisih <=0,3 dtk), musik beat-pelan ~12 dB di bawah narator. -14,3 LUFS, TP -1,6 dBFS, freezedetect bersih, frame dilihat. VO/caption/label/niche tidak diubah. Belum didengar Felix."
+   "qc_v2": "Rombak 23 Nov selesai sebelum 19.10. 1080x1920, 30,2 dtk (ekor diam dibuang), hook utuh frame 0, bingkai jatuh 0,15 dtk, zoom punch 0,4 dtk, ALASAN kinetik, 'dek'->'deck', pemicu angka 18,6-20,35 dtk, pop SFX di 6 tahun/200 porsi/CABANG KEDUA, teks disinkronkan ke kata VO (selisih <=0,3 dtk), musik beat-pelan ~12 dB di bawah narator. -14,3 LUFS, TP -1,6 dBFS, freezedetect bersih, frame dilihat. VO/caption/label/niche tidak diubah. Belum didengar Felix.",
+   "urls_v3": [
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/50cf641df01ac1e9e38d1c35ed089d1259c7e89d/reels-19-nov-slide-foto/final-v3.mp4"
+   ],
+   "variabel_uji": "pemicu komentar angka di tengah video ('Tulis angkanya', det 18,95-20,7)",
+   "hipotesis": "Pemicu angka di tengah mendapat >=1 komentar, dibanding 0 komentar di 5 Reels sebelumnya yang pemicunya pilihan kata.",
+   "qc_v3": "Rombak total v3 23 Nov menurut prosedur-manager-agent6-video + rekap evaluasi. Suara Liam SATU TARIKAN (API, resep 13 Nov, tanpa regang tempo, susun_vo_hd); naskah sama. 1080x1920 30fps 32,2 dtk (F2 durasi 22-28 = catatan: naskah dikunci, tidak ada regang tempo; wajib catatan, tidak menahan tayang). ukur-retensi 6/6 (G2 beku diperbaiki). cek-format 10/11. LUFS -14,4, TP -1,6, LRA 4,1. Adegan 14, semuanya <=4,5 dtk. Teks layar sinkron kata VO (<=0,3 dtk). Musik beat-pelan ~12 dB di bawah narator, belum didengar Felix. Label karangan 2 baris y~1330; margin teks >=90/110; frame dari file final dilihat; cek-tulisan-manusia KRITIS 0 (2 saran). Posisi tengah: titik berat 40-55% (peringatan tepi = blob latar)."
   },
   {
    "format": "reels",
@@ -372,8 +378,8 @@
  "agen_hari_ini": [
   {
    "agent": "A6",
-   "tugas": "Rombak Reels dikasih-modal v6: subtitle bergaya (pil kaca, kata yang diucapkan menyala) menggantikan tulisan kecil; hook kuat, SFX bernada lembut, musik beat-pelan kecil, animasi contoh. Naskah/VO/label tetap. ukur-retensi 6/6. Tidak diunggah.",
-   "bukti": "video/2026-11-21-dikasih-modal/final-v6.mp4",
+   "tugas": "rombak total video slide-foto v3",
+   "bukti": "video/2026-11-23-slide-foto/final-v3.mp4",
    "status": "selesai"
   },
   {
@@ -432,8 +438,8 @@
   },
   {
    "agent": "A6",
-   "tugas": "Reels Kam 19 Nov 19.30 'Bio usahamu lolos tes 3 detik?' (S-G umkm, tema A) V4: Liam satu tarikan seperti 13 Nov, tempo asli, SFX HD tanpa gema, siap-unggah. slide-foto digeser ke 23-28 Nov.",
-   "bukti": "video/2026-11-19-bio-usaha/final.mp4",
+   "tugas": "rombak total video slide-foto v3",
+   "bukti": "video/2026-11-23-slide-foto/final-v3.mp4",
    "status": "selesai"
   },
   {
@@ -444,14 +450,14 @@
   },
   {
    "agent": "A6",
-   "tugas": "Run 15.00 Sen 16 Nov: Reels hari ini (pembeli-baru) sudah siap-unggah; Reels Rab 18 Nov tetap terhambat (alat/vo-reels.py tidak ada, node butuh izin). Antrian cloud 404. Tidak ada render baru.",
-   "bukti": "video/2026-11-18-deck-atau-katalog/STATUS.md",
+   "tugas": "rombak total video slide-foto v3",
+   "bukti": "video/2026-11-23-slide-foto/final-v3.mp4",
    "status": "terhambat"
   },
   {
    "agent": "A6",
-   "tugas": "Run 10.00 Sen 16 Nov: Reels Rab 18 Nov 'Deck atau katalog?' (S-E): naskah VO + caption siap, video belum dirender (alat/vo-reels.py hilang, node butuh izin)",
-   "bukti": "video/2026-11-18-deck-atau-katalog/STATUS.md",
+   "tugas": "rombak total video slide-foto v3",
+   "bukti": "video/2026-11-23-slide-foto/final-v3.mp4",
    "status": "terhambat"
   },
   {
@@ -474,8 +480,8 @@
   },
   {
    "agent": "A6",
-   "tugas": "Reels Sel 17 Nov 'Slide masalahmu cuma satu kalimat?' (S-C, tema D, VO edge-tts + musik + SFX)",
-   "bukti": "video/2026-11-17-slide-masalah/final.mp4",
+   "tugas": "rombak total video slide-foto v3",
+   "bukti": "video/2026-11-23-slide-foto/final-v3.mp4",
    "status": "selesai"
   },
   {
@@ -504,14 +510,14 @@
   },
   {
    "agent": "A6",
-   "tugas": "rombak video bedah-dana v3 (koreksi Felix: tanpa ganti warna, hook+loop penasaran, musik latar)",
-   "bukti": "video/2026-11-20-bedah-dana/final-v4.mp4",
+   "tugas": "rombak total video slide-foto v3",
+   "bukti": "video/2026-11-23-slide-foto/final-v3.mp4",
    "status": "selesai"
   },
   {
    "agent": "A6",
-   "tugas": "rombak video slide-foto v2",
-   "bukti": "video/2026-11-23-slide-foto/final-v2.mp4",
+   "tugas": "rombak total video slide-foto v3",
+   "bukti": "video/2026-11-23-slide-foto/final-v3.mp4",
    "status": "selesai"
   }
  ],
