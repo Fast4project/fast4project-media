@@ -210,7 +210,7 @@
    "caption": "Slide tim yang isinya cuma foto, nama, dan jabatan belum menjawab pertanyaan pembaca dek: kenapa orang-orang ini bisa menjalankan rencananya?\n\nTambahkan satu baris bukti per orang yang terkait rencana. Misalnya: 6 tahun pegang dapur 200 porsi sehari. Atau: menyusun laporan kas bulanan sejak tahun pertama.\n\nSatu baris bukti lebih kuat dari tiga foto rapi.\n\nTimmu paling kuat di mana? Tulis DAPUR, JUAL, atau HITUNG di komentar.\n\nContoh di video dari Bakso Lereng, usaha karangan untuk portofolio. Semua angka ilustratif.\n\nKirim ke teman yang lagi menyusun dek.\n\n#pitchdeck #umkm #proposalkemitraan #franchise #presentasi",
    "caption_tiktok": "Slide timmu cuma foto? Tambah satu baris bukti per orang. Timmu kuat di mana: DAPUR, JUAL, atau HITUNG? Bakso Lereng: usaha karangan, angka ilustratif.\n\n#pitchdeck #umkm #bisnisumkm #tipsusaha #presentasi",
    "urls": [
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/324ff3ddd35908c94cbc3ebf73f457ee8cf6ee10/reels-19-nov-slide-foto/final.mp4"
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/fd03606c7acab9c7b115287540e77e552c8b2b1a/reels-19-nov-slide-foto/final-v4.mp4"
    ],
    "cover": {
     "thumb_offset": 500
@@ -231,7 +231,12 @@
    "urls_v4": [
     "https://raw.githubusercontent.com/Fast4project/fast4project-media/fd03606c7acab9c7b115287540e77e552c8b2b1a/reels-19-nov-slide-foto/final-v4.mp4"
    ],
-   "qc_v4": "v4 23 Nov atas permintaan Felix: hook lebih kuat (kata berdenyut serentak VO, garis penanda, bingkai foto jatuh, kaca pembesar, getar di 'foto?', ALASAN menghantam), ejaan bahan suara 'Slaid' (ganti 'Slide'), slide tim tiruan sebagai alat jelaskan (isi per orang, toko cabang 1->2, kotak bulan kas, timbangan 3 foto vs 1 baris bukti), subtitle otomatis dari alignment ElevenLabs (potongan <=3 kata, kata aktif menyala, y~1118). Suara Liam satu tarikan tanpa regang tempo. 1080x1920 32,2 dtk (F2 durasi = catatan). ukur-retensi 6/6, cek-format 10/11, LUFS -14,4, TP -1,6, LRA 4,4, freezedetect bersih, titik berat 43-54%. Frame dari file final dilihat. Lafal 'Slaid' dan musik belum didengar Felix."
+   "qc_v4": "v4 23 Nov atas permintaan Felix: hook lebih kuat (kata berdenyut serentak VO, garis penanda, bingkai foto jatuh, kaca pembesar, getar di 'foto?', ALASAN menghantam), ejaan bahan suara 'Slaid' (ganti 'Slide'), slide tim tiruan sebagai alat jelaskan (isi per orang, toko cabang 1->2, kotak bulan kas, timbangan 3 foto vs 1 baris bukti), subtitle otomatis dari alignment ElevenLabs (potongan <=3 kata, kata aktif menyala, y~1118). Suara Liam satu tarikan tanpa regang tempo. 1080x1920 32,2 dtk (F2 durasi = catatan). ukur-retensi 6/6, cek-format 10/11, LUFS -14,4, TP -1,6, LRA 4,4, freezedetect bersih, titik berat 43-54%. Frame dari file final dilihat. Lafal 'Slaid' dan musik belum didengar Felix.",
+   "urls_v1": [
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/324ff3ddd35908c94cbc3ebf73f457ee8cf6ee10/reels-19-nov-slide-foto/final.mp4"
+   ],
+   "ganti_dari": "final.mp4 (v1)",
+   "versi_dipilih": "final-v4.mp4 (dipilih Felix 23 Nov)"
   },
   {
    "format": "reels",
