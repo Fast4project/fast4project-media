@@ -1,6 +1,6 @@
 {
- "diperbarui": "2026-11-26T20:20:48+07:00",
- "jalan": "uji pasang-laporan-rombak",
+ "diperbarui": "2026-11-26T21:04:21+07:00",
+ "jalan": "lanjut A6 rombak baris-pertama-caption dari r07",
  "item": [],
  "rombak": [
   {
@@ -127,6 +127,149 @@
      "byte": 488637
     }
    ]
+  },
+  {
+   "slug": "2026-11-27-baris-pertama-caption",
+   "referensi": "r07-pesan-satu-kalimat-overthinking-13s (video/_referensi-gaya)",
+   "status": "menunggu-felix",
+   "diperbarui": "2026-11-26T21:04:21+07:00",
+   "tahap": {
+    "L1": {
+     "nama": "referensi",
+     "status": "selesai",
+     "bukti": "video/2026-11-27-baris-pertama-caption/peta-referensi.md"
+    },
+    "L2": {
+     "nama": "bedah referensi dengan alat",
+     "status": "selesai",
+     "bukti": "video/2026-11-27-baris-pertama-caption/peta-referensi.md"
+    },
+    "L3": {
+     "nama": "pasangan adegan (kata tetap)",
+     "status": "selesai",
+     "bukti": "video/2026-11-27-baris-pertama-caption/peta-referensi.md"
+    },
+    "L4": {
+     "nama": "baca rekap, daftar jangan ulang",
+     "status": "selesai",
+     "bukti": "video/2026-11-27-baris-pertama-caption/peta-referensi.md"
+    },
+    "L5": {
+     "nama": "adegan baru + VO SiYanto + campur + subtitle",
+     "status": "selesai",
+     "bukti": "video/2026-11-27-baris-pertama-caption/adegan-v2.html"
+    },
+    "L6": {
+     "nama": "tabel selisih + lembar berdampingan dilihat",
+     "status": "selesai",
+     "bukti": "video/2026-11-27-baris-pertama-caption/qc/berdampingan-r07-v2.jpg",
+     "hasil": {
+      "retensi": "6/6",
+      "cek_format": "10/11 (F2 durasi 37,1)",
+      "freezedetect": 0
+     }
+    },
+    "L7": {
+     "nama": "penilaian Felix (tonton dengan suara)",
+     "status": "menunggu",
+     "bukti": null
+    }
+   },
+   "tabel_selisih": [
+    {
+     "ukuran": "durasi_dtk",
+     "ref": 12.83,
+     "lama": 35.83,
+     "baru": 37.0
+    },
+    {
+     "ukuran": "isi_layar_rata_persen_alat_pc",
+     "ref": 50.9,
+     "lama": 25.2,
+     "baru": 50.8
+    },
+    {
+     "ukuran": "isi_frame0_persen",
+     "ref": 24.4,
+     "lama": 30.2,
+     "baru": 51.8
+    },
+    {
+     "ukuran": "gerak_rata",
+     "ref": 1.61,
+     "lama": 3.92,
+     "baru": 4.38
+    },
+    {
+     "ukuran": "perubahan_besar_per10",
+     "ref": 2.3,
+     "lama": 6.7,
+     "baru": 11.1
+    },
+    {
+     "ukuran": "rata_durasi_adegan_dtk_g4",
+     "ref": 12.4,
+     "lama": 3.6,
+     "baru": 2.5
+    },
+    {
+     "ukuran": "diam_terlama_dtk",
+     "ref": 1.83,
+     "lama": 0,
+     "baru": 0.33
+    },
+    {
+     "ukuran": "jumlah_sfx",
+     "ref": null,
+     "lama": 22,
+     "baru": 26
+    },
+    {
+     "ukuran": "lufs",
+     "ref": -14.0,
+     "lama": -14.6,
+     "baru": -14.0
+    },
+    {
+     "ukuran": "lra",
+     "ref": 1.7,
+     "lama": 1.9,
+     "baru": 3.8
+    },
+    {
+     "ukuran": "retensi",
+     "ref": null,
+     "lama": "4/6",
+     "baru": "6/6"
+    },
+    {
+     "ukuran": "cek_format",
+     "ref": "9/11",
+     "lama": "8/11",
+     "baru": "10/11"
+    }
+   ],
+   "catatan_ukur": "Isi layar diukur alat PC (beda skala dengan Manager: r07 35%/dasar 11% di Manager = 50,9%/25,2% di PC). v2 setara r07 di alat yang sama. Perubahan besar/10 dtk dan gerak rata selisih >30% dari r07: tidak diturunkan karena L5 (perubahan <= 2,5 dtk) dan G4. Kalimat pembalik di 67-79% (urutan VO tetap).",
+   "final_v2": {
+    "berkas": "video/2026-11-27-baris-pertama-caption/final-v2.mp4",
+    "md5": "ca5463f37547bffa7f7e43f9aa1fcc62",
+    "byte": 13043097,
+    "url": "https://raw.githubusercontent.com/Fast4project/fast4project-media/115c63fe2f6de4dffa6d39705acd912fafd480e1/reels-27-nov-baris-pertama-caption-v2/final-v2.mp4",
+    "durasi": 37.0,
+    "resolusi": "1080x1920",
+    "fps": 30
+   },
+   "final_v1_tidak_ditimpa": true,
+   "vo": {
+    "suara": "SiYanto erExAgyOw4s9G388S84z",
+    "model": "eleven_multilingual_v2",
+    "setelan": "stab 0,40 sim 0,75 style 0,50 speed 1,08",
+    "tarikan": 1,
+    "naskah": "video/2026-11-27-baris-pertama-caption/vo/naskah-vo.txt",
+    "mp3": "video/2026-11-27-baris-pertama-caption/vo/vo-penuh.mp3",
+    "didengar_felix": false
+   },
+   "pertanyaan": "Tonton final-v2 dengan suara: mirip referensi? Ya / Sebagian (sebut bagian) / Tidak. Lalu unggah atau tunda."
   }
  ],
  "catatan": [
