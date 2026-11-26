@@ -47,10 +47,10 @@
    "alasan_pilihan": "Antrian cloud 404; slot Kam 26 Nov kosong. Porsi 23-28 Nov: S-E katalog 1 belum terisi, jadi S-E. Contoh usaha karangan tanpa nama (kue kering) supaya Geprek Lumbung tidak dipakai lagi. TOFU, pemicu komentar satu angka.",
    "versi_baru": "final-v2.mp4",
    "urls_v2": [
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/c553e77951fdb0fe37633328e1af8271dc55db46/reels-26-nov-produk-per-halaman/final-v2.mp4"
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/663f7785d6d38b9cd599050f6c169d3ba856ae9c/reels-26-nov-produk-per-halaman/final-v2.mp4"
    ],
    "vo_tambahan": "Baris CTA follow (atas permintaan Felix 26 Nov, kalimat pilihan Felix): 'Mau tahu selengkapnya, dan yang lain? Follow ya.' disisipkan sesudah baris Uji, sebelum pemicu ANGKA.",
-   "qc_v2": "V2 rombak ulang 26 Nov mengikuti peta-referensi (ref4-objek-krem): objek kue dari kode memotong tepi bingkai, teks dirakit kata demi kata, garis dan riak tiap potongan, 16 adegan. final-v2.mp4 1080x1920 30 fps 28,0 dtk. VO ElevenLabs Liam (satu tarikan, 9 baris incl. CTA follow), musik beat-pelan, SFX. UKUR: cek-format 11/11 (LRA 4,0), ukur-retensi 6/6 (G2 beku 0 kejadian, detik mati 14%), freezedetect 0, -14,0 LUFS, TP -2,1 dBTP. Label karangan + angka ilustratif terlihat. cek-tulisan-manusia vo KRITIS 0. Peringatan cek-posisi-tengah 'mepet tepi' disengaja (kue memotong tepi sesuai ref4, teks mulai x=90). Suara Liam belum didengar Felix. ukur-gerak menandai satu adegan 5,9 dtk (frame berganti terus, G4 retensi lolos). Versi sebelumnya: final-v2-lama.mp4 (lokal)."
+   "qc_v2": "V2 rombak ulang 26 Nov mengikuti peta-referensi (ref4-objek-krem): objek kue dari kode memotong tepi bingkai, teks dirakit kata demi kata, garis dan riak tiap potongan, 16 adegan. final-v2.mp4 1080x1920 30 fps 28,0 dtk. VO ElevenLabs Liam (satu tarikan, 9 baris incl. CTA follow), musik beat-pelan, SFX. UKUR: cek-format 11/11 (LRA 4,1), ukur-retensi 6/6 (G1 0,97x, G2 beku 0 kejadian, detik mati 18%), freezedetect 0, -13,9 LUFS, TP -2,1 dBTP. Presisi 26 Nov: efek pop (SFX pop, skala melonjak, goyang teks) dibuang; kata dan peristiwa jatuh di awal kata VO (alignment). Label karangan + angka ilustratif terlihat. cek-tulisan-manusia vo KRITIS 0. Peringatan cek-posisi-tengah 'mepet tepi' disengaja (kue memotong tepi sesuai ref4, teks mulai x=90). Suara Liam belum didengar Felix. ukur-gerak menandai satu adegan 5,9 dtk (frame berganti terus, G4 retensi lolos). Versi sebelumnya: final-v2-lama.mp4 (lokal)."
   },
   {
    "format": "reels",
