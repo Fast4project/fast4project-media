@@ -1,7 +1,29 @@
 {
- "diperbarui": "2026-11-26T10:20:00+07:00",
- "jalan": "otomatis Kam 26 Nov 10.00",
+ "diperbarui": "2026-11-26T15:40:00+07:00",
+ "jalan": "otomatis Kam 26 Nov 15.00",
  "item": [
+  {
+   "format": "reels",
+   "nama": "pasar-270-juta",
+   "antrian_id": "",
+   "seri": "S-D",
+   "audiens": "umkm",
+   "tema": "D",
+   "jam_tayang": "2026-11-30 19:30",
+   "status": "siap-unggah",
+   "judul": "Pasarmu 270 juta orang? Yang beli siapa?",
+   "caption": "\"Pasar kami 270 juta orang.\" Investor dan calon mitra biasanya langsung bertanya: yang beli siapa?\n\nAngka itu jumlah penduduk, bukan jumlah pembelimu. Hitung dari yang bisa kamu jangkau.\n\nContoh dimsum rumahan: 12.000 rumah tangga dalam 3 km dari dapur. Kalau 15 dari 100 rumah beli sebulan sekali, itu 1.800 pembeli. Kali 40 ribu per pembelian, jadi 72 juta sebulan.\n\nTulis dari mana tiap angkanya, dan tandai mana yang masih dugaan.\n\nPasar usahamu kamu hitung dari apa? Tulis PENDUDUK atau PEMBELI di komentar.\n\nContoh di video: dimsum rumahan, usaha karangan untuk portofolio. Semua angka ilustratif.\n\nSimpan, cek lagi sebelum angka pasarmu masuk dek.\n\n#pitchdeck #umkm #proposalkemitraan #proposalusaha #presentasi",
+   "caption_tiktok": "Pasar kami 270 juta orang? Itu penduduk, bukan pembeli. Kamu hitung pasarmu dari PENDUDUK atau PEMBELI? Tulis di komentar. Dimsum: usaha karangan, angka ilustratif.\n\n#pitchdeck #umkm #proposalusaha #tipsusaha",
+   "urls": [
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/718f453baec58bbe9029a88add1627ffbb7d9647/reels-30-nov-pasar-270-juta/final.mp4"
+   ],
+   "cover": {
+    "thumb_offset": 500
+   },
+   "versi": "v1",
+   "qc": "V1 run 15.00 Kam 26 Nov. final.mp4 1080x1920, 30 fps, 25,1 dtk. Tema D, 7 adegan (kartu 40 titik penduduk, 12.000 rumah tangga, kartu 100 titik dengan 15 hijau, 1.800 pembeli, 72 juta). Hitungan dicek: 12.000 x 15% = 1.800; 1.800 x 40.000 = 72.000.000. Hook utuh frame 0, SFX hit 0,00, VO 0,10 dtk. Suara edge-tts id-ID-ArdiNeural (rate +8%, tempo 1,12), BUKAN Liam (run tanpa layar). Audio -14,5 LUFS, peak -2,0 dBFS, LRA 1,8; SFX sintetis 20 isyarat. Label 'Contoh dimsum: usaha karangan untuk portofolio' dan 'angka ilustratif' di adegan 3-4, '(ilustratif)' di adegan 5; tanpa 'Rp', tanpa harga jasa. 7 cuplikan dilihat setelah render + 1 frame final.mp4 (adegan 7) sesudah perbaikan jarak chip: teks utuh, tanpa tabrakan, isi di pita tengah. [CEK KATA] + stop-slop: lolos. Gerbang sinkron tayang: Windsor akun instagram terhubung, 18 posting 10-25 Nov dibaca; tidak ada topik pasar/penduduk/TAM, AMAN (kamus-investor siap-unggah memuat istilah lain, bukan ukuran pasar). ukur-retensi.py, cek-posisi-tengah.py tidak ada di laptop ini. Belum didengar Felix.",
+   "alasan_pilihan": "Antrian cloud 404; stok sudah penuh sampai Sab 28, slot Sen 30 Nov kosong. Porsi 30 Nov-5 Des: deck 2 (seri S-C/S-D); Jum 27 S-G, Sab 28 S-F, Kam 26 S-E, jadi Sen 30 = deck S-D. Contoh usaha karangan baru (dimsum) supaya Geprek Lumbung tidak dipakai lagi. TOFU, pemicu komentar satu kata."
+  },
   {
    "format": "reels",
    "nama": "produk-per-halaman",
@@ -20,20 +42,9 @@
    "cover": {
     "thumb_offset": 500
    },
-   "versi": "v2",
+   "versi": "v1",
    "qc": "V1 run 15.00 Rab 25 Nov. final.mp4 1080x1920, 30 fps, 26,1 dtk. Tema D, 7 adegan (20 foto kecil sebelum, 3 produk per halaman sesudah). Hook utuh frame 0, SFX hit 0,00, VO 0,10 dtk. Suara edge-tts id-ID-ArdiNeural (rate +8%, tempo 1,12), BUKAN Liam (run tanpa layar). Audio -14,5 LUFS, peak -2,0 dBFS, LRA 1,4; SFX sintetis 20 isyarat. Label 'Contoh katalog: usaha karangan untuk portofolio' di adegan 3-4, 'angka ilustratif' di adegan 4; tanpa 'Rp', tanpa harga jasa. Lembar 11 frame dari adegan dilihat: teks utuh, tanpa tabrakan, isi di pita tengah. [CEK KATA] + stop-slop: lolos. GERBANG SINKRON TAYANG TIDAK BISA DITARIK: Windsor tidak punya akun instagram_public terhubung hari ini; dibandingkan manual dengan 19 judul/caption di status ini (sampai 23 Nov). Topik tidak sama dengan deck-atau-katalog (18 Nov, soal siapa pembaca dokumen); posting 24-25 Nov tidak terverifikasi. ukur-retensi.py, cek-posisi-tengah.py tidak ada di laptop ini. Belum didengar Felix.",
-   "alasan_pilihan": "Antrian cloud 404; slot Kam 26 Nov kosong. Porsi 23-28 Nov: S-E katalog 1 belum terisi, jadi S-E. Contoh usaha karangan tanpa nama (kue kering) supaya Geprek Lumbung tidak dipakai lagi. TOFU, pemicu komentar satu angka.",
-   "versi_baru": "final-v2.mp4",
-   "urls_v2": [
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/9b4444f7503b27f699f97d50f10413fe01f2557a/reels-26-nov-produk-per-halaman/final-v2.mp4"
-   ],
-   "cadangan_v1": {
-    "urls": [
-     "https://raw.githubusercontent.com/Fast4project/fast4project-media/1802fbb2050f4a31c5682710e3c51211aba11433/reels-26-nov-produk-per-halaman/final.mp4"
-    ],
-    "catatan": "versi 25 Nov (edge-tts Ardi, isi 45% atas)"
-   },
-   "qc_v2": "V2 rombak 26 Nov (dok claude/rombak-2026-11-26-produk-per-halaman.md). final-v2.mp4 1080x1920 30 fps 29,07 dtk. Isi dipindah ke pita tengah (judul y350-650, kartu y770-1290, baris pendukung y1330-1430, label y1476-1540); titik berat 42-49% di 14 frame, bawah tidak kosong. Hook utuh frame 0. 8 adegan, penegas tiap 2-3 dtk (punch 105-108% pada 20, KECIL, TIGA, ANGKA; pinch gagal, tombol X, grid runtuh jadi 3 kartu, harga pop satu-satu, ubin 2/3/4 + halaman cara pesan, centang TANPA ZOOM, kotak ANGKA berdenyut 2x lalu tahan >2 dtk). Suara: ElevenLabs Liam (multilingual v2, speed 1,10, satu tarikan, tempo 1,05); Ardi/edge-tts dibuang atas perintah Felix 26 Nov; musik beat-pelan, 24 cue SFX (whoosh ganti adegan, pop tiap harga). Audio -14,2 LUFS, TP -2,6 dBTP, LRA 2,7; freezedetect 0. 14 frame final dilihat. Label karangan + angka ilustratif terlihat di adegan contoh dan penutup. Naskah VO, caption, label, harga ilustratif tidak diubah; cek-tulisan-manusia vo KRITIS 0. TIDAK DIUKUR (alat tidak ada di laptop): cek-format.py, ukur-retensi.py. Suara Liam belum didengar Felix (lafal diukur dari alignment, bukan telinga)."
+   "alasan_pilihan": "Antrian cloud 404; slot Kam 26 Nov kosong. Porsi 23-28 Nov: S-E katalog 1 belum terisi, jadi S-E. Contoh usaha karangan tanpa nama (kue kering) supaya Geprek Lumbung tidak dipakai lagi. TOFU, pemicu komentar satu angka."
   },
   {
    "format": "reels",
@@ -380,6 +391,18 @@
  "agen_hari_ini": [
   {
    "agent": "A6",
+   "tugas": "Kam 26 Nov 15.00: Reels Sen 30 Nov 'pasar-270-juta' (S-D, deck, tema D) diproduksi dan siap-unggah. Windsor (connector instagram) terbaca, 18 posting 10-25 Nov, topik AMAN. Reels Kam 26, Jum 27 (+ carousel kamus-investor 12.00), Sab 28 tetap siap-unggah. Antrian cloud 404. Kosong: Reels Sel 1 Des dst. dan carousel Sel 1 Des",
+   "bukti": "video/2026-11-30-pasar-270-juta/final.mp4",
+   "status": "selesai"
+  },
+  {
+   "agent": "A4",
+   "tugas": "Kam 26 Nov 15.00: Hunter MCP timeout lagi (CONNECT_TIMEOUT 30 dtk); riset prospek tidak dijalankan; 0 balasan ditempel",
+   "bukti": "",
+   "status": "terhambat"
+  },
+  {
+   "agent": "A6",
    "tugas": "Kam 26 Nov 10.00: Windsor pulih (akun 'instagram' fast4project terhubung); 5 posting 20-25 Nov terbaca. Tayang di Instagram: Reels 20 (bedah-dana), 21 (dikasih-modal), 23 (slide-foto), carousel 24 Nov 'Tentang Kami' dan Reels 25 Nov 'slide terakhir terima kasih'; dua terakhir tidak ada di status ini (kemungkinan dari Manager cloud). Reels 'baris-pertama-caption' dan 'satu-slide-satu-pesan' serta carousel 'kamus-investor' ternyata belum tayang, jadi dijadwal ulang: Kam 26 produk-per-halaman, Jum 27 carousel kamus-investor 12.00 + Reels baris-pertama-caption 19.30, Sab 28 satu-slide-satu-pesan 19.30. Tidak ada slot kosong sampai Sab 28. Kosong: Sen 30 Nov dst. dan carousel Sel 1 Des; antrian cloud 404. Tidak ada produksi baru di run ini",
    "bukti": "status/laptop.json",
    "status": "selesai"
@@ -479,12 +502,6 @@
    "tugas": "Tidak ada pesan terbaca di laptop",
    "bukti": "",
    "status": "terhambat"
-  },
-  {
-   "agent": "A6",
-   "tugas": "Kam 26 Nov: rombak Reels produk-per-halaman jadi final-v2.mp4 (isi ke pita tengah, VO Liam menggantikan Ardi, SFX+musik, QC lolos)",
-   "bukti": "video/2026-11-26-produk-per-halaman/final-v2.mp4",
-   "status": "selesai"
   }
  ],
  "verifikasi": {
@@ -536,6 +553,6 @@
    "dipakai_sementara": "opsi 1"
   }
  ],
- "catatan": "Run 10.00 Kam 26 Nov: Windsor pulih, gerbang sinkron tayang jalan otomatis; stok 3 Reels + 1 carousel dijadwal ulang sampai Sab 28 Nov, tanpa produksi baru. Antrian cloud 404, Hunter timeout. | Run 15.00 Rab 25 Nov: Reels Kam 26 Nov 'produk-per-halaman' (S-E) siap-unggah. Windsor tanpa akun instagram_public; antrian cloud 404; Hunter timeout. Kosong: Reels Jum 27-Sab 28, carousel Jum 27. | Run 15.00 Jum 20 Nov: antrian cloud gagal (SSL). Windsor cache tanpa posting baru 20 Nov; carousel kamus-investor (12.00) belum terlihat tayang, Reels bedah-dana 19.30 menunggu 'unggah'. Reels Sel 24 Nov 'baris-pertama-caption' (S-G kreator) siap-unggah. Kosong: Reels Rab 25-Sab 28 Nov, carousel Sel 24 dan Jum 27 Nov. Hunter MCP timeout. | Rab 18 Nov (lanjut A6, Felix di layar): Reels Kam 19 Nov 'bio-usaha' (S-G, tema A, Liam eleven_v4) siap-unggah; 'slide-foto' digeser ke minggu 23-28 Nov; carousel grafik-sumbu sudah tayang 17 Nov 16.20 dan folder repo dihapus. Antrian cloud masih gagal (SSL). | Run 15.00 Sel 17 Nov: antrian cloud gagal (SSL), repo tanpa folder antrian. Reels Sel 17 'slide-masalah' tayang 11.27 dan Sen 16 'pembeli-baru' tayang 18.40 (Windsor), folder repo dihapus. Reels Rab 18 Nov 'deck-atau-katalog' (S-E) siap-unggah: folder lamanya tidak ada di laptop, naskah VO ditulis ulang dari caption yang sama; node dan ElevenLabs butuh izin, jadi render lewat Playwright Python + edge-tts + SFX sintetis (skrip baru di video/_bangun: tts_edge.py, render_adegan.py, buat_sfx.py, lembar_cuplikan.py). Carousel 'grafik-sumbu' belum tayang, slot Selasa 12.00 lewat. Stok siap: Reels Rab 18, Kam 19, Jum 20, Sab 21; carousel grafik-sumbu + kamus-investor Jum 20. alat/koordinasi-perangkat.py, ukur-retensi.py, cek-posisi-tengah.py, qc-tata-letak-pptx.py tidak ada di folder laptop ini. | Run 15.00 Min 15 Nov: antrian repo masih 404; carousel Sel 17 Nov 'grafik-sumbu' (S-D) siap-unggah. Kandidat pertama 'Tiga label data' ditolak karena sudah tayang 13 Nov (cek-overlap tidak menangkapnya, ditemukan dari baca caption). Kosong tersisa: Reels Rab 18 Nov (naskah cloud Minggu 21.00 atau laptop menulis sendiri Senin 10.00). Hunter MCP timeout; verifikasi email tidak diulang (sudah 4 dicek 10.00). | Run 10.00 Min 15 Nov: antrian repo 404 (antrian/antrian.json belum ada); alat/perangkat.txt belum ada, status tetap laptop.json. Windsor (trial 30 hari) menunjukkan Reels pesaing tayang 14 Nov 11.59 dan carousel cek-proposal-mitra tayang 14 Nov 19.00 (lebih awal dari jadwal Selasa). Reels Sel 17 Nov 'slide-masalah' (S-C) siap-unggah; naskah ditulis laptop karena slot kosong. Stok Reels siap: Sen 16, Sel 17, Kam 19, Jum 20, Sab 21. Kosong: Reels Rab 18 Nov dan carousel Sel 17 Nov (butuh naskah cloud Minggu 21.00, atau laptop menulis sendiri di run Senin). Hunter MCP gagal tersambung di run ini. Kuota ElevenLabs akun laptop: sisa 32 huruf sampai 4 Des; connector ElevenLabs: terpakai sekitar 1.800 dari 10.000. Semua konten tetap perlu 'unggah' dari Felix di Manager cloud. 16 Nov 18.00: Reels Senin 'pembeli-baru' dibangun ulang V2 (hook masalah nyata, suara Liam eleven_v4, SFX dan transisi wipe kuning). 16 Nov 18.20: Reels Senin pembeli-baru V3 (gaya modern rapi, tanpa getar). 17 Nov 10.30: Reels Selasa slide-masalah dirombak V2 (Liam eleven_v4, tema D modern, 27,6 dtk, semua gerbang lolos). 17 Nov 12.30: Reels slide-masalah V3 (naskah logis, narator profesional, audio jernih, isi di tengah).",
+ "catatan": "Run 15.00 Kam 26 Nov: Reels Sen 30 Nov 'pasar-270-juta' (S-D) siap-unggah; stok Reels sampai Sen 30. Antrian cloud 404, Hunter timeout. | Run 10.00 Kam 26 Nov: Windsor pulih, gerbang sinkron tayang jalan otomatis; stok 3 Reels + 1 carousel dijadwal ulang sampai Sab 28 Nov, tanpa produksi baru. Antrian cloud 404, Hunter timeout. | Run 15.00 Rab 25 Nov: Reels Kam 26 Nov 'produk-per-halaman' (S-E) siap-unggah. Windsor tanpa akun instagram_public; antrian cloud 404; Hunter timeout. Kosong: Reels Jum 27-Sab 28, carousel Jum 27. | Run 15.00 Jum 20 Nov: antrian cloud gagal (SSL). Windsor cache tanpa posting baru 20 Nov; carousel kamus-investor (12.00) belum terlihat tayang, Reels bedah-dana 19.30 menunggu 'unggah'. Reels Sel 24 Nov 'baris-pertama-caption' (S-G kreator) siap-unggah. Kosong: Reels Rab 25-Sab 28 Nov, carousel Sel 24 dan Jum 27 Nov. Hunter MCP timeout. | Rab 18 Nov (lanjut A6, Felix di layar): Reels Kam 19 Nov 'bio-usaha' (S-G, tema A, Liam eleven_v4) siap-unggah; 'slide-foto' digeser ke minggu 23-28 Nov; carousel grafik-sumbu sudah tayang 17 Nov 16.20 dan folder repo dihapus. Antrian cloud masih gagal (SSL). | Run 15.00 Sel 17 Nov: antrian cloud gagal (SSL), repo tanpa folder antrian. Reels Sel 17 'slide-masalah' tayang 11.27 dan Sen 16 'pembeli-baru' tayang 18.40 (Windsor), folder repo dihapus. Reels Rab 18 Nov 'deck-atau-katalog' (S-E) siap-unggah: folder lamanya tidak ada di laptop, naskah VO ditulis ulang dari caption yang sama; node dan ElevenLabs butuh izin, jadi render lewat Playwright Python + edge-tts + SFX sintetis (skrip baru di video/_bangun: tts_edge.py, render_adegan.py, buat_sfx.py, lembar_cuplikan.py). Carousel 'grafik-sumbu' belum tayang, slot Selasa 12.00 lewat. Stok siap: Reels Rab 18, Kam 19, Jum 20, Sab 21; carousel grafik-sumbu + kamus-investor Jum 20. alat/koordinasi-perangkat.py, ukur-retensi.py, cek-posisi-tengah.py, qc-tata-letak-pptx.py tidak ada di folder laptop ini. | Run 15.00 Min 15 Nov: antrian repo masih 404; carousel Sel 17 Nov 'grafik-sumbu' (S-D) siap-unggah. Kandidat pertama 'Tiga label data' ditolak karena sudah tayang 13 Nov (cek-overlap tidak menangkapnya, ditemukan dari baca caption). Kosong tersisa: Reels Rab 18 Nov (naskah cloud Minggu 21.00 atau laptop menulis sendiri Senin 10.00). Hunter MCP timeout; verifikasi email tidak diulang (sudah 4 dicek 10.00). | Run 10.00 Min 15 Nov: antrian repo 404 (antrian/antrian.json belum ada); alat/perangkat.txt belum ada, status tetap laptop.json. Windsor (trial 30 hari) menunjukkan Reels pesaing tayang 14 Nov 11.59 dan carousel cek-proposal-mitra tayang 14 Nov 19.00 (lebih awal dari jadwal Selasa). Reels Sel 17 Nov 'slide-masalah' (S-C) siap-unggah; naskah ditulis laptop karena slot kosong. Stok Reels siap: Sen 16, Sel 17, Kam 19, Jum 20, Sab 21. Kosong: Reels Rab 18 Nov dan carousel Sel 17 Nov (butuh naskah cloud Minggu 21.00, atau laptop menulis sendiri di run Senin). Hunter MCP gagal tersambung di run ini. Kuota ElevenLabs akun laptop: sisa 32 huruf sampai 4 Des; connector ElevenLabs: terpakai sekitar 1.800 dari 10.000. Semua konten tetap perlu 'unggah' dari Felix di Manager cloud. 16 Nov 18.00: Reels Senin 'pembeli-baru' dibangun ulang V2 (hook masalah nyata, suara Liam eleven_v4, SFX dan transisi wipe kuning). 16 Nov 18.20: Reels Senin pembeli-baru V3 (gaya modern rapi, tanpa getar). 17 Nov 10.30: Reels Selasa slide-masalah dirombak V2 (Liam eleven_v4, tema D modern, 27,6 dtk, semua gerbang lolos). 17 Nov 12.30: Reels slide-masalah V3 (naskah logis, narator profesional, audio jernih, isi di tengah).",
  "perangkat": "laptop"
 }
