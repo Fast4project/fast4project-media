@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-26T21:51:37+07:00",
+ "diperbarui": "2026-11-26T21:52:22+07:00",
  "jalan": "lanjut A6 rombak baris-pertama-caption dari r07",
  "item": [],
  "rombak": [
@@ -131,9 +131,9 @@
   {
    "slug": "2026-11-27-baris-pertama-caption",
    "referensi": "r07-pesan-satu-kalimat-overthinking-13s (video/_referensi-gaya)",
-   "status": "draf-siap-menunggu-konfirmasi",
+   "status": "ditunda-menunggu-konfirmasi-jumat",
    "revisi": "hook baru (angka + situasi, pilihan Felix 26 Nov) + CTA follow penutup (kalimat pilihan Felix 26 Nov, sesudah isi, sebelum pemicu SAPA/ISI); hook lama dicadangkan final-v2-hooklama.mp4",
-   "diperbarui": "2026-11-26T21:51:37+07:00",
+   "diperbarui": "2026-11-26T21:52:22+07:00",
    "tahap": {
     "L1": {
      "nama": "referensi",
@@ -285,7 +285,7 @@
     "youtube": "draft, publik, UCst3CYCKU4YDv20P4o1Yyxg",
     "tiktok": "draft, publik, komentar dibuka, musik buatan kode, label AI mati",
     "instagram": "create_video_post dari URL publik, thumb_offset 1500",
-    "status": "menunggu konfirmasi Felix",
+    "status": "Felix: tunda semua (26 Nov); konfirmasi lagi Jumat ~19.30",
     "pengecualian": "durasi 38,9 dtk diterima Felix 26 Nov"
    }
   }
