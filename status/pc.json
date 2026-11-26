@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-26T18:33:03+07:00",
+ "diperbarui": "2026-11-26T18:33:14+07:00",
  "jalan": "uji pasang-laporan-rombak",
  "item": [],
  "rombak": [
@@ -15,15 +15,15 @@
     "ffprobe": "9.0.2-full_build-www.gyan.dev",
     "referensi_gaya": {
      "ada": true,
-     "file": 18,
-     "mp4": 8,
+     "file": 29,
+     "mp4": 19,
      "jpg": 5,
      "py": 5
     },
     "koordinasi_perangkat": "ok",
     "unggah_media_status": "ok"
    },
-   "diperbarui": "2026-11-26T18:33:03+07:00"
+   "diperbarui": "2026-11-26T18:33:14+07:00"
   }
  ],
  "catatan": [
