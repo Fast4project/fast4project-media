@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-26T21:37:39+07:00",
+ "diperbarui": "2026-11-26T21:51:37+07:00",
  "jalan": "lanjut A6 rombak baris-pertama-caption dari r07",
  "item": [],
  "rombak": [
@@ -131,9 +131,9 @@
   {
    "slug": "2026-11-27-baris-pertama-caption",
    "referensi": "r07-pesan-satu-kalimat-overthinking-13s (video/_referensi-gaya)",
-   "status": "selesai-menunggu-konfirmasi-unggah",
+   "status": "draf-siap-menunggu-konfirmasi",
    "revisi": "hook baru (angka + situasi, pilihan Felix 26 Nov) + CTA follow penutup (kalimat pilihan Felix 26 Nov, sesudah isi, sebelum pemicu SAPA/ISI); hook lama dicadangkan final-v2-hooklama.mp4",
-   "diperbarui": "2026-11-26T21:37:39+07:00",
+   "diperbarui": "2026-11-26T21:51:37+07:00",
    "tahap": {
     "L1": {
      "nama": "referensi",
@@ -277,6 +277,16 @@
     "tiktok": "video/2026-11-27-baris-pertama-caption/caption-tiktok-usulan.txt",
     "pilihan_felix": "baris pertama selaras hook",
     "diperbarui": "2026-11-26T21:33:23+07:00"
+   },
+   "draf_unggah": {
+    "vidiq_postId": "725b3895-8bc1-491f-beef-17aa95fe305f",
+    "revision": "4caddf80-baba7d38",
+    "uploadId": "980efe79-57ad-4dd8-ac24-607cb660b344",
+    "youtube": "draft, publik, UCst3CYCKU4YDv20P4o1Yyxg",
+    "tiktok": "draft, publik, komentar dibuka, musik buatan kode, label AI mati",
+    "instagram": "create_video_post dari URL publik, thumb_offset 1500",
+    "status": "menunggu konfirmasi Felix",
+    "pengecualian": "durasi 38,9 dtk diterima Felix 26 Nov"
    }
   }
  ],
