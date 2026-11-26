@@ -37,7 +37,7 @@
    "caption": "Katalogmu memuat 20 produk dalam satu halaman?\n\nPembeli yang membuka katalog di HP melihat foto kecil dan harga yang hampir tidak terbaca, lalu menutupnya sebelum memilih.\n\nContoh katalog kue kering: tiga produk per halaman, tiap produk satu foto besar, nama, ukuran toples, dan harga. Dua sampai empat produk per halaman, lalu satu halaman terakhir berisi cara pesan.\n\nUji sebelum dikirim: bisakah pembeli menyebut harga produk pertama tanpa memperbesar layar?\n\nKatalogmu sekarang berapa produk per halaman? Tulis angkanya di komentar.\n\nContoh di video: usaha karangan untuk portofolio. Harga dan ukuran ilustratif.\n\nKirim ke teman yang baru bikin katalog.\n\n#katalogusaha #umkm #tipsusaha #jualanonline #katalogproduk",
    "caption_tiktok": "Katalogmu muat 20 produk per halaman? Pembeli menutup sebelum memilih. Berapa produk per halaman katalogmu? Tulis ANGKA di komentar. Usaha karangan.\n\n#katalogusaha #umkm #tipsusaha #jualanonline",
    "urls": [
-    "https://raw.githubusercontent.com/Fast4project/fast4project-media/1802fbb2050f4a31c5682710e3c51211aba11433/reels-26-nov-produk-per-halaman/final.mp4"
+    "https://raw.githubusercontent.com/Fast4project/fast4project-media/d4d9241173e1781adb6449574ee456ecbb788e21/reels-26-nov-produk-per-halaman/final-v2.mp4"
    ],
    "cover": {
     "thumb_offset": 500
@@ -50,7 +50,13 @@
     "https://raw.githubusercontent.com/Fast4project/fast4project-media/d4d9241173e1781adb6449574ee456ecbb788e21/reels-26-nov-produk-per-halaman/final-v2.mp4"
    ],
    "vo_tambahan": "Baris CTA follow (atas permintaan Felix 26 Nov, kalimat pilihan Felix): 'Mau tahu selengkapnya, dan yang lain? Follow ya.' disisipkan sesudah baris Uji, sebelum pemicu ANGKA.",
-   "qc_v2": "V2 rombak ulang 26 Nov mengikuti peta-referensi (ref4-objek-krem): objek kue dari kode memotong tepi bingkai, teks dirakit kata demi kata, garis dan riak tiap potongan, 16 adegan. final-v2.mp4 1080x1920 30 fps 28,0 dtk. VO ElevenLabs Liam (satu tarikan, 9 baris incl. CTA follow), musik beat-pelan, SFX. UKUR: cek-format 11/11 (LRA 4,1), ukur-retensi 6/6 (G1 0,97x, G2 beku 0 kejadian, detik mati 18%), freezedetect 0, -13,9 LUFS, TP -2,1 dBTP. Subtitle penjelasan kata demi kata dari alignment VO (pita y 1410-1478) ditambah 26 Nov; cek tabrakan DOM antar elemen bersih (sisa 1 tumpang tindih 6 px sesaat saat chip masuk). Presisi 26 Nov: efek pop (SFX pop, skala melonjak, goyang teks) dibuang; kata dan peristiwa jatuh di awal kata VO (alignment). Label karangan + angka ilustratif terlihat. cek-tulisan-manusia vo KRITIS 0. Peringatan cek-posisi-tengah 'mepet tepi' disengaja (kue memotong tepi sesuai ref4, teks mulai x=90). Suara Liam belum didengar Felix. ukur-gerak menandai satu adegan 5,9 dtk (frame berganti terus, G4 retensi lolos). Versi sebelumnya: final-v2-lama.mp4 (lokal)."
+   "qc_v2": "V2 rombak ulang 26 Nov mengikuti peta-referensi (ref4-objek-krem): objek kue dari kode memotong tepi bingkai, teks dirakit kata demi kata, garis dan riak tiap potongan, 16 adegan. final-v2.mp4 1080x1920 30 fps 28,0 dtk. VO ElevenLabs Liam (satu tarikan, 9 baris incl. CTA follow), musik beat-pelan, SFX. UKUR: cek-format 11/11 (LRA 4,1), ukur-retensi 6/6 (G1 0,97x, G2 beku 0 kejadian, detik mati 18%), freezedetect 0, -13,9 LUFS, TP -2,1 dBTP. Subtitle penjelasan kata demi kata dari alignment VO (pita y 1410-1478) ditambah 26 Nov; cek tabrakan DOM antar elemen bersih (sisa 1 tumpang tindih 6 px sesaat saat chip masuk). Presisi 26 Nov: efek pop (SFX pop, skala melonjak, goyang teks) dibuang; kata dan peristiwa jatuh di awal kata VO (alignment). Label karangan + angka ilustratif terlihat. cek-tulisan-manusia vo KRITIS 0. Peringatan cek-posisi-tengah 'mepet tepi' disengaja (kue memotong tepi sesuai ref4, teks mulai x=90). Suara Liam belum didengar Felix. ukur-gerak menandai satu adegan 5,9 dtk (frame berganti terus, G4 retensi lolos). Versi sebelumnya: final-v2-lama.mp4 (lokal).",
+   "cadangan_v1": {
+    "urls": [
+     "https://raw.githubusercontent.com/Fast4project/fast4project-media/1802fbb2050f4a31c5682710e3c51211aba11433/reels-26-nov-produk-per-halaman/final.mp4"
+    ],
+    "catatan": "versi 25 Nov (edge-tts Ardi, isi 45% atas) - JANGAN diunggah"
+   }
   },
   {
    "format": "reels",
