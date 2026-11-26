@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-26T21:33:23+07:00",
+ "diperbarui": "2026-11-26T21:37:39+07:00",
  "jalan": "lanjut A6 rombak baris-pertama-caption dari r07",
  "item": [],
  "rombak": [
@@ -131,9 +131,9 @@
   {
    "slug": "2026-11-27-baris-pertama-caption",
    "referensi": "r07-pesan-satu-kalimat-overthinking-13s (video/_referensi-gaya)",
-   "status": "menunggu-felix",
+   "status": "selesai-menunggu-konfirmasi-unggah",
    "revisi": "hook baru (angka + situasi, pilihan Felix 26 Nov) + CTA follow penutup (kalimat pilihan Felix 26 Nov, sesudah isi, sebelum pemicu SAPA/ISI); hook lama dicadangkan final-v2-hooklama.mp4",
-   "diperbarui": "2026-11-26T21:25:52+07:00",
+   "diperbarui": "2026-11-26T21:37:39+07:00",
    "tahap": {
     "L1": {
      "nama": "referensi",
@@ -172,8 +172,9 @@
     },
     "L7": {
      "nama": "penilaian Felix (tonton dengan suara)",
-     "status": "menunggu",
-     "bukti": null
+     "status": "selesai",
+     "bukti": null,
+     "hasil": "Ya, mirip referensi"
     }
    },
    "tabel_selisih": [
@@ -270,7 +271,7 @@
     "mp3": "video/2026-11-27-baris-pertama-caption/vo/vo-penuh.mp3",
     "didengar_felix": false
    },
-   "pertanyaan": "Tonton final-v2 dengan suara: mirip referensi? Ya / Sebagian (sebut bagian) / Tidak. Lalu unggah atau tunda.",
+   "pertanyaan": "Unggah (Instagram + YouTube + TikTok) atau tunda? Belum ada yang diunggah.",
    "caption": {
     "instagram": "video/2026-11-27-baris-pertama-caption/caption-usulan.txt",
     "tiktok": "video/2026-11-27-baris-pertama-caption/caption-tiktok-usulan.txt",
