@@ -1,29 +1,132 @@
 {
- "diperbarui": "2026-11-26T20:15:57+07:00",
+ "diperbarui": "2026-11-26T20:20:48+07:00",
  "jalan": "uji pasang-laporan-rombak",
  "item": [],
  "rombak": [
   {
-   "id": "UJI-2026-11-26-pc",
-   "label": "UJI",
-   "status": "uji",
-   "skema": "sementara (menunggu B25)",
-   "perangkat": "pc",
-   "alat": {
-    "scenedetect": "0.7.3",
-    "ffmpeg": "9.0.2-full_build-www.gyan.dev",
-    "ffprobe": "9.0.2-full_build-www.gyan.dev",
-    "referensi_gaya": {
-     "ada": true,
-     "file": 29,
-     "mp4": 19,
-     "jpg": 5,
-     "py": 5
+   "slug": "2026-11-26-produk-per-halaman",
+   "referensi": "ref4-objek-krem.mp4",
+   "status": "selesai",
+   "diperbarui": "2026-11-26T20:20:48+07:00",
+   "tahap": {
+    "L1": {
+     "nama": "ukur referensi",
+     "status": "selesai",
+     "bukti": "video/2026-11-26-produk-per-halaman/peta-referensi.md"
     },
-    "koordinasi_perangkat": "ok",
-    "unggah_media_status": "ok"
+    "L2": {
+     "nama": "adegan dan visual",
+     "status": "selesai",
+     "bukti": "video/2026-11-26-produk-per-halaman/adegan-v3.html"
+    },
+    "L3": {
+     "nama": "suara VO",
+     "status": "selesai",
+     "bukti": "video/2026-11-26-produk-per-halaman/bangun_suara_v3.py"
+    },
+    "L4": {
+     "nama": "campur musik dan SFX",
+     "status": "selesai",
+     "bukti": "video/2026-11-26-produk-per-halaman/campur_v3.py"
+    },
+    "L5": {
+     "nama": "subtitle",
+     "status": "selesai",
+     "bukti": "video/2026-11-26-produk-per-halaman/sub-v3.js"
+    },
+    "L6": {
+     "nama": "QC ukur dan serah",
+     "status": "selesai",
+     "bukti": "video/2026-11-26-produk-per-halaman/final-v3-retensi.jpg",
+     "hasil": {
+      "retensi": "6/6",
+      "cek_format": "11/11"
+     }
+    }
    },
-   "diperbarui": "2026-11-26T20:15:57+07:00"
+   "tabel_selisih": [
+    {
+     "ukuran": "durasi_dtk",
+     "ref": 5.0,
+     "lama": 29.1,
+     "baru": 28.0
+    },
+    {
+     "ukuran": "rata_gerak",
+     "ref": 6.6,
+     "lama": 2.3,
+     "baru": 2.7
+    },
+    {
+     "ukuran": "g1_tenaga_hook_x",
+     "ref": 1.15,
+     "lama": 1.21,
+     "baru": 0.99
+    },
+    {
+     "ukuran": "g2_frame_beku",
+     "ref": 0,
+     "lama": 4,
+     "baru": 0
+    },
+    {
+     "ukuran": "g3_detik_mati_persen",
+     "ref": 0,
+     "lama": 38,
+     "baru": 25
+    },
+    {
+     "ukuran": "g4_adegan",
+     "ref": 2,
+     "lama": 3,
+     "baru": 15
+    },
+    {
+     "ukuran": "g5_gerak_penutup",
+     "ref": 4.9,
+     "lama": 0.7,
+     "baru": 0.9
+    },
+    {
+     "ukuran": "g6_pita_berisi_persen",
+     "ref": 100,
+     "lama": 70,
+     "baru": 70
+    },
+    {
+     "ukuran": "lra_suara",
+     "ref": null,
+     "lama": 2.1,
+     "baru": 4.1
+    },
+    {
+     "ukuran": "cek_format",
+     "ref": null,
+     "lama": "9/11",
+     "baru": "11/11"
+    }
+   ],
+   "final_v2": {
+    "berkas": "video/2026-11-26-produk-per-halaman/final-v2.mp4",
+    "md5": "b33f52157f871679f67a6ce62de77175",
+    "byte": 7423896
+   },
+   "final_v3": {
+    "berkas": "video/2026-11-26-produk-per-halaman/final-v3.mp4",
+    "md5": "b33f52157f871679f67a6ce62de77175",
+    "byte": 7423896,
+    "identik_dengan_v2": true
+   },
+   "mp3_vo": [
+    {
+     "berkas": "video/2026-11-26-produk-per-halaman/vo/el-semua.mp3",
+     "byte": 455200
+    },
+    {
+     "berkas": "video/2026-11-26-produk-per-halaman/vo/el3-semua.mp3",
+     "byte": 488637
+    }
+   ]
   }
  ],
  "catatan": [
