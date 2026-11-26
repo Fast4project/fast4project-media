@@ -32,7 +32,7 @@
    "audiens": "umkm",
    "tema": "D",
    "jam_tayang": "2026-11-26 19:30",
-   "status": "siap-unggah",
+   "status": "tayang",
    "judul": "Katalogmu memuat 20 produk dalam satu halaman?",
    "caption": "Katalogmu memuat 20 produk dalam satu halaman?\n\nPembeli yang membuka katalog di HP melihat foto kecil dan harga yang hampir tidak terbaca, lalu menutupnya sebelum memilih.\n\nContoh katalog kue kering: tiga produk per halaman, tiap produk satu foto besar, nama, ukuran toples, dan harga. Dua sampai empat produk per halaman, lalu satu halaman terakhir berisi cara pesan.\n\nUji sebelum dikirim: bisakah pembeli menyebut harga produk pertama tanpa memperbesar layar?\n\nKatalogmu sekarang berapa produk per halaman? Tulis angkanya di komentar.\n\nContoh di video: usaha karangan untuk portofolio. Harga dan ukuran ilustratif.\n\nKirim ke teman yang baru bikin katalog.\n\n#katalogusaha #umkm #tipsusaha #jualanonline #katalogproduk",
    "caption_tiktok": "Katalogmu muat 20 produk per halaman? Pembeli menutup sebelum memilih. Berapa produk per halaman katalogmu? Tulis ANGKA di komentar. Usaha karangan.\n\n#katalogusaha #umkm #tipsusaha #jualanonline",
@@ -56,7 +56,25 @@
      "https://raw.githubusercontent.com/Fast4project/fast4project-media/1802fbb2050f4a31c5682710e3c51211aba11433/reels-26-nov-produk-per-halaman/final.mp4"
     ],
     "catatan": "versi 25 Nov (edge-tts Ardi, isi 45% atas) - JANGAN diunggah"
-   }
+   },
+   "tayang": {
+    "instagram": {
+     "media_id": "18055096523812535"
+    },
+    "youtube": {
+     "url": "https://www.youtube.com/watch?v=-lnwxJFEws4",
+     "privasi": "publik"
+    },
+    "tiktok": {
+     "url": "https://www.tiktok.com/@fast4project/video/7712417870117981460",
+     "privasi": "publik",
+     "catatan": "completed = terkirim; Felix cek di aplikasi apakah publik"
+    },
+    "tanggal": "2026-11-26",
+    "versi": "final-v2.mp4 (VO Liam + CTA follow + subtitle)"
+   },
+   "variabel_uji": "Rombak dari referensi ref4 + CTA follow + subtitle + tanpa efek pop (banyak variabel berubah sekaligus; penyebab tidak bisa dipisah).",
+   "hipotesis": "IG skip 3 dtk < 55% (baseline 64,4%); komentar berisi satu angka >= 1 per platform; follow naik dibanding Reels tanpa CTA."
   },
   {
    "format": "reels",
@@ -505,7 +523,7 @@
   },
   {
    "agent": "A6",
-   "tugas": "Kam 26 Nov: rombak ulang Reels produk-per-halaman dari referensi ref4 + CTA follow (final-v2.mp4, VO Liam)",
+   "tugas": "Kam 26 Nov: rombak ulang Reels produk-per-halaman + CTA follow + subtitle, lalu unggah ke Instagram, YouTube, TikTok atas konfirmasi Felix",
    "bukti": "video/2026-11-26-produk-per-halaman/final-v2.mp4",
    "status": "selesai"
   }
