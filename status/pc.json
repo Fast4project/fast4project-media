@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-26T18:33:14+07:00",
+ "diperbarui": "2026-11-26T20:15:57+07:00",
  "jalan": "uji pasang-laporan-rombak",
  "item": [],
  "rombak": [
@@ -10,7 +10,7 @@
    "skema": "sementara (menunggu B25)",
    "perangkat": "pc",
    "alat": {
-    "scenedetect": "tidak terpasang",
+    "scenedetect": "0.7.3",
     "ffmpeg": "9.0.2-full_build-www.gyan.dev",
     "ffprobe": "9.0.2-full_build-www.gyan.dev",
     "referensi_gaya": {
@@ -23,7 +23,7 @@
     "koordinasi_perangkat": "ok",
     "unggah_media_status": "ok"
    },
-   "diperbarui": "2026-11-26T18:33:14+07:00"
+   "diperbarui": "2026-11-26T20:15:57+07:00"
   }
  ],
  "catatan": [
