@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-27T15:46:02+07:00",
+ "diperbarui": "2026-11-27T17:21:15+07:00",
  "jalan": "lanjut A1 rombak v3 carousel nilai-usaha Sab 28 Nov 16.00",
  "item": [
   {
@@ -611,6 +611,107 @@
    ],
    "putaran_qc": 2,
    "felix_menilai": "Ya (27 Nov)"
+  },
+  {
+   "slug": "2026-11-27-landing-page-gulir",
+   "format": "reels",
+   "status": "selesai",
+   "diperbarui": "2026-11-27T17:21:15+07:00",
+   "dokumen": "claude/rombak-2026-11-27-landing-page-gulir.md",
+   "referensi": "@sewabantukm 'Juragan kos' (video/_referensi-gaya; nomor r01-r10 belum dicocokkan, dokumen studi tidak ada di folder kerja)",
+   "bedah": "video/reels-landing-page-gulir/peta-referensi.md",
+   "template_dibedah": "13 Nov kas v4, 18 Nov deck-atau-katalog (7 Nov tidak ada di folder)",
+   "berkas": "video/reels-landing-page-gulir/final.mp4",
+   "url": "https://raw.githubusercontent.com/Fast4project/fast4project-media/df4bf48fc885a15cc95096bfd70720fa1ac21efe/reels-landing-page-gulir/final.mp4",
+   "tahap": [
+    "L1 referensi dipilih",
+    "L2 bedah alat (referensi + 2 template)",
+    "L3 pasangan adegan, kata tidak diubah + kalimat follow B18.30",
+    "L4 daftar jangan-ulang",
+    "VO SiYanto satu tarikan",
+    "L5 adegan + render + campur",
+    "QC uji strip 3 putaran",
+    "L6 tabel selisih",
+    "push final.mp4",
+    "L7 menunggu Felix"
+   ],
+   "tabel_selisih": [
+    {
+     "ukuran": "durasi_dtk",
+     "referensi": 88.7,
+     "target": "28-30",
+     "hasil": 29.5
+    },
+    {
+     "ukuran": "isi_layar_rata_persen (alat PC)",
+     "referensi": 89.7,
+     "tpl13": 20.0,
+     "tpl18": 21.3,
+     "target": ">=25",
+     "hasil": 61.1
+    },
+    {
+     "ukuran": "isi_frame0_persen",
+     "referensi": 88.9,
+     "target": ">20",
+     "hasil": 60.3
+    },
+    {
+     "ukuran": "perubahan_besar_per10",
+     "referensi": 26.1,
+     "tpl13": 9.3,
+     "tpl18": 8.0,
+     "hasil": 15.6,
+     "catatan": "selisih 40% vs referensi; tidak ditambah (aturan tanpa pop 26 Nov)"
+    },
+    {
+     "ukuran": "diam_terlama_dtk",
+     "referensi": 0.5,
+     "target": "<=1.0",
+     "hasil": 0
+    },
+    {
+     "ukuran": "sfx",
+     "hasil": 27
+    },
+    {
+     "ukuran": "LUFS/LRA/TP",
+     "referensi": "-14.2/1.3/+0.2",
+     "target": "-14±1, peak<=-1",
+     "hasil": "-14.0/4.5/-2.8"
+    },
+    {
+     "ukuran": "hook_dtk",
+     "target": "<=3, frame 0 berisi",
+     "hasil": "frame 0 utuh, VO 0.05"
+    },
+    {
+     "ukuran": "ajakan_simpan_dtk",
+     "target": "<12",
+     "hasil": 8.46
+    },
+    {
+     "ukuran": "pemicu_tulis_angkanya_tahan_dtk",
+     "target": ">=3",
+     "hasil": 3.3,
+     "catatan": "tampil 22.86-29.47"
+    },
+    {
+     "ukuran": "pembalik_dtk",
+     "target": "23-25",
+     "hasil": "15.5-19.8",
+     "catatan": "tidak tercapai: urutan VO + kalimat follow"
+    },
+    {
+     "ukuran": "warna",
+     "target": "keluarga D, 3",
+     "hasil": "krem + tinta + merah (+ kuning sorot)"
+    }
+   ],
+   "qc": "cek-tulisan KRITIS 0; cek_luber 0 teks keluar pita; posisi tengah titik berat 50-52% (sisa: pita bawah 5-7% panggung, 26% isi di luar pita tengah); ukur-retensi/cek-format tidak ada di PC",
+   "putaran_qc": 3,
+   "felix_menilai": "Mirip referensi? Ya / Sebagian / Tidak · Mirip kerangka video terbaikmu? Ya / Sebagian / Tidak",
+   "caption": "tidak ditulis perangkat (Manager)"
   }
  ],
  "catatan": [
@@ -627,6 +728,12 @@
    "agent": "A1",
    "tugas": "rombak v3 carousel nilai-usaha",
    "bukti": "carousel/2026-11-28-nilai-usaha/STATUS.md",
+   "status": "selesai"
+  },
+  {
+   "agent": "A6",
+   "tugas": "rombak total video landing-page-gulir (stok)",
+   "bukti": "video/reels-landing-page-gulir/peta-referensi.md",
    "status": "selesai"
   }
  ],
