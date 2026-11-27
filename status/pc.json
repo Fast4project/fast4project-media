@@ -430,6 +430,14 @@
     }
    ],
    "catatan_ukur": "Isi layar tinggi karena tema D krem dengan kartu putih (referensi latar gelap). G3 26% lolos (putaran 1 gagal 42%, diperbaiki gerak latar). Durasi 30,9 dtk karena VO asli; kata tidak dipotong. Kalimat balik di 73% (urutan VO tetap).",
+   "final_v3": {
+    "berkas": "video/2026-11-27-titik-impas/final-v3.mp4",
+    "url": "https://raw.githubusercontent.com/Fast4project/fast4project-media/0e2d4df515fe921c43b11a9d5faef1cf72c1666c/reels-02-des-titik-impas/final-v3.mp4",
+    "perubahan": "CTA follow seperti Reels 26 Nov (permintaan Felix 27 Nov): VO 'Mau tahu selengkapnya, dan yang lain? Follow ya.' sebelum pemicu komentar + tombol FOLLOW ditekan + SFX ding",
+    "durasi": 33.63,
+    "qc": "ukur-retensi 6/6, cek-format 10/11 (F2 durasi), freeze 0, -13,9 LUFS, 34 SFX",
+    "status": "menunggu Felix menonton; belum diunggah; caption belum memuat ajakan follow"
+   },
    "final_v2": {
     "berkas": "video/2026-11-27-titik-impas/final-v2.mp4",
     "md5": "bb1c9bd71c93b4f33917d080a0e892b8",
