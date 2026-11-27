@@ -438,7 +438,15 @@
     "qc": "ukur-retensi 6/6, cek-format 10/11 (F2 durasi), freeze 0, -13,9 LUFS, 34 SFX",
     "caption": "video/2026-11-27-titik-impas/caption-v3.txt (IG, + ajakan follow)",
     "caption_tiktok": "Warungmu harus jual berapa porsi sehari supaya tidak rugi? Tulis angkanya di komentar. Follow ya. Mie Ayam Teras: usaha karangan, angka ilustratif. #umkm #pitchdeck #usahakuliner #tipsusaha",
-    "status": "menunggu Felix menonton; belum diunggah"
+    "status": "tayang",
+    "tayang": {
+     "tanggal": "2026-11-27",
+     "instagram_media_id": "18103663280553040",
+     "youtube": "https://www.youtube.com/watch?v=E9eeVWCl2hU",
+     "tiktok": "https://www.tiktok.com/@fast4project/video/7712740849460776210",
+     "vidiq_post_id": "832d2e93-f9f6-4654-9c88-0bc69ed1247c",
+     "catatan": "dimajukan dari usulan Rab 2 Des atas perintah Felix; pengecualian F2 durasi 33,6 dtk diterima Felix"
+    }
    },
    "final_v2": {
     "berkas": "video/2026-11-27-titik-impas/final-v2.mp4",
