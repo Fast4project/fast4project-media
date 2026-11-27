@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-27T17:44:55+07:00",
+ "diperbarui": "2026-11-27T18:01:55+07:00",
  "jalan": "lanjut A1 rombak v3 carousel nilai-usaha Sab 28 Nov 16.00",
  "item": [
   {
@@ -616,13 +616,13 @@
    "slug": "2026-11-27-landing-page-gulir",
    "format": "reels",
    "status": "selesai",
-   "diperbarui": "2026-11-27T17:44:55+07:00",
+   "diperbarui": "2026-11-27T18:01:55+07:00",
    "dokumen": "claude/rombak-2026-11-27-landing-page-gulir.md",
    "referensi": "@sewabantukm 'Juragan kos' (video/_referensi-gaya; nomor r01-r10 belum dicocokkan, dokumen studi tidak ada di folder kerja)",
    "bedah": "video/reels-landing-page-gulir/peta-referensi.md",
    "template_dibedah": "13 Nov kas v4, 18 Nov deck-atau-katalog (7 Nov tidak ada di folder)",
    "berkas": "video/reels-landing-page-gulir/final.mp4",
-   "url": "https://raw.githubusercontent.com/Fast4project/fast4project-media/b5bf07d394e31f6e5549cce658c0918862d0c8d6/reels-landing-page-gulir/final.mp4",
+   "url": "https://raw.githubusercontent.com/Fast4project/fast4project-media/bc05cc5b2fdd899a5710cfe2a4181631725f271a/reels-landing-page-gulir/final.mp4",
    "tahap": [
     "L1 referensi dipilih",
     "L2 bedah alat (referensi + 2 template)",
@@ -640,7 +640,7 @@
      "ukuran": "durasi_dtk",
      "referensi": 88.7,
      "target": "28-30",
-     "hasil": 29.67
+     "hasil": 28.67
     },
     {
      "ukuran": "isi_layar_rata_persen (alat PC)",
@@ -661,7 +661,7 @@
      "referensi": 26.1,
      "tpl13": 9.3,
      "tpl18": 8.0,
-     "hasil": 15.2,
+     "hasil": 15.7,
      "catatan": "selisih 40% vs referensi; tidak ditambah (aturan tanpa pop 26 Nov)"
     },
     {
@@ -678,7 +678,7 @@
      "ukuran": "LUFS/LRA/TP",
      "referensi": "-14.2/1.3/+0.2",
      "target": "-14±1, peak<=-1",
-     "hasil": "-14.0/3.4/-3.1"
+     "hasil": "-14.0/4.1/-2.9"
     },
     {
      "ukuran": "hook_dtk",
@@ -688,18 +688,18 @@
     {
      "ukuran": "ajakan_simpan_dtk",
      "target": "<12",
-     "hasil": 8.45
+     "hasil": 8.03
     },
     {
-     "ukuran": "pemicu_tulis_checklist_tahan_dtk",
+     "ukuran": "pemicu_tulis_jualan_tahan_dtk",
      "target": ">=3",
-     "hasil": 3.05,
-     "catatan": "tampil 22.47-29.68; kata kunci diketik di kotak komentar"
+     "hasil": 3.3,
+     "catatan": "tampil 21.34-28.64; kata kunci JUALAN diketik di kotak komentar"
     },
     {
      "ukuran": "pembalik_dtk",
      "target": "23-25",
-     "hasil": "14.96-19.56",
+     "hasil": "14.5-18.4",
      "catatan": "tidak tercapai: urutan VO + kalimat follow"
     },
     {
@@ -713,14 +713,15 @@
    "felix_menilai": "Mirip referensi? Ya / Sebagian / Tidak · Mirip kerangka video terbaikmu? Ya / Sebagian / Tidak",
    "caption": "tidak ditulis perangkat (Manager)",
    "revisi_felix_27nov": [
-    "jarak teks pembuka dari kotak panggung dilebarkan (panggung turun ke y 640)",
-    "pemicu komentar diganti penawaran + kata kunci: 'Mau checklist layar pertama untuk halaman usahamu? Tulis checklist di komentar.' (VO satu tarikan baru; kata naskah butir 5 baris 13-14 diganti atas arahan Felix)"
+    "jarak teks pembuka dari kotak panggung dilebarkan",
+    "CTA komentar = penawaran + kata kunci: 'Mau lebih jago jualan online? Tulis jualan di komentar.' (pilihan Felix; VO baris 13-14 diganti atas arahan Felix)",
+    "hook diperkuat meniru pola titik-impas: pengukur SABAR->PERGI bergerak sejak frame 0, 'DI MANA?' menyala merah serentak kata VO; kata hook tidak diubah"
    ]
   }
  ],
  "catatan": [
   "Blok rombak berlabel UJI, skema sementara sampai B25 diterima.",
-  "UNTUK MANAGER (Felix 27 Nov): pemicu komentar di semua brief Agent 6 = penawaran + kata kunci ('Mau <hasil>? Tulis <KATA>'), bukan pertanyaan pengetahuan/angka; penawaran harus nyata dan Felix yang mengirim. Aturan: claude/aturan-permanen.md 27 Nov. Landing-page-gulir butuh checklist layar pertama siap kirim."
+  "UNTUK MANAGER (Felix 27 Nov): pemicu komentar semua brief Agent 6 = penawaran + kata kunci ('Mau <hasil yang diinginkan penjual>? Tulis <KATA> di komentar'), bukan pertanyaan pengetahuan/angka. Penawaran harus nyata, Felix yang mengirim (checklist layar pertama sudah ada di video/reels-landing-page-gulir/checklist/). Hook: pola titik-impas = pertanyaan milik penonton + pengukur bergerak di frame 0. Aturan: claude/aturan-permanen.md 27 Nov."
  ],
  "agen_hari_ini": [
   {
