@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-27T18:34:29+07:00",
+ "diperbarui": "2026-11-27T18:49:54+07:00",
  "jalan": "lanjut A1 rombak v3 carousel nilai-usaha Sab 28 Nov 16.00",
  "item": [
   {
@@ -723,7 +723,8 @@
  "catatan": [
   "Blok rombak berlabel UJI, skema sementara sampai B25 diterima.",
   "UNTUK MANAGER (Felix 27 Nov): pemicu komentar semua brief Agent 6 = penawaran + kata kunci ('Mau <hasil yang diinginkan penjual>? Tulis <KATA> di komentar'), bukan pertanyaan pengetahuan/angka. Penawaran harus nyata, Felix yang mengirim (checklist layar pertama sudah ada (kata kunci video ini: USAHA; penawaran 'jago bikin usaha online') di video/reels-landing-page-gulir/checklist/). Hook: pola titik-impas = pertanyaan milik penonton + pengukur bergerak di frame 0. Aturan: claude/aturan-permanen.md 27 Nov.",
-  "UNTUK MANAGER (Felix 27 Nov): Reels tidak menyebut 'angka ilustratif' di suara atau pil besar; cukup label kecil standar di bawah layar."
+  "UNTUK MANAGER (Felix 27 Nov): Reels tidak menyebut 'angka ilustratif' di suara atau pil besar; cukup label kecil standar di bawah layar.",
+  "UNTUK MANAGER (Felix 27 Nov): TEMPLAT TETAP penutup semua Reels berikutnya = isi -> 'Mau tahu selengkapnya, dan yang lain? Follow ya.' -> 'Mau <hasil lazim penjual>? Tulis <KATA> di komentar.' (bank konteks di claude/aturan-permanen.md 27 Nov). Ingatkan di setiap brief Agent 6; penawaran harus nyata dan bisa dikirim Felix; jangan sebut 'angka ilustratif' di suara/pil."
  ],
  "agen_hari_ini": [
   {
