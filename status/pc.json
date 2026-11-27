@@ -436,7 +436,9 @@
     "perubahan": "CTA follow seperti Reels 26 Nov (permintaan Felix 27 Nov): VO 'Mau tahu selengkapnya, dan yang lain? Follow ya.' sebelum pemicu komentar + tombol FOLLOW ditekan + SFX ding",
     "durasi": 33.63,
     "qc": "ukur-retensi 6/6, cek-format 10/11 (F2 durasi), freeze 0, -13,9 LUFS, 34 SFX",
-    "status": "menunggu Felix menonton; belum diunggah; caption belum memuat ajakan follow"
+    "caption": "video/2026-11-27-titik-impas/caption-v3.txt (IG, + ajakan follow)",
+    "caption_tiktok": "Warungmu harus jual berapa porsi sehari supaya tidak rugi? Tulis angkanya di komentar. Follow ya. Mie Ayam Teras: usaha karangan, angka ilustratif. #umkm #pitchdeck #usahakuliner #tipsusaha",
+    "status": "menunggu Felix menonton; belum diunggah"
    },
    "final_v2": {
     "berkas": "video/2026-11-27-titik-impas/final-v2.mp4",
