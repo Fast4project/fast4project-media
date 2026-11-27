@@ -1,6 +1,6 @@
 {
- "diperbarui": "2026-11-27T14:50:13+07:00",
- "jalan": "lanjut A1 rombak carousel nilai-usaha Sab 28 Nov 16.00",
+ "diperbarui": "2026-11-27T15:46:02+07:00",
+ "jalan": "lanjut A1 rombak v3 carousel nilai-usaha Sab 28 Nov 16.00",
  "item": [
   {
    "antrian_id": "carousel-2026-11-28-nilai-usaha",
@@ -9,10 +9,12 @@
    "jadwal": "2026-11-28T16:00+07:00",
    "status": "siap-unggah",
    "folder_media": "carousel-28-nov-nilai-usaha",
-   "urls": "carousel/2026-11-28-nilai-usaha/urls.json",
-   "qc": "cek_teks 0 KRITIS; tata letak 0 temuan; hook terbaca 270px; sinkron tayang AMAN (BLOKIR alat = kata umum, dibaca)",
+   "urls": "carousel/2026-11-28-nilai-usaha/rombak-v3/urls.json",
+   "qc": "cek_teks 0 KRITIS (ikon koin Rp dicatat sebagai visual); tata letak 0 temuan; hook 270px terbaca; cek-tulisan-manusia caption lolos; cek-overlap BLOKIR alat = kata umum (13 Nov runway, 21 Nov bentuk modal), dibaca: AMAN",
    "copy": "teks dan caption dari dokumen produksi cloud, tidak diubah",
-   "felix": "disetujui 27 Nov; unggah Sab 28 Nov 16.00 (Windsor tidak bisa menjadwalkan)"
+   "felix": "v3 menunggu penilaian dan 'unggah' baru (persetujuan 27 Nov berlaku untuk versi jadi/, bukan v3); tayang Sab 28 Nov 16.00",
+   "versi": "rombak-v3",
+   "caption": "carousel/2026-11-28-nilai-usaha/rombak-v3/caption.txt"
   }
  ],
  "rombak": [
@@ -535,6 +537,80 @@
    ],
    "putaran_qc": 2,
    "felix_menilai": "Mirip referensi? Ya / Sebagian / Tidak"
+  },
+  {
+   "slug": "2026-11-28-nilai-usaha-v3",
+   "format": "carousel",
+   "status": "selesai",
+   "diperbarui": "2026-11-27T15:46:02+07:00",
+   "dokumen": "claude/rombak-2026-11-27-carousel-nilai-usaha-v3.md",
+   "dari": "rombak-v2 (PNG cloud, dibangun ulang sebagai kode bangun_v3.py; v2 tidak disentuh)",
+   "bukti": "carousel/2026-11-28-nilai-usaha/rombak-v3/lembar-kontak.png",
+   "bedah": "carousel/2026-11-28-nilai-usaha/bedah-referensi-v3.md",
+   "tabel_selisih": [
+    {
+     "ukuran": "janji berjumlah slide 1",
+     "v2": "tidak",
+     "target": "ya",
+     "hasil": "ya"
+    },
+    {
+     "ukuran": "ajakan simpan slide 7 + caption",
+     "v2": "tidak",
+     "target": "ya",
+     "hasil": "ya"
+    },
+    {
+     "ukuran": "kosong band tengah slide 2 dan 8 (baris, ukuran pc)",
+     "v2": "55, 54",
+     "target": "<=20",
+     "hasil": "17, 13"
+    },
+    {
+     "ukuran": "rata kosong band tengah 8 slide (ukuran pc)",
+     "v2": 30,
+     "target": "<=12",
+     "hasil": 10
+    },
+    {
+     "ukuran": "koin Rp slide 1 terbaca 270px",
+     "v2": "kecil",
+     "target": "ya",
+     "hasil": "ya (124px)"
+    },
+    {
+     "ukuran": "kata isi maks per slide",
+     "v2": 26,
+     "target": "<=30",
+     "hasil": 26
+    },
+    {
+     "ukuran": "cek_teks / cek-overlap KRITIS",
+     "v2": "belum",
+     "target": 0,
+     "hasil": "0 / BLOKIR alat dibaca AMAN"
+    },
+    {
+     "ukuran": "referensi dibedah slide per slide",
+     "v2": "0 dari 3",
+     "target": "3 dari 3",
+     "hasil": "3 dari 3"
+    },
+    {
+     "ukuran": "warna",
+     "v2": 3,
+     "target": 3,
+     "hasil": 3
+    },
+    {
+     "ukuran": "slide dengan hero dari isi",
+     "v2": 8,
+     "target": 8,
+     "hasil": 8
+    }
+   ],
+   "putaran_qc": 2,
+   "felix_menilai": "Mirip referensi? Ya / Sebagian / Tidak"
   }
  ],
  "catatan": [
@@ -544,6 +620,12 @@
   {
    "agent": "A1",
    "tugas": "rombak carousel nilai-usaha 28 Nov",
+   "bukti": "carousel/2026-11-28-nilai-usaha/STATUS.md",
+   "status": "selesai"
+  },
+  {
+   "agent": "A1",
+   "tugas": "rombak v3 carousel nilai-usaha",
    "bukti": "carousel/2026-11-28-nilai-usaha/STATUS.md",
    "status": "selesai"
   }
