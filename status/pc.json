@@ -12,7 +12,7 @@
    "urls": "carousel/2026-11-28-nilai-usaha/rombak-v3/urls.json",
    "qc": "cek_teks 0 KRITIS (ikon koin Rp dicatat sebagai visual); tata letak 0 temuan; hook 270px terbaca; cek-tulisan-manusia caption lolos; cek-overlap BLOKIR alat = kata umum (13 Nov runway, 21 Nov bentuk modal), dibaca: AMAN",
    "copy": "teks dan caption dari dokumen produksi cloud, tidak diubah",
-   "felix": "v3 menunggu penilaian dan 'unggah' baru (persetujuan 27 Nov berlaku untuk versi jadi/, bukan v3); tayang Sab 28 Nov 16.00",
+   "felix": "v3 mirip referensi: Ya; menunggu 'unggah' untuk v3; tayang Sab 28 Nov 16.00",
    "versi": "rombak-v3",
    "caption": "carousel/2026-11-28-nilai-usaha/rombak-v3/caption.txt"
   }
@@ -610,7 +610,7 @@
     }
    ],
    "putaran_qc": 2,
-   "felix_menilai": "Mirip referensi? Ya / Sebagian / Tidak"
+   "felix_menilai": "Ya (27 Nov)"
   }
  ],
  "catatan": [
