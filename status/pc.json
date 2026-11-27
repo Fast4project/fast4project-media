@@ -1,7 +1,19 @@
 {
- "diperbarui": "2026-11-27T09:59:38+07:00",
- "jalan": "lanjut A6 rombak baris-pertama-caption dari r07",
- "item": [],
+ "diperbarui": "2026-11-27T14:50:13+07:00",
+ "jalan": "lanjut A1 rombak carousel nilai-usaha Sab 28 Nov 16.00",
+ "item": [
+  {
+   "antrian_id": "carousel-2026-11-28-nilai-usaha",
+   "format": "carousel",
+   "seri": "S-B",
+   "jadwal": "2026-11-28T16:00+07:00",
+   "status": "siap-unggah",
+   "folder_media": "carousel-28-nov-nilai-usaha",
+   "urls": "carousel/2026-11-28-nilai-usaha/urls.json",
+   "qc": "cek_teks 0 KRITIS; tata letak 0 temuan; hook terbaca 270px; sinkron tayang AMAN (BLOKIR alat = kata umum, dibaca)",
+   "copy": "teks dan caption dari dokumen produksi cloud, tidak diubah"
+  }
+ ],
  "rombak": [
   {
    "slug": "2026-11-26-produk-per-halaman",
@@ -472,10 +484,68 @@
    "kata_angka_label_caption": "tidak diubah",
    "caption": "claude/produksi-2026-11-27-titik-impas.md (persis)",
    "pertanyaan": "Mirip referensi? Ya / Sebagian / Tidak. Belum diunggah."
+  },
+  {
+   "slug": "2026-11-28-nilai-usaha",
+   "format": "carousel",
+   "status": "selesai",
+   "diperbarui": "2026-11-27T14:50:13+07:00",
+   "dokumen": "claude/produksi-2026-11-27-carousel-nilai-usaha.md",
+   "bukti": "carousel/2026-11-28-nilai-usaha/jadi/lembar-kontak.png",
+   "hero": "1 uang->donat 20%, 2 layar slide dana, 3 struk pembagian, 4 batang 400+100, 5 jungkat-jungkit, 6 papan centang, 7 kalkulator, 8 kolom komentar",
+   "tabel_selisih": [
+    {
+     "ukuran": "kata_maks_per_slide",
+     "dasar": "±40",
+     "target": "<=55",
+     "hasil": "±40 (teks tidak diubah)"
+    },
+    {
+     "ukuran": "hook_terbaca_270px",
+     "dasar": "ya",
+     "target": "ya",
+     "hasil": "ya"
+    },
+    {
+     "ukuran": "slide_dengan_hero",
+     "dasar": 2,
+     "target": ">=6",
+     "hasil": 8
+    },
+    {
+     "ukuran": "kosong_tengah_persen_piksel",
+     "dasar": 50,
+     "target": "<=10 (skala taksiran cloud)",
+     "hasil": 27,
+     "catatan": "belum mencapai target; slide 5 tertinggi 58"
+    },
+    {
+     "ukuran": "warna",
+     "dasar": 3,
+     "target": 3,
+     "hasil": 3
+    },
+    {
+     "ukuran": "cek_teks_kritis",
+     "dasar": "belum dicek",
+     "target": 0,
+     "hasil": 0
+    }
+   ],
+   "putaran_qc": 2,
+   "felix_menilai": "Mirip referensi? Ya / Sebagian / Tidak"
   }
  ],
  "catatan": [
   "Blok rombak berlabel UJI, skema sementara sampai B25 diterima."
+ ],
+ "agen_hari_ini": [
+  {
+   "agent": "A1",
+   "tugas": "rombak carousel nilai-usaha 28 Nov",
+   "bukti": "carousel/2026-11-28-nilai-usaha/STATUS.md",
+   "status": "selesai"
+  }
  ],
  "perangkat": "pc"
 }
