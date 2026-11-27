@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-26T21:52:22+07:00",
+ "diperbarui": "2026-11-27T09:59:38+07:00",
  "jalan": "lanjut A6 rombak baris-pertama-caption dari r07",
  "item": [],
  "rombak": [
@@ -288,6 +288,172 @@
     "status": "Felix: tunda semua (26 Nov); konfirmasi lagi Jumat ~19.30",
     "pengecualian": "durasi 38,9 dtk diterima Felix 26 Nov"
    }
+  },
+  {
+   "slug": "2026-11-27-titik-impas",
+   "referensi": "Reels kas-berapa-bulan 13 Nov v4 (video/2026-11-13-kas-berapa-bulan/reels-13-nov-kas-v4.mp4)",
+   "status": "selesai-menunggu-L7",
+   "diperbarui": "2026-11-27T09:59:38+07:00",
+   "tahap": {
+    "L1": {
+     "nama": "referensi",
+     "status": "selesai",
+     "bukti": "video/2026-11-27-titik-impas/peta-referensi.md"
+    },
+    "L2": {
+     "nama": "bedah referensi dengan alat",
+     "status": "selesai",
+     "bukti": "video/2026-11-27-titik-impas/peta-referensi.md"
+    },
+    "L3": {
+     "nama": "pasangan adegan (kata tetap)",
+     "status": "selesai",
+     "bukti": "video/2026-11-27-titik-impas/peta-referensi.md"
+    },
+    "L4": {
+     "nama": "baca rekap, daftar jangan ulang",
+     "status": "selesai",
+     "bukti": "video/2026-11-27-titik-impas/peta-referensi.md"
+    },
+    "L5": {
+     "nama": "adegan baru + VO SiYanto + campur + subtitle",
+     "status": "selesai",
+     "bukti": "video/2026-11-27-titik-impas/adegan-v2.html"
+    },
+    "L6": {
+     "nama": "tabel selisih + push final-v2",
+     "status": "selesai",
+     "bukti": "video/2026-11-27-titik-impas/qc/v2-lembar.jpg",
+     "hasil": {
+      "retensi": "6/6",
+      "cek_format": "10/11 (F2 durasi 30,9)",
+      "freezedetect": 0
+     }
+    },
+    "L7": {
+     "nama": "penilaian Felix (tonton dengan suara)",
+     "status": "menunggu",
+     "bukti": null,
+     "hasil": null
+    }
+   },
+   "tabel_selisih": [
+    {
+     "ukuran": "durasi_dtk",
+     "ref": 25.83,
+     "lama": 28.0,
+     "baru": 30.83
+    },
+    {
+     "ukuran": "isi_layar_rata_persen_alat_pc",
+     "ref": 20.0,
+     "lama": 49.1,
+     "baru": 54.3
+    },
+    {
+     "ukuran": "isi_frame0_persen",
+     "ref": 14.0,
+     "lama": 42.5,
+     "baru": 56.3
+    },
+    {
+     "ukuran": "gerak_rata",
+     "ref": 4.19,
+     "lama": 3.82,
+     "baru": 4.09
+    },
+    {
+     "ukuran": "perubahan_besar_per10",
+     "ref": 9.3,
+     "lama": 3.9,
+     "baru": 9.4
+    },
+    {
+     "ukuran": "diam_terlama_dtk",
+     "ref": 0.83,
+     "lama": 0.33,
+     "baru": 0
+    },
+    {
+     "ukuran": "g1_tenaga_hook_x",
+     "ref": 1.23,
+     "lama": 1.05,
+     "baru": 1.15
+    },
+    {
+     "ukuran": "g3_detik_mati_persen",
+     "ref": 8,
+     "lama": 4,
+     "baru": 26
+    },
+    {
+     "ukuran": "g4_jumlah_adegan",
+     "ref": 8,
+     "lama": 6,
+     "baru": 14
+    },
+    {
+     "ukuran": "lufs",
+     "ref": -14.4,
+     "lama": -14.9,
+     "baru": -13.9
+    },
+    {
+     "ukuran": "lra",
+     "ref": 3.7,
+     "lama": 1.3,
+     "baru": 3.4
+    },
+    {
+     "ukuran": "tp",
+     "ref": -1.8,
+     "lama": -1.5,
+     "baru": -3.1
+    },
+    {
+     "ukuran": "retensi",
+     "ref": "6/6",
+     "lama": "5/6",
+     "baru": "6/6"
+    },
+    {
+     "ukuran": "cek_format",
+     "ref": "11/11",
+     "lama": "10/11",
+     "baru": "10/11"
+    },
+    {
+     "ukuran": "jumlah_sfx",
+     "ref": null,
+     "lama": "sintetis tanpa VO",
+     "baru": 31
+    }
+   ],
+   "catatan_ukur": "Isi layar tinggi karena tema D krem dengan kartu putih (referensi latar gelap). G3 26% lolos (putaran 1 gagal 42%, diperbaiki gerak latar). Durasi 30,9 dtk karena VO asli; kata tidak dipotong. Kalimat balik di 73% (urutan VO tetap).",
+   "final_v2": {
+    "berkas": "video/2026-11-27-titik-impas/final-v2.mp4",
+    "md5": "bb1c9bd71c93b4f33917d080a0e892b8",
+    "byte": 12002373,
+    "url": "https://raw.githubusercontent.com/Fast4project/fast4project-media/7eb9a2732f5775443be42db75bdc82840d168ebd/reels-02-des-titik-impas/final-v2.mp4",
+    "folder_repo": "reels-02-des-titik-impas",
+    "durasi": 30.83,
+    "resolusi": "1080x1920",
+    "fps": 30
+   },
+   "final_v1_tidak_ditimpa": true,
+   "vo": {
+    "suara": "SiYanto erExAgyOw4s9G388S84z",
+    "model": "eleven_multilingual_v2",
+    "setelan": "stab 0,40 sim 0,75 style 0,50 speed 1,08",
+    "tarikan": 1,
+    "naskah": "video/2026-11-27-titik-impas/vo/naskah-vo.txt",
+    "mp3": "video/2026-11-27-titik-impas/vo/vo-penuh.mp3",
+    "transkrip_cocok": "11/11",
+    "didengar_felix": false
+   },
+   "kata_angka_label_caption": "tidak diubah",
+   "caption": "claude/produksi-2026-11-27-titik-impas.md (persis)",
+   "pertanyaan": "Mirip referensi? Ya / Sebagian / Tidak. Belum diunggah."
   }
  ],
  "catatan": [
