@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-28T11:24:07+07:00",
+ "diperbarui": "2026-11-28T17:30:17+07:00",
  "jalan": "lanjut A1 rombak v3 carousel nilai-usaha Sab 28 Nov 16.00",
  "item": [
   {
@@ -878,6 +878,82 @@
    ],
    "dokumen_catatan": "Topik v2 menggantikan 'Warungmu harus jual berapa porsi sehari, supaya untung 2 juta sebulan?' dari dokumen produksi cloud; dokumen cloud tidak diubah",
    "L7": "Felix 28 Nov: Cocok untuk v2 dan v3"
+  },
+  {
+   "slug": "2026-11-28-nilai-usaha-v4",
+   "format": "carousel",
+   "status": "menunggu penilaian Felix",
+   "diperbarui": "2026-11-28T17:30:17+07:00",
+   "seri": "S-B",
+   "dokumen": "video/rombak-2026-11-28-carousel-nilai-usaha-v4.md",
+   "dari": "rombak-v3 (bangun_v4.py memakai kode bangun_v3.py; rombak-v3/ tidak disentuh)",
+   "bukti": "carousel/2026-11-28-nilai-usaha/rombak-v4/lembar-kontak.png",
+   "folder_media": "carousel-nilai-usaha-v4",
+   "urls": "carousel/2026-11-28-nilai-usaha/rombak-v4/urls.json",
+   "tabel_selisih": [
+    {
+     "ukuran": "Hook slide 1 = pertanyaan milik pembaca",
+     "v3": "tidak",
+     "target": "ya",
+     "hasil": "ya (USAHAMU DIHARGAI BERAPA?)"
+    },
+    {
+     "ukuran": "Kata judul slide 1",
+     "v3": 5,
+     "target": 3,
+     "hasil": 3
+    },
+    {
+     "ukuran": "Kicker slide 1 berupa konteks pembaca",
+     "v3": "tidak (kode seri)",
+     "target": "ya",
+     "hasil": "ya (MAU CARI MODAL?)"
+    },
+    {
+     "ukuran": "Jumlah CTA di slide",
+     "v3": 2,
+     "target": 1,
+     "hasil": "1 (simpan, slide 8)"
+    },
+    {
+     "ukuran": "Penunjuk lanjut menyebut isi",
+     "v3": "tidak",
+     "target": "ya",
+     "hasil": "ya (3 langkahnya →)"
+    },
+    {
+     "ukuran": "'kami' di slide",
+     "v3": 1,
+     "target": 0,
+     "hasil": 0
+    },
+    {
+     "ukuran": "Kosong band tengah slide 7 dan 8 (baris 30px, y 470-1200)",
+     "v3": "0, 8",
+     "target": "<=20",
+     "hasil": "4, 8 (rata 8 slide: 6)"
+    },
+    {
+     "ukuran": "Angka berubah",
+     "v3": "-",
+     "target": 0,
+     "hasil": 0
+    },
+    {
+     "ukuran": "cek_teks / cek-overlap KRITIS",
+     "v3": 0,
+     "target": 0,
+     "hasil": "cek_teks 1 KRITIS: kata 'harga' slide 4 (teks butir 5 persis; konteks nilai usaha, bukan harga jasa) / cek-overlap 4 BLOKIR alat, caption dibaca: AMAN"
+    }
+   ],
+   "cek_kata": "cek-tulisan-manusia slide: lolos; caption: 2 SARAN (kalimat pendek), caption dikunci",
+   "hook_270px": "terbaca (rombak-v4/uji-270px-slide-01.png)",
+   "putaran_qc": 3,
+   "referensi_tambahan": "instagram.com/p/Df6Wz7Ok4Kt tidak dibuka di sesi ini (tidak terbaca); bedah v3 dipakai",
+   "caption_ig": "Nilai usahamu berapa kalau minta modal 100 juta untuk 20% saham? Jawabannya 400 juta hari ini. Menurutku, angka tanpa dasar lebih cepat ditolak daripada persen yang kecil. Simpan rumusnya sebelum menulis slide dana di pitch deck. Angkamu berapa? Tulis di komentar.\n\nRoti Kukus Mekar: usaha karangan untuk portofolio, angka ilustratif.\n\n#pitchdeck #umkm #modalusaha #nilaiusaha #proposalusaha",
+   "caption_tiktok": "Nilai usahamu berapa kalau minta 100 juta untuk 20% saham? Cek 3 langkahnya, simpan rumusnya. Roti Kukus Mekar: usaha karangan, angka ilustratif.\n\n#pitchdeck #umkm #modalusaha #tipsusaha",
+   "felix_menilai": "Mirip referensi? Ya / Sebagian / Tidak",
+   "slot": "belum dipilih (rekomendasi dok: Sel 1 Des 16.00)"
   }
  ],
  "catatan": [
