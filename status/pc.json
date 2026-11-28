@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-28T11:13:21+07:00",
+ "diperbarui": "2026-11-28T11:22:26+07:00",
  "jalan": "lanjut A1 rombak v3 carousel nilai-usaha Sab 28 Nov 16.00",
  "item": [
   {
@@ -27,9 +27,9 @@
    "versi": "final",
    "caption": "video/2026-11-30-target-porsi/caption.txt",
    "caption_tiktok": "video/2026-11-30-target-porsi/caption-tiktok.txt",
-   "qc": "ukur-retensi 6/6 (G1 0,82x); cek-format 10/11 (F2 durasi 31,2); freeze 0; -14,0 LUFS LRA 4,3 TP -2,8; cek-tulisan-manusia KRITIS 0; kata terlarang 0; CTA follow ada; label karangan/ilustratif terlihat; topik v2 'Bisa nggak sih' (opsi 1 Felix)",
-   "copy": "opsi 1 'Bisa nggak sih' dipilih Felix 28 Nov; topik diganti dari dokumen cloud; penawaran TARGET harus nyata sebelum tayang",
-   "felix": "28 Nov: Cocok (setelah menonton v2). Menunggu penawaran TARGET nyata + kata 'unggah'; usul tayang Sen 30 Nov 12.00"
+   "qc": "ukur-retensi 6/6 (G1 0,81x); cek-format 10/11 (F2 durasi 31,9); freeze 0; -14,0 LUFS LRA 4,0 TP -2,7; cek-tulisan-manusia KRITIS 0; kata terlarang 0; CTA follow ada; penutup universal 'Mau untung dari usahamu?'; label karangan/ilustratif terlihat",
+   "copy": "opsi 1 'Bisa nggak sih' (Felix 28 Nov) + penutup 'Mau untung dari usahamu? Mau tahu targetnya?' (koreksi Felix 28 Nov); penawaran TARGET harus nyata sebelum tayang",
+   "felix": "v2 Cocok (28 Nov); v3 (penutup baru) menunggu dilihat dan kata 'unggah'; usul tayang Sen 30 Nov 12.00"
   }
  ],
  "rombak": [
@@ -737,15 +737,15 @@
   {
    "slug": "2026-11-30-target-porsi",
    "format": "reels",
-   "status": "selesai-L7-cocok",
-   "diperbarui": "2026-11-28T11:13:21+07:00",
+   "status": "selesai-menunggu-konfirmasi-felix",
+   "diperbarui": "2026-11-28T11:22:26+07:00",
    "dokumen": "claude/produksi-2026-11-28-target-porsi-dan-carousel-naik-harga.md (bagian A)",
    "referensi": "video/2026-11-27-titik-impas/final-v2.mp4 (arahan B24 L1)",
    "bedah": "video/2026-11-27-titik-impas/peta-referensi.md (dipakai ulang, sesuai arahan L2)",
    "berkas": "video/2026-11-30-target-porsi/final.mp4",
-   "url": "https://raw.githubusercontent.com/Fast4project/fast4project-media/ff77c2739eff0d0b89dd45f525759b491821533f/reels-30-nov-target-porsi/final.mp4",
-   "md5": "838b77cf44575aa03c261ef42da508d2",
-   "byte": 13505169,
+   "url": "https://raw.githubusercontent.com/Fast4project/fast4project-media/dce09a67a2a3b0f4cbeaf5f6afab91565c8f0234/reels-30-nov-target-porsi/final.mp4",
+   "md5": "4b8e10df7b51d33b75d721606809ef95",
+   "byte": 13738595,
    "catatan_bahan": "dasar-tanpa-suara.mp4 cloud tidak ada di perangkat; visual dibangun ulang. v2: VO baru dari API ElevenLabs (kunci PC), waktu kata dari alignment API.",
    "tahap": [
     "L1 referensi titik-impas final-v2",
@@ -763,24 +763,24 @@
      "ukuran": "durasi_dtk",
      "ref_titik_impas_v2": 30.83,
      "dasar_cloud": 31.6,
-     "hasil": 31.17,
-     "catatan": "VO asli 29,57 dtk + 1,6 dtk tahan komentar; F2 (22-28) gagal, sama seperti titik-impas"
+     "hasil": 31.94,
+     "catatan": "VO asli 30,34 dtk + 1,6 dtk tahan komentar; F2 (22-28) gagal, sama seperti titik-impas"
     },
     {
      "ukuran": "isi_layar_rata_persen (alat PC)",
      "ref_titik_impas_v2": 54.3,
      "dasar_cloud": null,
-     "hasil": 47.7
+     "hasil": 47.8
     },
     {
      "ukuran": "isi_frame0_persen",
      "ref_titik_impas_v2": 56.3,
-     "hasil": 53.6
+     "hasil": 53.7
     },
     {
      "ukuran": "perubahan_besar_per10",
      "ref_titik_impas_v2": 9.4,
-     "hasil": 16.4
+     "hasil": 16.9
     },
     {
      "ukuran": "diam_terlama_dtk",
@@ -790,7 +790,7 @@
     {
      "ukuran": "LUFS/LRA/TP",
      "ref_titik_impas_v2": "-13.9/3.4/-3.1",
-     "hasil": "-14.0/4.3/-2.8"
+     "hasil": "-14.0/4.0/-2.7"
     },
     {
      "ukuran": "hook_dtk",
@@ -800,40 +800,40 @@
     {
      "ukuran": "hitung_mulai_dtk (pembagian)",
      "ref_titik_impas_v2": 14.0,
-     "hasil": 14.97,
-     "catatan": "pembagian di 48% durasi; 'Mau untung 2 juta? ... jadi 8 juta' sudah di 11,6"
+     "hasil": 14.52,
+     "catatan": "pembagian di 45% durasi"
     },
     {
      "ukuran": "penawaran_mulai_dtk (pemicu komentar)",
      "ref_titik_impas_v2": 24.9,
-     "hasil": 26.94,
-     "catatan": "CTA follow di 24,64, tombol ditekan 26,45"
+     "hasil": 26.64,
+     "catatan": "CTA follow di 24,09, tombol ditekan 26,45"
     },
     {
      "ukuran": "ukur_retensi",
      "ref_titik_impas_v2": "6/6 (G1 1.14x, G3 26%)",
-     "hasil": "6/6 (G1 0.82x, G3 12%)"
+     "hasil": "6/6 (G1 0.81x, G3 22%)"
     },
     {
      "ukuran": "cek_format",
      "ref_titik_impas_v2": "10/11 (F2)",
-     "hasil": "10/11 (F2 durasi 31,2)"
+     "hasil": "10/11 (F2 durasi 31,9)"
     },
     {
      "ukuran": "jumlah_adegan_G4",
      "ref_titik_impas_v2": 14,
-     "hasil": 18
+     "hasil": 19
     },
     {
      "ukuran": "sfx",
      "ref_titik_impas_v2": 31,
-     "hasil": 38
+     "hasil": 39
     }
    ],
    "catatan_jujur": [
     "cek-posisi-tengah: PERINGATAN mepet kiri/kanan dan pita atas 3-7% berasal dari latar (sinar, garis waktu), sama dengan titik-impas; frame 7,0 dtk 26% isi di luar pita tengah (maks 25%) karena judul",
     "Baris 'rumus: (biaya tetap + target untung) ÷ sisa per porsi ÷ hari buka' di layar penutup adalah teks layar baru (bukan kata VO); diturunkan dari kalimat VO/caption",
-    "G1 hanya 0,82x (lolos min 0,80x, target 1,10x belum); sempat gagal 0,76x, diperbaiki dengan dorongan kamera hook 14%; freeze 0,8 dtk di 19,6 diperbaiki dengan denyut kotak 40 porsi; LRA suara 2,8 diperbaiki dengan kontras gain per baris",
+    "G1 hanya 0,81x (lolos min 0,80x, target 1,10x belum); sempat gagal 0,76x, diperbaiki dengan dorongan kamera hook 14%; freeze 0,8 dtk di 19,6 diperbaiki dengan denyut kotak 40 porsi; LRA suara 2,8 diperbaiki dengan kontras gain per baris",
     "Lafal VO v2 belum didengar manusia; transkrip mesin tidak dijalankan ulang (alignment API cocok dengan naskah)",
     "Chip subtitle disusun dari kata VO"
    ],
@@ -842,12 +842,15 @@
    "mp3_vo": [
     {
      "berkas": "video/2026-11-30-target-porsi/vo/vo-penuh.mp3",
-     "byte": 452692,
-     "versi": "v2 topik baru"
+     "byte": 466067,
+     "versi": "v3 penutup baru"
+    },
+    {
+     "berkas": "video/2026-11-30-target-porsi/v2-warungmu/vo-penuh.mp3",
+     "versi": "v2"
     },
     {
      "berkas": "video/2026-11-30-target-porsi/v1-lama/vo-penuh.mp3",
-     "byte": 510778,
      "versi": "v1 dari riwayat cloud"
     }
    ],
@@ -864,10 +867,17 @@
      "pilihan_copy": "opsi 1 'Bisa nggak sih' (Felix)",
      "ubah": "naskah VO baru 8 baris (hook: Bisa nggak sih, nentuin mau untung berapa dari warungmu? / Bisa. Mulai dari untung yang kamu mau, lalu hitung mundur.), suara SiYanto ditarik ulang 1x (satu tarikan, alignment API), adegan 1-6 dipetakan ulang ke waktu baru, hook: bendera TARGET ? -> TARGETMU + tanda centang + panah 'hitung mundur', caption IG/TikTok baru. Angka tetap: 6 juta, 8 ribu, 2 juta, 8 juta, 1.000, 25, 40, 10.",
      "versi_lama": "video/2026-11-30-target-porsi/v1-lama/ (final.mp4, MP3, naskah, caption)"
+    },
+    {
+     "tanggal": "2026-11-28",
+     "dari": "Felix: 'Mau tahu target warungmu?' menyisihkan yang tidak punya warung; tawarkan hal yang diinginkan banyak orang (jago, mahir, untung dari usaha) dan terapkan di prosedur akhir video",
+     "ubah": "baris VO penutup jadi 'Mau untung dari usahamu? Mau tahu targetnya? Tulis TARGET di komentar.' Suara SiYanto ditarik ulang satu tarikan penuh (naskah penuh, bukan sambungan); judul penutup, subtitle, SFX, caption IG/TikTok diperbarui. Angka dan isi hitungan tidak berubah.",
+     "prosedur": "aturan masuk claude/aturan-permanen.md (3 entri 28 Nov), claude/prosedur-manager-agent6-video.md (A.4 butir 6, A.3b butir 2, daftar periksa), claude/format-video-titik-impas.md",
+     "versi_lama": "video/2026-11-30-target-porsi/v2-warungmu/"
     }
    ],
    "dokumen_catatan": "Topik v2 menggantikan 'Warungmu harus jual berapa porsi sehari, supaya untung 2 juta sebulan?' dari dokumen produksi cloud; dokumen cloud tidak diubah",
-   "L7": "Felix 28 Nov: Cocok"
+   "L7": "Felix 28 Nov: Cocok untuk v2; v3 (penutup baru) menunggu dilihat"
   }
  ],
  "catatan": [
