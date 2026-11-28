@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-28T10:54:43+07:00",
+ "diperbarui": "2026-11-28T11:12:11+07:00",
  "jalan": "lanjut A1 rombak v3 carousel nilai-usaha Sab 28 Nov 16.00",
  "item": [
   {
@@ -27,8 +27,8 @@
    "versi": "final",
    "caption": "video/2026-11-30-target-porsi/caption.txt",
    "caption_tiktok": "video/2026-11-30-target-porsi/caption-tiktok.txt",
-   "qc": "ukur-retensi 6/6 (G1 0,88x); cek-format 10/11 (F2 durasi 32,3); freeze 0; -14,0 LUFS TP -3,2; cek-tulisan-manusia KRITIS 0; kata terlarang 0; CTA follow ada; label karangan/ilustratif terlihat; hook v2 (beda dari titik-impas)",
-   "copy": "kata VO dan caption dari dokumen produksi cloud, tidak diubah; penawaran TARGET harus nyata sebelum tayang",
+   "qc": "ukur-retensi 6/6 (G1 0,82x); cek-format 10/11 (F2 durasi 31,2); freeze 0; -14,0 LUFS LRA 4,3 TP -2,8; cek-tulisan-manusia KRITIS 0; kata terlarang 0; CTA follow ada; label karangan/ilustratif terlihat; topik v2 'Bisa nggak sih' (opsi 1 Felix)",
+   "copy": "opsi 1 'Bisa nggak sih' dipilih Felix 28 Nov; topik diganti dari dokumen cloud; penawaran TARGET harus nyata sebelum tayang",
    "felix": "menunggu dengar suara + L7 + konfirmasi 'unggah'"
   }
  ],
@@ -738,15 +738,15 @@
    "slug": "2026-11-30-target-porsi",
    "format": "reels",
    "status": "selesai-menunggu-L7",
-   "diperbarui": "2026-11-28T10:54:43+07:00",
+   "diperbarui": "2026-11-28T11:12:11+07:00",
    "dokumen": "claude/produksi-2026-11-28-target-porsi-dan-carousel-naik-harga.md (bagian A)",
    "referensi": "video/2026-11-27-titik-impas/final-v2.mp4 (arahan B24 L1)",
    "bedah": "video/2026-11-27-titik-impas/peta-referensi.md (dipakai ulang, sesuai arahan L2)",
    "berkas": "video/2026-11-30-target-porsi/final.mp4",
-   "url": "https://raw.githubusercontent.com/Fast4project/fast4project-media/1e1aa7e3cba46c803d590f081ac098ea8b71ee27/reels-30-nov-target-porsi/final.mp4",
-   "md5": "2e6ec8accbdbcef5adc79ae2da8e120f",
-   "byte": 13512602,
-   "catatan_bahan": "dasar-tanpa-suara.mp4 dari cloud TIDAK ada di perangkat (dicari di folder kerja, Downloads, Desktop, Documents). Felix memilih bangun ulang visual: adegan.html baru dengan panggung, ritme, dan gerak titik-impas; 7 adegan dasar cloud tidak dipakai. Naskah VO diambil dari node ElevenLabs (flow 8qVzmQ2oct34uNDWkm6k) dan sama dengan teks di dokumen.",
+   "url": "https://raw.githubusercontent.com/Fast4project/fast4project-media/ff77c2739eff0d0b89dd45f525759b491821533f/reels-30-nov-target-porsi/final.mp4",
+   "md5": "838b77cf44575aa03c261ef42da508d2",
+   "byte": 13505169,
+   "catatan_bahan": "dasar-tanpa-suara.mp4 cloud tidak ada di perangkat; visual dibangun ulang. v2: VO baru dari API ElevenLabs (kunci PC), waktu kata dari alignment API.",
    "tahap": [
     "L1 referensi titik-impas final-v2",
     "L2 bedah (peta titik-impas dipakai ulang)",
@@ -763,24 +763,24 @@
      "ukuran": "durasi_dtk",
      "ref_titik_impas_v2": 30.83,
      "dasar_cloud": 31.6,
-     "hasil": 32.17,
-     "catatan": "VO SiYanto asli 30,79 dtk; kata tidak dipotong; F2 (22-28) gagal, sama seperti titik-impas"
+     "hasil": 31.17,
+     "catatan": "VO asli 29,57 dtk + 1,6 dtk tahan komentar; F2 (22-28) gagal, sama seperti titik-impas"
     },
     {
      "ukuran": "isi_layar_rata_persen (alat PC)",
      "ref_titik_impas_v2": 54.3,
      "dasar_cloud": null,
-     "hasil": 48.4
+     "hasil": 47.7
     },
     {
      "ukuran": "isi_frame0_persen",
      "ref_titik_impas_v2": 56.3,
-     "hasil": 53.4
+     "hasil": 53.6
     },
     {
      "ukuran": "perubahan_besar_per10",
      "ref_titik_impas_v2": 9.4,
-     "hasil": 15.5
+     "hasil": 16.4
     },
     {
      "ukuran": "diam_terlama_dtk",
@@ -790,34 +790,34 @@
     {
      "ukuran": "LUFS/LRA/TP",
      "ref_titik_impas_v2": "-13.9/3.4/-3.1",
-     "hasil": "-14.0/4.3/-3.2"
+     "hasil": "-14.0/4.3/-2.8"
     },
     {
      "ukuran": "hook_dtk",
      "ref_titik_impas_v2": "frame 0 utuh, VO 0.05",
-     "hasil": "frame 0 utuh (judul + batang untung + mangkuk + slot ?), ucapan pertama 0.17, SFX hit 0.00"
+     "hasil": "frame 0 utuh (judul + batang untung + mangkuk + slot ?), ucapan pertama 0.05, SFX hit 0.00"
     },
     {
      "ukuran": "hitung_mulai_dtk (pembagian)",
      "ref_titik_impas_v2": 14.0,
-     "hasil": 15.26,
-     "catatan": "6 juta + 2 juta = 8 juta sudah di 12,16; pembagian di 47% durasi"
+     "hasil": 14.97,
+     "catatan": "pembagian di 48% durasi; 'Mau untung 2 juta? ... jadi 8 juta' sudah di 11,6"
     },
     {
      "ukuran": "penawaran_mulai_dtk (pemicu komentar)",
      "ref_titik_impas_v2": 24.9,
-     "hasil": 27.68,
-     "catatan": "CTA follow di 25,24, tombol ditekan 27,0; versi v2 belum ada CTA follow"
+     "hasil": 26.94,
+     "catatan": "CTA follow di 24,64, tombol ditekan 26,45"
     },
     {
      "ukuran": "ukur_retensi",
      "ref_titik_impas_v2": "6/6 (G1 1.14x, G3 26%)",
-     "hasil": "6/6 (G1 0.88x, G3 21%)"
+     "hasil": "6/6 (G1 0.82x, G3 12%)"
     },
     {
      "ukuran": "cek_format",
      "ref_titik_impas_v2": "10/11 (F2)",
-     "hasil": "10/11 (F2 durasi 32,3)"
+     "hasil": "10/11 (F2 durasi 31,2)"
     },
     {
      "ukuran": "jumlah_adegan_G4",
@@ -827,22 +827,28 @@
     {
      "ukuran": "sfx",
      "ref_titik_impas_v2": 31,
-     "hasil": 36
+     "hasil": 38
     }
    ],
    "catatan_jujur": [
-    "G1 sempat gagal 0,76x setelah kartu dibuat bertahap; diperbaiki dengan dorongan kamera hook 4% -> 8,5% (sekarang 0,90x, target 1,10x belum tercapai)",
     "cek-posisi-tengah: PERINGATAN mepet kiri/kanan dan pita atas 3-7% berasal dari latar (sinar, garis waktu), sama dengan titik-impas; frame 7,0 dtk 26% isi di luar pita tengah (maks 25%) karena judul",
     "Baris 'rumus: (biaya tetap + target untung) ÷ sisa per porsi ÷ hari buka' di layar penutup adalah teks layar baru (bukan kata VO); diturunkan dari kalimat VO/caption",
-    "Waktu kata dari faster-whisper, bukan alignment API (MP3 diambil dari riwayat); lafal belum didengar manusia",
-    "Chip subtitle disusun dari kata VO (video dasar cloud tidak ada, chip aslinya tidak terbaca)"
+    "G1 hanya 0,82x (lolos min 0,80x, target 1,10x belum); sempat gagal 0,76x, diperbaiki dengan dorongan kamera hook 14%; freeze 0,8 dtk di 19,6 diperbaiki dengan denyut kotak 40 porsi; LRA suara 2,8 diperbaiki dengan kontras gain per baris",
+    "Lafal VO v2 belum didengar manusia; transkrip mesin tidak dijalankan ulang (alignment API cocok dengan naskah)",
+    "Chip subtitle disusun dari kata VO"
    ],
    "caption": "video/2026-11-30-target-porsi/caption.txt",
    "caption_tiktok": "video/2026-11-30-target-porsi/caption-tiktok.txt",
    "mp3_vo": [
     {
      "berkas": "video/2026-11-30-target-porsi/vo/vo-penuh.mp3",
-     "byte": 510778
+     "byte": 452692,
+     "versi": "v2 topik baru"
+    },
+    {
+     "berkas": "video/2026-11-30-target-porsi/v1-lama/vo-penuh.mp3",
+     "byte": 510778,
+     "versi": "v1 dari riwayat cloud"
     }
    ],
    "unggah": "BELUM. Menunggu Felix (L7 'Mirip referensi? Ya / Sebagian / Tidak', dengar suara, konfirmasi penawaran TARGET nyata)",
@@ -851,8 +857,16 @@
      "tanggal": "2026-11-28",
      "dari": "Felix: hook visual terlalu mirip konten kemarin",
      "ubah": "adegan 1 saja: pengukur RUGI-UNTUNG + hitung porsi diganti batang 'untung bulan ini' menuju bendera TARGET 2 JUTA, mangkuk terisi satu per satu, slot sisa '?'; kartu hook kuning muda; judul 'UNTUNG 2 JUTA, / JUAL BERAPA PORSI?' + 'porsi sehari, untung sebulan'. VO, angka, adegan 2-6 tidak berubah. Versi hook lama: qc/adegan-hook-v1.html"
+    },
+    {
+     "tanggal": "2026-11-28",
+     "dari": "Felix: topik diganti, tetap relevan tapi pertanyaan lebih lazim: \"bisa nggak? nentuin mau dapet untung berapa dari bikin warung?\"",
+     "pilihan_copy": "opsi 1 'Bisa nggak sih' (Felix)",
+     "ubah": "naskah VO baru 8 baris (hook: Bisa nggak sih, nentuin mau untung berapa dari warungmu? / Bisa. Mulai dari untung yang kamu mau, lalu hitung mundur.), suara SiYanto ditarik ulang 1x (satu tarikan, alignment API), adegan 1-6 dipetakan ulang ke waktu baru, hook: bendera TARGET ? -> TARGETMU + tanda centang + panah 'hitung mundur', caption IG/TikTok baru. Angka tetap: 6 juta, 8 ribu, 2 juta, 8 juta, 1.000, 25, 40, 10.",
+     "versi_lama": "video/2026-11-30-target-porsi/v1-lama/ (final.mp4, MP3, naskah, caption)"
     }
-   ]
+   ],
+   "dokumen_catatan": "Topik v2 menggantikan 'Warungmu harus jual berapa porsi sehari, supaya untung 2 juta sebulan?' dari dokumen produksi cloud; dokumen cloud tidak diubah"
   }
  ],
  "catatan": [
