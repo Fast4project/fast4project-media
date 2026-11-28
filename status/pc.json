@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-28T07:52:55+07:00",
+ "diperbarui": "2026-11-28T10:40:57+07:00",
  "jalan": "lanjut A1 rombak v3 carousel nilai-usaha Sab 28 Nov 16.00",
  "item": [
   {
@@ -15,6 +15,21 @@
    "felix": "v3 mirip referensi: Ya; menunggu 'unggah' untuk v3; tayang Sab 28 Nov 16.00",
    "versi": "rombak-v3",
    "caption": "carousel/2026-11-28-nilai-usaha/rombak-v3/caption.txt"
+  },
+  {
+   "antrian_id": "reels-2026-11-30-target-porsi",
+   "format": "reels",
+   "seri": "S-D",
+   "jadwal": "2026-11-30T12:00+07:00",
+   "status": "siap-unggah",
+   "folder_media": "reels-30-nov-target-porsi",
+   "urls": "video/2026-11-30-target-porsi/url.json",
+   "versi": "final",
+   "caption": "video/2026-11-30-target-porsi/caption.txt",
+   "caption_tiktok": "video/2026-11-30-target-porsi/caption-tiktok.txt",
+   "qc": "ukur-retensi 6/6; cek-format 10/11 (F2 durasi 32,3); freeze 0; -14,0 LUFS TP -3,2; cek-tulisan-manusia KRITIS 0; kata terlarang 0; CTA follow ada; label karangan/ilustratif terlihat",
+   "copy": "kata VO dan caption dari dokumen produksi cloud, tidak diubah; penawaran TARGET harus nyata sebelum tayang",
+   "felix": "menunggu dengar suara + L7 + konfirmasi 'unggah'"
   }
  ],
  "rombak": [
@@ -718,6 +733,119 @@
     "kalimat suara 'Angka ilustratif.' dan pil besar di layar dihapus (Felix: tidak usah disebut); label kecil standar di bawah layar tetap ada seperti video sebelumnya",
     "CTA komentar = penawaran + kata kunci: 'Mau lebih jago bikin usaha online? Tulis usaha di komentar.' (Felix; bukan 'jualan'); VO baris diganti atas arahan Felix"
    ]
+  },
+  {
+   "slug": "2026-11-30-target-porsi",
+   "format": "reels",
+   "status": "selesai-menunggu-L7",
+   "diperbarui": "2026-11-28T10:40:57+07:00",
+   "dokumen": "claude/produksi-2026-11-28-target-porsi-dan-carousel-naik-harga.md (bagian A)",
+   "referensi": "video/2026-11-27-titik-impas/final-v2.mp4 (arahan B24 L1)",
+   "bedah": "video/2026-11-27-titik-impas/peta-referensi.md (dipakai ulang, sesuai arahan L2)",
+   "berkas": "video/2026-11-30-target-porsi/final.mp4",
+   "url": "https://raw.githubusercontent.com/Fast4project/fast4project-media/527f85266c43b3f3dbd042697fb4c26bcb5a1bb9/reels-30-nov-target-porsi/final.mp4",
+   "md5": "b2fb962fa54190c1366395a38238def8",
+   "byte": 13254971,
+   "catatan_bahan": "dasar-tanpa-suara.mp4 dari cloud TIDAK ada di perangkat (dicari di folder kerja, Downloads, Desktop, Documents). Felix memilih bangun ulang visual: adegan.html baru dengan panggung, ritme, dan gerak titik-impas; 7 adegan dasar cloud tidak dipakai. Naskah VO diambil dari node ElevenLabs (flow 8qVzmQ2oct34uNDWkm6k) dan sama dengan teks di dokumen.",
+   "tahap": [
+    "L1 referensi titik-impas final-v2",
+    "L2 bedah (peta titik-impas dipakai ulang)",
+    "L3 6 adegan: pertanyaan, bahan, target untung, hitung, target penjualan, giliranmu (follow + TARGET); kata VO tidak diubah",
+    "L4 daftar jangan-ulang dipakai (tanpa pop, tanpa definisi di detik 1,5-10, kartu tidak kosong separuh)",
+    "L5 MP3 SiYanto dari riwayat ElevenLabs (tanpa pembuatan ulang), waktu kata faster-whisper, musik beat-pelan, 36 SFX, chip subtitle",
+    "QC uji strip 5 putaran dilihat, ukur-retensi 6/6, cek-format 10/11 (F2 durasi), freeze 0",
+    "L6 tabel selisih",
+    "push final.mp4 (semua URL lolos)",
+    "L7 menunggu Felix"
+   ],
+   "tabel_selisih": [
+    {
+     "ukuran": "durasi_dtk",
+     "ref_titik_impas_v2": 30.83,
+     "dasar_cloud": 31.6,
+     "hasil": 32.17,
+     "catatan": "VO SiYanto asli 30,79 dtk; kata tidak dipotong; F2 (22-28) gagal, sama seperti titik-impas"
+    },
+    {
+     "ukuran": "isi_layar_rata_persen (alat PC)",
+     "ref_titik_impas_v2": 54.3,
+     "dasar_cloud": null,
+     "hasil": 50.3
+    },
+    {
+     "ukuran": "isi_frame0_persen",
+     "ref_titik_impas_v2": 56.3,
+     "hasil": 56.2
+    },
+    {
+     "ukuran": "perubahan_besar_per10",
+     "ref_titik_impas_v2": 9.4,
+     "hasil": 15.9
+    },
+    {
+     "ukuran": "diam_terlama_dtk",
+     "ref_titik_impas_v2": 0,
+     "hasil": 0
+    },
+    {
+     "ukuran": "LUFS/LRA/TP",
+     "ref_titik_impas_v2": "-13.9/3.4/-3.1",
+     "hasil": "-14.0/4.3/-3.2"
+    },
+    {
+     "ukuran": "hook_dtk",
+     "ref_titik_impas_v2": "frame 0 utuh, VO 0.05",
+     "hasil": "frame 0 utuh (judul + pengukur), ucapan pertama 0.17, SFX hit 0.00"
+    },
+    {
+     "ukuran": "hitung_mulai_dtk (pembagian)",
+     "ref_titik_impas_v2": 14.0,
+     "hasil": 15.26,
+     "catatan": "6 juta + 2 juta = 8 juta sudah di 12,16; pembagian di 47% durasi"
+    },
+    {
+     "ukuran": "penawaran_mulai_dtk (pemicu komentar)",
+     "ref_titik_impas_v2": 24.9,
+     "hasil": 27.68,
+     "catatan": "CTA follow di 25,24, tombol ditekan 27,0; versi v2 belum ada CTA follow"
+    },
+    {
+     "ukuran": "ukur_retensi",
+     "ref_titik_impas_v2": "6/6 (G1 1.14x, G3 26%)",
+     "hasil": "6/6 (G1 0.90x, G3 27%)"
+    },
+    {
+     "ukuran": "cek_format",
+     "ref_titik_impas_v2": "10/11 (F2)",
+     "hasil": "10/11 (F2 durasi 32,3)"
+    },
+    {
+     "ukuran": "jumlah_adegan_G4",
+     "ref_titik_impas_v2": 14,
+     "hasil": 18
+    },
+    {
+     "ukuran": "sfx",
+     "ref_titik_impas_v2": 31,
+     "hasil": 36
+    }
+   ],
+   "catatan_jujur": [
+    "G1 sempat gagal 0,76x setelah kartu dibuat bertahap; diperbaiki dengan dorongan kamera hook 4% -> 8,5% (sekarang 0,90x, target 1,10x belum tercapai)",
+    "cek-posisi-tengah: PERINGATAN mepet kiri/kanan dan pita atas 3-7% berasal dari latar (sinar, garis waktu), sama dengan titik-impas; frame 7,0 dtk 26% isi di luar pita tengah (maks 25%) karena judul",
+    "Baris 'rumus: (biaya tetap + target untung) ÷ sisa per porsi ÷ hari buka' di layar penutup adalah teks layar baru (bukan kata VO); diturunkan dari kalimat VO/caption",
+    "Waktu kata dari faster-whisper, bukan alignment API (MP3 diambil dari riwayat); lafal belum didengar manusia",
+    "Chip subtitle disusun dari kata VO (video dasar cloud tidak ada, chip aslinya tidak terbaca)"
+   ],
+   "caption": "video/2026-11-30-target-porsi/caption.txt",
+   "caption_tiktok": "video/2026-11-30-target-porsi/caption-tiktok.txt",
+   "mp3_vo": [
+    {
+     "berkas": "video/2026-11-30-target-porsi/vo/vo-penuh.mp3",
+     "byte": 510778
+    }
+   ],
+   "unggah": "BELUM. Menunggu Felix (L7 'Mirip referensi? Ya / Sebagian / Tidak', dengar suara, konfirmasi penawaran TARGET nyata)"
   }
  ],
  "catatan": [
@@ -744,6 +872,12 @@
    "agent": "A6",
    "tugas": "rombak total video landing-page-gulir (stok)",
    "bukti": "video/reels-landing-page-gulir/peta-referensi.md",
+   "status": "selesai"
+  },
+  {
+   "agent": "A6",
+   "tugas": "rombak video target-porsi (sambungan titik-impas, tayang Sen 30 Nov 12.00)",
+   "bukti": "video/2026-11-30-target-porsi/STATUS.md",
    "status": "selesai"
   }
  ],
