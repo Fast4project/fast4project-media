@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-28T11:22:26+07:00",
+ "diperbarui": "2026-11-28T11:24:07+07:00",
  "jalan": "lanjut A1 rombak v3 carousel nilai-usaha Sab 28 Nov 16.00",
  "item": [
   {
@@ -29,7 +29,7 @@
    "caption_tiktok": "video/2026-11-30-target-porsi/caption-tiktok.txt",
    "qc": "ukur-retensi 6/6 (G1 0,81x); cek-format 10/11 (F2 durasi 31,9); freeze 0; -14,0 LUFS LRA 4,0 TP -2,7; cek-tulisan-manusia KRITIS 0; kata terlarang 0; CTA follow ada; penutup universal 'Mau untung dari usahamu?'; label karangan/ilustratif terlihat",
    "copy": "opsi 1 'Bisa nggak sih' (Felix 28 Nov) + penutup 'Mau untung dari usahamu? Mau tahu targetnya?' (koreksi Felix 28 Nov); penawaran TARGET harus nyata sebelum tayang",
-   "felix": "v2 Cocok (28 Nov); v3 (penutup baru) menunggu dilihat dan kata 'unggah'; usul tayang Sen 30 Nov 12.00"
+   "felix": "v3 (penutup 'Mau untung dari usahamu?') Cocok, 28 Nov. Menunggu penawaran TARGET nyata + kata 'unggah'; usul tayang Sen 30 Nov 12.00"
   }
  ],
  "rombak": [
@@ -737,8 +737,8 @@
   {
    "slug": "2026-11-30-target-porsi",
    "format": "reels",
-   "status": "selesai-menunggu-konfirmasi-felix",
-   "diperbarui": "2026-11-28T11:22:26+07:00",
+   "status": "selesai-L7-cocok",
+   "diperbarui": "2026-11-28T11:24:07+07:00",
    "dokumen": "claude/produksi-2026-11-28-target-porsi-dan-carousel-naik-harga.md (bagian A)",
    "referensi": "video/2026-11-27-titik-impas/final-v2.mp4 (arahan B24 L1)",
    "bedah": "video/2026-11-27-titik-impas/peta-referensi.md (dipakai ulang, sesuai arahan L2)",
@@ -877,7 +877,7 @@
     }
    ],
    "dokumen_catatan": "Topik v2 menggantikan 'Warungmu harus jual berapa porsi sehari, supaya untung 2 juta sebulan?' dari dokumen produksi cloud; dokumen cloud tidak diubah",
-   "L7": "Felix 28 Nov: Cocok untuk v2; v3 (penutup baru) menunggu dilihat"
+   "L7": "Felix 28 Nov: Cocok untuk v2 dan v3"
   }
  ],
  "catatan": [
