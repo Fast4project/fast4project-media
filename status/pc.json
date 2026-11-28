@@ -1,5 +1,5 @@
 {
- "diperbarui": "2026-11-28T10:40:57+07:00",
+ "diperbarui": "2026-11-28T10:54:43+07:00",
  "jalan": "lanjut A1 rombak v3 carousel nilai-usaha Sab 28 Nov 16.00",
  "item": [
   {
@@ -27,7 +27,7 @@
    "versi": "final",
    "caption": "video/2026-11-30-target-porsi/caption.txt",
    "caption_tiktok": "video/2026-11-30-target-porsi/caption-tiktok.txt",
-   "qc": "ukur-retensi 6/6; cek-format 10/11 (F2 durasi 32,3); freeze 0; -14,0 LUFS TP -3,2; cek-tulisan-manusia KRITIS 0; kata terlarang 0; CTA follow ada; label karangan/ilustratif terlihat",
+   "qc": "ukur-retensi 6/6 (G1 0,88x); cek-format 10/11 (F2 durasi 32,3); freeze 0; -14,0 LUFS TP -3,2; cek-tulisan-manusia KRITIS 0; kata terlarang 0; CTA follow ada; label karangan/ilustratif terlihat; hook v2 (beda dari titik-impas)",
    "copy": "kata VO dan caption dari dokumen produksi cloud, tidak diubah; penawaran TARGET harus nyata sebelum tayang",
    "felix": "menunggu dengar suara + L7 + konfirmasi 'unggah'"
   }
@@ -738,14 +738,14 @@
    "slug": "2026-11-30-target-porsi",
    "format": "reels",
    "status": "selesai-menunggu-L7",
-   "diperbarui": "2026-11-28T10:40:57+07:00",
+   "diperbarui": "2026-11-28T10:54:43+07:00",
    "dokumen": "claude/produksi-2026-11-28-target-porsi-dan-carousel-naik-harga.md (bagian A)",
    "referensi": "video/2026-11-27-titik-impas/final-v2.mp4 (arahan B24 L1)",
    "bedah": "video/2026-11-27-titik-impas/peta-referensi.md (dipakai ulang, sesuai arahan L2)",
    "berkas": "video/2026-11-30-target-porsi/final.mp4",
-   "url": "https://raw.githubusercontent.com/Fast4project/fast4project-media/527f85266c43b3f3dbd042697fb4c26bcb5a1bb9/reels-30-nov-target-porsi/final.mp4",
-   "md5": "b2fb962fa54190c1366395a38238def8",
-   "byte": 13254971,
+   "url": "https://raw.githubusercontent.com/Fast4project/fast4project-media/1e1aa7e3cba46c803d590f081ac098ea8b71ee27/reels-30-nov-target-porsi/final.mp4",
+   "md5": "2e6ec8accbdbcef5adc79ae2da8e120f",
+   "byte": 13512602,
    "catatan_bahan": "dasar-tanpa-suara.mp4 dari cloud TIDAK ada di perangkat (dicari di folder kerja, Downloads, Desktop, Documents). Felix memilih bangun ulang visual: adegan.html baru dengan panggung, ritme, dan gerak titik-impas; 7 adegan dasar cloud tidak dipakai. Naskah VO diambil dari node ElevenLabs (flow 8qVzmQ2oct34uNDWkm6k) dan sama dengan teks di dokumen.",
    "tahap": [
     "L1 referensi titik-impas final-v2",
@@ -770,17 +770,17 @@
      "ukuran": "isi_layar_rata_persen (alat PC)",
      "ref_titik_impas_v2": 54.3,
      "dasar_cloud": null,
-     "hasil": 50.3
+     "hasil": 48.4
     },
     {
      "ukuran": "isi_frame0_persen",
      "ref_titik_impas_v2": 56.3,
-     "hasil": 56.2
+     "hasil": 53.4
     },
     {
      "ukuran": "perubahan_besar_per10",
      "ref_titik_impas_v2": 9.4,
-     "hasil": 15.9
+     "hasil": 15.5
     },
     {
      "ukuran": "diam_terlama_dtk",
@@ -795,7 +795,7 @@
     {
      "ukuran": "hook_dtk",
      "ref_titik_impas_v2": "frame 0 utuh, VO 0.05",
-     "hasil": "frame 0 utuh (judul + pengukur), ucapan pertama 0.17, SFX hit 0.00"
+     "hasil": "frame 0 utuh (judul + batang untung + mangkuk + slot ?), ucapan pertama 0.17, SFX hit 0.00"
     },
     {
      "ukuran": "hitung_mulai_dtk (pembagian)",
@@ -812,7 +812,7 @@
     {
      "ukuran": "ukur_retensi",
      "ref_titik_impas_v2": "6/6 (G1 1.14x, G3 26%)",
-     "hasil": "6/6 (G1 0.90x, G3 27%)"
+     "hasil": "6/6 (G1 0.88x, G3 21%)"
     },
     {
      "ukuran": "cek_format",
@@ -845,7 +845,14 @@
      "byte": 510778
     }
    ],
-   "unggah": "BELUM. Menunggu Felix (L7 'Mirip referensi? Ya / Sebagian / Tidak', dengar suara, konfirmasi penawaran TARGET nyata)"
+   "unggah": "BELUM. Menunggu Felix (L7 'Mirip referensi? Ya / Sebagian / Tidak', dengar suara, konfirmasi penawaran TARGET nyata)",
+   "revisi": [
+    {
+     "tanggal": "2026-11-28",
+     "dari": "Felix: hook visual terlalu mirip konten kemarin",
+     "ubah": "adegan 1 saja: pengukur RUGI-UNTUNG + hitung porsi diganti batang 'untung bulan ini' menuju bendera TARGET 2 JUTA, mangkuk terisi satu per satu, slot sisa '?'; kartu hook kuning muda; judul 'UNTUNG 2 JUTA, / JUAL BERAPA PORSI?' + 'porsi sehari, untung sebulan'. VO, angka, adegan 2-6 tidak berubah. Versi hook lama: qc/adegan-hook-v1.html"
+    }
+   ]
   }
  ],
  "catatan": [
